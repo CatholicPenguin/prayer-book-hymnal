@@ -1,9 +1,9 @@
-#PBH
+# PBH
 
 ## Purpose
 The Prayer Book Hymnal is a supplement to the Orthodox BCP (proposed in 2024). It contains the rest of the Feast Days, not included in the BCP. Additionally, the Office propers for all of the Feast Days have been provided, the Hymns set to Gregorian notation. Devotional hymns as well are provided.
 
-##Languages
+## Languages
 LuaLaTeX is used for the Prayer Book Hymnal, except for the Devotional Hymns. The Devotional Hymns are made using ABC, then the PDF is inserted via LaTeX.
 
 ## Textual Bases
