@@ -25,7 +25,7 @@ heightrounded]{geometry}
 %Alternative Section Formatting to Get Better Control
 \usepackage{needspace} %\needspace causes some issue, but I think it can work if it is not initialised in a paracol but by forcing the sectioning to move (thereby moving the content).
 
-\newcommand{\seccy}[1]{ %All sections begin at the top of a page (except for the psalms), so this command is available but unused.
+\newcommand{\seccy}[1]{%All sections begin at the top of a page (except for the psalms), so this command is available but unused.
 \needspace{8\baselineskip}
 \section{#1}}
 
@@ -168,13 +168,16 @@ heightrounded]{geometry}
 \fussy
 \setcounter{lettcount}{0}}
 %Gradual \& Alleluia
-\newcommand{\gradall}[2]{\vspace{1ex}\par\noindent
-\emph{Gradual.} #1\par\noindent
-\emph{Alleluia.} #2}
+\newcommand{\gradall}[2]{\gradual{#1}\par\alleluia{#2}}%\vspace{1ex}\par\noindent
+%\emph{Gradual.} #1\\
+%\par\noindent
+%\emph{Alleluia.} #2}
+
 %Gradual \& Tract
-\newcommand{\gradtr}[2]{\vspace{1ex}\par\noindent
-\emph{Gradual.} #1\par\noindent
-\emph{Tract.} #2}
+\newcommand{\gradtr}[2]{\gradual{#1}\par\tract{#2}}%\vspace{1ex}\par\noindent
+%\emph{Gradual.} #1\\
+%\par\noindent
+%\emph{Tract.} #2}
 
 %Counter to create space from lettrine
 \newcounter{prelett}
@@ -618,30 +621,40 @@ heightrounded]{geometry}
 %\include{pages/Dedication.tex}
 %\include{pages/Daily_Office_Lectionary/LectionaryCover.tex}
 %\include{pages/Daily_Office_Lectionary/Lectionary.tex}
-\include{pages/FrequentPrayers.tex}
+%%\include{pages/FrequentPrayers.tex}
 %\include{pages/Daily_Office/DailyOffice.tex}
 %\include{pages/Daily_Office/AlternativePsalter.tex}
 %\include{pages/Daily_Office/Terce.tex}
 %\include{pages/Daily_Office/Sext.tex}
 %\include{pages/Daily_Office/None.tex}
 %Office Hymns
+
 \include{pages/Daily_Office/DailyHymns.tex}
 \include{pages/Propers/FerialHymns.tex}
+
 %Liturgical Hymns
+
 \include{pages/Daily_Office/LiturgicalHymnsFront.tex}
 \include{pages/Propers/MassParts.tex}
+
 %\include{pages/Holy_Mass/Mass.tex}
 %\include{pages/Holy_Mass/Gregory_2012.tex}
+
 \include{pages/Propers/Devotion.tex}
 \include{pages/Propers/DevotionalHymns.tex}
+
 %\include{pages/Propers/GregoryPropers.tex}
 %\include{pages/Propers/GregoryPropersSeason.tex}
+
 \include{pages/Propers/Propers.tex}
+
 %\include{pages/Propers/HolyWeek.tex}
+
 \include{pages/Propers/PropSeason.tex}
 \include{pages/Propers/PropTime.tex}
 \include{pages/Propers/Commons.tex}
 \include{pages/Propers/Common.tex}
+
 %LATIN:
 %\include{pages/Latin/ForeOfficeLatin.tex}
 %\include{pages/Latin/MattinsLatin.tex}
