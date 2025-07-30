@@ -4,12 +4,13 @@ bindingoffset=5mm,%having an inner margin offset prevents text falling into the 
 inner=20mm,
 outer=20mm,
 top=20mm,
-bottom=20mm,
+bottom=21mm,
 twoside,
 heightrounded]{geometry}
 \frenchspacing %Prevents the silly double space after each sentence
 \usepackage{pifont} %Needed for \ding characters (for the crosses mainly)
 \usepackage{ebgaramond} %Standard open source font
+
 
 %To ensure language compatibility.
 \usepackage[utf8]{inputenc}
@@ -31,6 +32,15 @@ heightrounded]{geometry}
 
 %Headings for the Propers
 \newcommand{\feastday}[1]{\fancyhead[RO,LE]{\textit{#1}}}
+
+%Rank, Date, Name
+\newcommand{\festival}[3]{\par\needspace{8\baselineskip}
+
+\subsection{#2. #3}
+
+\begin{inhead}
+	#1
+\end{inhead}}
 
 %For drawing boxes around unapproved text:
 \usepackage[most]{tcolorbox}
@@ -64,6 +74,11 @@ heightrounded]{geometry}
 \newcommand{\subbysub}[1]{\setcounter{lettcount}{0}%
 \needspace{6\baselineskip}% I have no idea how sectioning affects the calculation of baselineskip.
 \subsubsection{#1}}
+
+
+%For typesetting Memorials
+\newcommand{\subbymemorial}[2]{\needspace{4\baselineskip}%
+\subsection{(#1. #2)}}
 
 %These are commands for when we want the counters reset and some provision made for spacing, but no as much needed by lettrine or other circumstances:
 
@@ -395,7 +410,7 @@ heightrounded]{geometry}
 \newcommand{\evensong}[1]{Evensong} %To allow switch in naming of Vespers and Evensong in lectionary
 
 %For Rubric Colour:
-\definecolor{RubricRed}{RGB}{156, 4, 10}
+\definecolor{RubricRed}{RGB}{145, 4, 10}
 
 %I have found it useful to have different kinds of headings in order to instruct the reader. For mere rubrical notes, which are meant to be in paragraph form, rubric is used. For headings, meant to be short, inhead (instructional heading) is used.
 %Rubric Environments
@@ -619,14 +634,9 @@ heightrounded]{geometry}
 \include{pages/Copyright.tex}
 \include{pages/Preface.tex}
 %\include{pages/Dedication.tex}
-%\include{pages/Daily_Office_Lectionary/LectionaryCover.tex}
-%\include{pages/Daily_Office_Lectionary/Lectionary.tex}
-%%\include{pages/FrequentPrayers.tex}
-%\include{pages/Daily_Office/DailyOffice.tex}
-%\include{pages/Daily_Office/AlternativePsalter.tex}
-%\include{pages/Daily_Office/Terce.tex}
-%\include{pages/Daily_Office/Sext.tex}
-%\include{pages/Daily_Office/None.tex}
+
+%\include{pages/FrequentPrayers.tex}
+
 %Office Hymns
 
 \include{pages/Daily_Office/DailyHymns.tex}
@@ -637,14 +647,8 @@ heightrounded]{geometry}
 \include{pages/Daily_Office/LiturgicalHymnsFront.tex}
 \include{pages/Propers/MassParts.tex}
 
-%\include{pages/Holy_Mass/Mass.tex}
-%\include{pages/Holy_Mass/Gregory_2012.tex}
-
 \include{pages/Propers/Devotion.tex}
 \include{pages/Propers/DevotionalHymns.tex}
-
-%\include{pages/Propers/GregoryPropers.tex}
-%\include{pages/Propers/GregoryPropersSeason.tex}
 
 \include{pages/Propers/Propers.tex}
 
@@ -655,13 +659,8 @@ heightrounded]{geometry}
 \include{pages/Propers/Commons.tex}
 \include{pages/Propers/Common.tex}
 
-%LATIN:
-%\include{pages/Latin/ForeOfficeLatin.tex}
-%\include{pages/Latin/MattinsLatin.tex}
-%\include{pages/Latin/TikhonLatin.tex}
 \cleardoublepage
 \include{pages/HymnIndex.tex}
-%\include{pages/Propers/Tsar.tex}
 \cleardoublepage
 \include{pages/Back.tex}
 \end{document}

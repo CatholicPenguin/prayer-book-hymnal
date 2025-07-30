@@ -3,11 +3,11 @@
 %
 %%pagewidth     15.2400cm
 %%pageheight    22.8600cm
-%%scale		0.550000
+%%scale		0.600000
 %%staffsep	1.60000cm
+%%topmargin 0.5cm
 %%leftmargin 1.5cm
 %%rightmargin 1.5cm
-%%topmargin 0.9cm
 %%botmargin 1cm
 %%exprabove	false
 %%measurebox	false
@@ -43,10 +43,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: D % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] [Q:1/4=110] d | d d A/B/ c | d/c/ B !fermata!A d | c B A B | (G/F/ E) !fermata!D
@@ -283,11 +283,106 @@ W: We've no less days to sing God's praise
 W: Than when we'd first begun.
 
 
+X: 5
+T: General
+T: And did those feet in ancient time
+T: 5
+%%titleformat T-1 + T + T1, C1
+M: 3/4 % time signature
+L: 1/4 % default length
+%%staves S1V0 | {(S1V1 S1V2) (S2V1 S2V2) }
+V: S1V0 clef=treble 
+%
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: D % key signature
+%
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
+%
+% 1
+[V: S1V0] [Q:1/4=60] "^Slow but with animation" z3 | z3 | z3 | 
+[V: S1V1] "^Slow but with animation" [a3/2 f3/2 d3/2] (A/ G3/4F//) | [B3/2 B,3/2] (B/ c/[e/^A/]) | ([e/E/][=d/=D/]) (c/B/) (=A3/4G//) |
+[V: S1V2]  A3/2 [F/(D/] D/)^D/ | [F/^D/](E/ [E/)A][D/(A/] [^B/)G/E/]G/ | [FB] [DF] [D/B,/]E/ | 
+[V: S2V1]  !f! [D3/2F3/2F,3/2A,3/2] !mf! [F,/(D,/] [D,/)G,/]=C/ | z/ [B,,/E,/B,/] !<(! z/ [B,,/^D,/B,/] z/ !<)! [^G,/A,/E/] | !ff! z/ !>(! (F,/ C/)B,/ !>)! =A,3/4G,// | 
+[V: S2V2]  z/ [F,,,/F,,/] [B,,,3/2B,,3/2] [A,,,/A,,/] | [G,,,G,,] [F,,,F,,] [E,,E,,,] | [B,,,B,,] [D,F,] [G,,/D,/]E,/ | 
+%
+[V: S1V0] "^(Solo)" !mf! z z/ D/ F/ A/ | !<(! B3/2 !<)! d/ B/!>(!(A//G//) | !>)! !<(! A2 !<)! B/ A// G// | A/ F/ E D |
+w: 1.~And did those feet in an - cient time Walk up- on Eng- land's moun- tains
+w: 2.~Or does her ghost in mod - ern times Roam on New Eng- land's moor- land
+[V: S1V1] [D3/2F3/2A3/2] D/ F/A/ | [D3/2B3/2] d/ B/A//G// | A2 B/A//G// | !tenuto!A/!tenuto!F/ (E D) | 
+[V: S1V2] A,3/2 [A,/F,/] [D/A,/][E/A,/] | (F G/) ([D/G/] [D/G/]) [D/E/] | [A,/D/F/]F/[C/E/]D/ [B,/D/]D/ | [A,D] [F,2 B,2] |
+[V: S2V1] !mf! [F,A,,] z D,/C,/ | B,,/A,,/ z/ B,/ D, | z/ (A,/G,/F,/) G,/B,/ | D, B,,3/2 A,,/ | 
+[V: S2V2]  D,, [D,,,2 (D,,2] | D,,) [G,,,3/2 G,,3/2] [B,,,/ B,,/] | [D,,2 D,2] [G,, D, G,] | F,, B,,,3/2 A,,,/ | 
+% 5
+[V: S1V0] B,3/2 !p! !<(! D/ F/ A/ | B3/2 !<)! d/ c/ !>(! (B//A//) | B3/2 !>)! B/ c/ F/ | A/ ^G/ F E | 
+w: green? And was the Ho- ly Lamb of_ God On Eng- land's plea- sant pas- tures
+w: snow? Or is the Spir- it of the_ Lord From sea to shin- ing sea be- 
+[V: S1V1 clef=bass] B,3/2 [V: S1V1 clef=treble] (D/ F/)A/ | (B3/2 d/) (c/B//A//) | [D3/2B3/2] [D/ B/] [A/c/]F/ | A/^G/ [A, F] [E G,] |
+[V: S1V2 clef=bass] [G,3/2 D,3/2] [V: S1V2 clef=treble] B,/ [A,/D/][D/F/] | [D/F/][C/E/][E/G/][D/F/] [F/A/][C/F/] | F ^G C | [A,D] C ^C/[B,/D/] |
+[V: S2V1]  G,, G, !p! !<(! F,/E,/ | B,,/E,/ [E,/G,/]!<)![D,/F,/]  !>(! [A,D,] | [F,B,] !>)! ^G, A, | B,, C,/D,/ E, | 
+[V: S2V2]  G,,, G,, F,,/E,,/ | B,,, B,, F,, | B,,2 [A,,C,] | B,,, C,,/D,,/ E,, | 
+% 9
+[V: S1V0] A3/2 !mf! !<(! E/ E/ F/ !<)! | G3/2 B/ A3/4 E// | G3/2 "^poco cresc." E/ G/ A/ | B3/2 d/ =c/ A/ | 
+w: seen? And did the Coun- ten- ance Di- vine Shine forth up- on our cloud- ed 
+w: stowed? Or does the Glo- ry of God's grace Shed out where- in the elm arch 
+[V: S1V1]  [A3/2A,3/2] E/ E/F/ | [G3/2G,3/2] B/ A3/4E// | [E3/2G3/2] [E/B,/] [E/G/][G/A/] | [G3/2B3/2] [A/d/] [G/=c/][F/A/] | 
+[V: S1V2]  [D/F/][C/E/][B,/D/][A,/C/] B,/[^D/A,/] | E/B,/E/=D/ [=C E] | B,3/2 G,/ B,/^C/ | D3/2 F/ E/D/ | 
+[V: S2V1]  A,,3/2 !mf! E,/ E,/B,,/ | z/ B,,/ E,/G,/ [A, E,] | E, "^poco cresc." E,, E, | D,/D,/ [G,/B,/][F,/A,/] [E,/G,/][F,/A,/] |
+[V: S2V2]  A,,,3/2 A,,/ =G,,/F,,/ | [E,,,2 E,,2] A,, | E,, E,,, E,, | D,,2 D, | 
+% 13
+[V: S1V0] B3/2 !f! !<(! G/ B/ d/ !<)! | e3/4 d// c c3/4 B// | A3/2 "^poco rit." A/ d/ B/ | A3/4 B// F E | D2 z | z3 | z3 | 
+w: hills? And was Je- ru- sa- lem build- ed here A- mong these dark Sa- ta- nic mills?
+w: yields? Or is a new Ca- naan foun- ded there De- spite those fair de- mon- ic fields?
+[V: S1V1]  [B3/2D] (G/ [B/)G/][G/d/] | [B3/4e3/4]d// [Ac] [C3/4c3/4][B,//B//] | A3/2 "^poco rit." A/ [F/d/][G/B/] | A/D/ F E | F !>! [a3/2f3/2] A/ | G/F/ [B,B] ([^C3/4^c3/4][E//e//]) | ([E/e/][=D/=d/]) ([C/c/][B,/B/]) (!>!A3/4G//) | 
+[V: S1V2]  A/G/ [B,/D/] [B,/D/] D/D/ | G/F/ E A/E/ | A,/[C/G/][D/F/]E/ D | [A,D] [B,D] [G,C] | [A,D] [A3/2d3/2] [F/(D/] | =D/)[^C/D/] [D/F/]E/ [BG] | [FB] F [B,D] |
+[V: S2V1]  G,,2 !f! !<(! G,/F,/ | !<)! E, A, G, | !tenuto!F,/!tenuto!E,/!tenuto!D,/!tenuto!C,/ !tenuto!B,,/!tenuto!G,,/ | F,, G,, A,, | D, !f! [F,3/2A,3/2F3/2D3/2] [D,/F,/A,/] | !<(! [G,B,]  E,/[G,/B,/] !<)! C |  !ff! B,, !>(! F,  A,3/4!>)!G,//  | 
+[V: S2V2]  G,,,2 G,,/F,,/ | E,, A,, G,, | F,,/E,,/D,,/C,,/ B,,,/G,,,/ | F,,, G,,, A,,, | D,, z/ [F,,,/F,,/] !>! ([B,,,B,,] | [B,,,/B,,/])[A,,,/A,,/] [G,,,G,,] [E,,E,] | B,,, D, [G,,D,] | 
+% 18
+[V: S1V0]  "^(All available voices)" z !mf! !<(! D F/ A/ | B3/2 !<)! !>! d/ !>! B/ (A//G//) | A2 !>! B/ A// G// | A/ F/ E D |
+w: Bring me my bow of burn - ing gold! Bring me my ar- rows of de- 
+w: Swing high sweet Swords: Oh York- town * hill! Swing low sweet Cher- ubs gild- ing 
+[V: S1V1]  [FA] D F/A/ | B3/2 d/ !>! B/A//G// | A2 !>!B/A//G// | A/F/ [CE] [B,D] |
+[V: S1V2]  [A,D] [F,A,] [A,/D/][C/E/] | [B,/D/][C/E/][D/F/][B,/F/] [D/G/][B,/D/] | [A,/D/]E/ G/F/ D/[B,/D/] | [A,D] A,/G,/ F, | 
+[V: S2V1]  [A,,F,] !mf! z !<(! [D,/F,/][C,/E,/] | [B,,D,] D,,/!<)!F,/ G, | F,/(G,/ B,/A,/) B, | D, B,,3/2 A,,/ | 
+[V: S2V2]  D,, !8vb(!!8vb)!D,,2 | D,,, !8vb(!!8vb)!D,,, [B,,,D,,] | [D,,,A,,,] [G,,,D,,] z | F,,, B,,,,3/2 A,,,,/ | 
+%
+[V: S1V0] B,3/2 !<(! D/ F/ A/ | B !<)! !>! d  !>! c/ (B//A//) | B3/2 B/ c/ E/ | A3/4 ^G// F E | 
+w: sire! Bring me my spear! O clouds un - fold! Bring me my Cha- ri- ot of 
+w: slope! Swing high sweet Stars & Stripes, be_ still! Swing low sweet Cha- ri- ots of 
+[V: S1V1 clef=bass]  [D,3/2B,3/2] [V: S1V1 clef=treble] [B,/D/] [D/F/][F/A/] | [DFB] !>! [DBd] !>! [F/A/c/]B//A// | B3/2 B/ [A/c/]F/ | A3/4^G// F E | 
+[V: S1V2 clef=bass]  (A, G,/) [V: S1V2 clef=treble] G,/ A,/D/ | B, F/^G/ C/[C/F/] | [D/F/]E/ F/[D/^G/] C/C/ | [A,D] [A,C] [A,/B,/][^G,/D/] |
+[V: S2V1]  G,,3/2 !<(! D,/ D, | B,, B, !<)! A, | [F,3/2B,3/2] B,,/ A,, | B,, C,/D,/ E, | 
+[V: S2V2]  G,,,,3/2 G,,,/ F,,,/D,,,/ | B,,,, F,,/^G,,/ [F,,,C,,] | B,,,3/2 B,,,,/ A,,,, | B,,,, C,,,/D,,,/ E,,, | 
+%
+[V: S1V0] A3/2 !p! E/ E/ F/ | G3/2 B/ A3/4 E// | G3/2 !<(! E/ G/ A/ | B !<)! !>! d =c/ A/ | 
+w: Fire! I will not cease from men- tal fight; Nor shall my sword sleep in my 
+w: hope! We shall not part with just- borne arms: But wake as one, march hand in 
+[V: S1V1]  [A,3/2A3/2] E/ E/F/ | G3/2 B/ A3/4E// | [E3/2G3/2] E/ [E/G/][G/A/] | B !>! d =c/A/ | 
+[V: S1V2]  [D/F/][C/E/][B,/D/] [A,/C/] B,/[A,/^D/] | [G,3/2E3/2] [=D/E/] [=CE] | [G,3/2B,3/2] [G,/B,/] B,/^C/ | [DG] [G/B/][F/A/] [E/G/][D/F/] |
+[V: S2V1]  A,,3/2 !p! E,/ E,/B,,/ | B,, G, E, | E, !<(! E,, E, | D,/D,/ !<)! D =C/C/ | 
+[V: S2V2]  A,,,,3/2 A,,,/ =G,,,/F,,,/ | E,,, B,,, A,,, | E,,, E,,,, E,,, | D,,, [G,,/B,,/][F,,/A,,/] [E,,/G,,/][D,,/A,,/] |
+%
+[V: S1V0] B3/2 "^allargando" !<(! G/ B/ !<)! d/ | !ff! e3/2 d/ c3/4 B// | A3/2 "^rit." !<(! A/ d/ B/  | !<)!A/ B/ !tenuto! F !tenuto! E | (D6/2 | D) z z | z3 |]
+w: hand Till we have built Je- ru- sa- lem In Eng- land's green and plea- sant land._
+w: hand Un- til we've crossed New Ca- naan's edge: A- mer- i- ca the Prom- ised Land._
+[V: S1V1] [D3/2B3/2] "^allargando" !tenuto![D/G/] !tenuto![G/B/]!tenuto![A/d/] | !tenuto![G3/2B3/2e3/2] [D/B/d/] [C3/4E3/4c3/4]B// | A3/2 "^rit." A/ [F/d/][G/B/] | [D/A/][F/B/] !tenuto!F !tenuto!E | D3/2 D/ [D/F/][E/A/] | [D3/2B3/2] d/ !tenuto!([G/g/].[F//f//].[E//e//]) | [d3f3] |]
+[V: S1V2] A/G/ D/ B,/ D/D/ | E/D/ [C/A/][I:staff +1]B,/ A,/[I:staff -1][C/E/] | [D/F/][C/G/][D/F/]E/ D | A,/[B,/D/] [B,D] [G,C] | [F,3/2A,3/2] [F,/A,/] A,/A,/ | (F G/) D/ [Bd] | [F3A3] |] 
+[V: S2V1] A,/G,/ D,/ !<(! G,,/ G,/!<)!F,/ | !ff! E, A,3/2 G,/ | F,/!<(!E,/D,/C,/ B,,/!<)!G,,/ | F,, G,, A,, | z D,3/2 C,/ | B,,/D,/ G, !<(!!<)!B, | !ff! D,3 |] 
+[V: S2V2] [G,,,3/2D,,3/2] G,,,,/ G,,,/F,,,/ | E,,, !>!(A,,,3/2 G,,,/) | F,,,/E,,,/D,,,/C,,,/ B,,,,/G,,,,/ | F,,,, G,,,, A,,,, | [D,,,,3D,,,3] | z B,,, [G,,,D,,] | D,,,3 |]
 
 X: 6
-T: 6
-T: Be Thou My Vision
 T: General
+T: Be Thou My Vision
+T: 6
 %%titleformat T-1 + T + T1, C1
 M: 3/4 % time signature
 L: 1/4 % default length
@@ -368,10 +463,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: Eb % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] [Q:1/4=90] G/ F/ | E E G/ B/ | F F G/ B/ | c B G/ F/ | E2
@@ -672,10 +767,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: Ab % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] [Q:1/4=80] A | c3/2 B/ A/G/ | A2 A | (A3/2 B/) A/F/ | E2
@@ -784,10 +879,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: Bb % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] [Q:1/4=96] (D/F/) | G3/2 B/ A3/4F// | B/c/ B A | G/A/ G F | D2 (D/F/) | G3/2 B/ A3/4F// |
@@ -899,10 +994,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: G % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] D | G G B | G G B | A A B/A/ | G2 |]
@@ -1072,9 +1167,9 @@ w: Through Christ in his stor- y, thy Christ to the heart.
 
 
 X: 17
-T: General
-T: It Is Well with My Soul
 T: 17
+T: It Is Well with My Soul
+T: General
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
@@ -1627,9 +1722,9 @@ w: re- deem and own, For- giv- ing all trans- gres- * sion.
 
 
 X: 26
-T: General
-T: Praise God from Whom All Blessings Flow 
 T: 26
+T: Praise God from Whom
+T: General
 %%titleformat T-1 + T + T1, C1
 M: none
 L: 1/4 % default length
@@ -1915,10 +2010,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: D % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] [Q:1/4=130] F | F F G F | F2 E D | D B A G | F3
@@ -1978,6 +2073,63 @@ W:There, past the border mountains,
 W:Where in sweet vales the Bride
 W:With thee by living fountains
 W:Forever shall abide!
+
+X: 31
+T: 31
+T: The King of Love My Shepherd Is
+T: General
+%%titleformat T-1 + T + T1, C1
+M: 3/4 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: D % key signature
+%
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
+%
+% 1
+[V: S1V1] [Q:1/4=116] D/E/ | F2 G | A2 G/A/ | F2 E | D2 D/E/ | F2 G | 
+w: 1.~The * King of love my * shep- herd is, whose * good- ness
+w: 2.~Where * streams of li- ving * wa- ter flow, my * ran- somed
+w: 3.~Per - verse and fool- ish, * oft I strayed, but * yet in
+w: 4.~In * death's dark vale I * fear no ill, with * thee, dear
+w: 5.~Thou * spreadst a ta- ble * in my sight; thy * un- ction 
+w: 6.~And * so through all the * length of days, thy * good- ness 
+[V: S1V2]  A, | D2 D | (D C) D/E/ | D2 C | B,2 D | D2 D | 
+[V: S2V1]  F,/G,/ | A,2 G, | E,2 D,/A,/ | A,2 A,/G,/ | F,2 F,/G,/ | (A, C) B, | 
+[V: S2V2]  D, | (D, C,) B,, | A,,2 B,,/C,/ | D, (F,, A,,) | B,,2 B,, | A,,2 G,, | 
+% 5
+[V: S1V1] A2 (3G/A/B/ | A3 | A2 A | d2 B | A2 G | 
+w: fail- eth * * ne- ver. I no- thing lack if
+w: soul he * * lead- eth; and where the ver- dant
+w: love he * * sought me; and on his shoul- der
+w: Lord, be - - side me; thy rod and staff my 
+w: grace be - - stow- eth; and oh, what trans- port 
+w: fail- eth * * ne- ver; Good Shep- herd, may I 
+[V: S1V2]  (D C) B, | D2 E | F2 F/E/ | D2 E | (F D) B, | 
+[V: S2V1]  A,2 D, | (F,2 G,) | A,2 A, | (A, G,) G, | F,2 G, | 
+[V: S2V2]  F,,2 G,, | D,3 | D,2 D,/C,/ | B,,2 C, | D,2 E, | 
+% 5
+[V: S1V1] F2 E | D2 F | A2 G | F2 E | D3 | D2 |]
+w: I am his, and he is mine for e- ver.
+w: pas- tures grow, with food ce-le- stial feed- eth.
+w: gent- ly laid, and home, re- joic- ing, brought me.
+w: com- fort still, thy cross be- fore to guide me.
+w: of de- light from thy pure cha- lice flow- eth!
+w: sing thy praise with- in thy house for e- ver.
+[V: S1V2]  D2 C | B,2 C | (D F) E | (D B,) C | (D2 B,) | A,2 |]
+[V: S2V1]  (A,3/2 B,/) C | D2 C | A,2 B, | A,2 G, | (F,2 G,) | F,2 |]
+[V: S2V2]  (F,3/2 G,/) A, | B,2 A, | (F, F,,) G,, | A,,2 A,, | D,3 | D,2 |]
+% 5
 
 X: 32
 T: 32
@@ -2176,6 +2328,64 @@ W: 6. He who Jesus' mercy knows, Is from wrath and envy freed;
 W: Love unto our neighbor shows That we are his flock indeed;
 W: Thus we may in all our ways Show forth our Redeemer's praise.
 
+X: 35
+T: 35
+T: Ye Watchers and Ye Holy Ones
+T: General
+%%titleformat T-1 + T + T1, C1
+M: 3/2 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: Cm % key signature
+%
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
+%
+% 1
+[V: S1V1] [Q:1/4=139] E2 | E F G E G A | B4 E2 | E [DF] G E G A | 
+w: 1.~Ye wa- tchers and ye ho- ly ones, bright se- raphs, che- ru- bim, and 
+w: 2.~O high- er than the che- ru- bim, more glor- ious than the ser- a- 
+w: 3.~Re- spond, ye souls in end- less rest, ye pa- tri- archs and pro- phets 
+w: 4.~O friends, in glad- ness let us sing, su- per- nal an- thems echo- 
+[V: S1V2] B,2 | E4 E2 | [E2F4] D2 !invisible!z2 |  !invisible!z2 E2 E2 | 
+[V: S2V1] [E,2G,2] | G, A, B, G, C2 | !invisible!z6 | !invisible!z2 B,2 C2 | 
+[V: S2V2] !invisible!z2 | (E,2 E,) E,/D,/ C, F, | [B,,2B,2] B, A, [B,G,] [A,C] | [G,B,] [F,A,] E, D, C, F, | 
+% 5
+[V: S1V1] B4 e d | c2 [G2B2] e d | c2 !fermata!B2 e2 | e B B A G A | 
+w: thrones, raise the glad strain, Al- le- lu- ia! Cry out, do- mi- nions, prince- doms,
+w: phim, lead their prais- es, Al- le- lu- ia! Thou bear- er of th'e- ter- nal
+w: blest, Al- le- lu- ia! Al- le- lu- ia! Ye hol- y twelve, ye mar- tyrs
+w: ing, Al- le- lu- ia! Al- le- lu- ia! To God the Fa- ther, God the
+[V: S1V2] [E2F4] D2 !invisible!z2 | (BA) !invisible!z2 E F | (GF) D2 B A | (G2G) F E2 | 
+[V: S2V1] [B,,2B,2] B, A, [G,E] [G,E] | [A,2E2] [E,2E2] [C,G,] [D,B,] | !invisible!z4 E2 | (E2 E) B, B, A, | 
+[V: S2V2] !invisible!z6 | !invisible!z6 | ([E,B,] [F,=A,]) !invertedfermata![B,,2B,2] G, F, | E, D, C, D, E, C, | 
+% 5
+[V: S1V1] B4 [B2e2] | [EBe] B [EGB] A G A | B4 ||
+w: powers, vir- tues, arch- an- gels, an- gels' choirs:
+w: Word, most gra- cious, mag- ni- fy the Lord:
+w: strong, all saints tri- um- phant, raise the song: 
+w: Son, and God the Spir- it, Three in One:
+[V: S1V2] [E2F4] D2 E F | !invisible!z [DA] !invisible!z E3 | E D G F ||
+[V: S2V1] F,2 B,2 B,2 | (B,2 B,) C D C | B,4 ||
+[V: S2V2] B,,2 B, A, G, A, | G, F, E, !invisible!z B, A, | G, F, E, D, ||
+% 5
+[V: S1V1] "^Refrain"[EA] [EG] | F2 E2 [EA] [EG] | F2 [C2E2] [Ge] [Fd] | c2 [D2B2] e d | c2 B2 [CA] [EG] | F6 | E4 |]
+w: Al- le- lu- ia! Al- le- lu- ia! Al- le- lu- ia! Al- le- lu- ia! Al- le- lu- ia!
+[V: S1V2] !invisible!z2 | (ED) !invisible!z4 |(ED) !invisible!z4 | (GF) !invisible!z2 ([G2B2] | [GB]) ([FA] [FA]) [CG] !invisible!z2 | E2 D4 | B,4 |]
+[V: S2V1] C C | (C B,) B,2 C B, | (C A,) G,2 G, B, | (B, =A,) B,2 [B,2(G,2] | G,) A, F, G, A, B, | [A,2C2] B,2 [B,,2A,2] | [E,4G,4] |]
+[V: S2V2] C, C, | A,,2 G,,2 F,, G,, | (A,, B,,) C,2 C, D, | (C, F,) B,,2 C, D, | E, F, D, =E, F, G, | !invisible!z6 | E,,4 |]
+% 5
+
 X: 36
 T: 36
 T: Come, Thou Long-Expected Jesus
@@ -2353,9 +2563,9 @@ w: Fa- ther done, And Ho- ly Spi- rit, Three in One.
 
 
 X: 39
-T: Advent
-T: Saviour of the Nations Come
 T: 39
+T: Saviour of the Nations Come
+T: Advent
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
@@ -2370,10 +2580,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: Bb % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] [Q:1/4=100] G G F B | A/G/ A G2 | G B c3/2 B/ | c d B2 |
@@ -2458,9 +2668,9 @@ w: Re- peat the hymn a- gain: "To God on high be glo- ry And peace on earth to m
 
 
 X: 41
-T: Christmas
-T: All Praise to Jesus' Hallowed Name
 T: 41
+T: All Praise to Jesus' Hallowed Name
+T: Christmas
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
@@ -2575,9 +2785,9 @@ w:  Glo- * * * * * * * * * * * * * * * ri- a, in ex- cel- sis De- * o!
 
 
 X: 43
-T: Christmas
-T: Away in a Manger
 T: 43
+T: Away in a Manger
+T: Christmas
 %%titleformat T-1 + T + T1, C1
 M: 3/4 % time signature
 L: 1/4 % default length
@@ -3076,9 +3286,9 @@ w: courts of Hea- ven, And to the end- less day!
 [V: S2V2]  B,, F, | C,2 D,2 G,,2 | A,, B,, C,2 C,2 | [F,,3F,3] |]
 
 X: 51
-T: Christmas
-T: O Come, All Ye Faithful
 T: 51
+T: O Come, All Ye Faithful
+T: Christmas
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
@@ -3270,7 +3480,7 @@ w: No- * el, * No- * el, No- * el, No- el, * Born is the King * of Is- * ra- el.
 
 X: 54
 T: 54
-T: To Shepherds as They Watched by Night
+T: To Shepherds as They Watched
 T: Christmas
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
@@ -3318,8 +3528,10 @@ W:  To God forever sing your praise
 W:  With joy and patience all your days.
 
 X: 55
-%%header "Christmas	What Child is This?	55"
-T: 
+T: 55
+T: What Child is This?
+T: Christmas
+%%titleformat T-1 + T + T1, C1
 M: 3/4 % time signature
 L: 1/4 % default length
 %%staves (S1V1 S1V2) | (S2V1 S2V2) 
@@ -3333,10 +3545,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: D % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19
+%%MIDI program 2 19
+%%MIDI program 3 19
+%%MIDI program 4 19
 %
 % 1
 [V: S1V1] [Q:1/4=80]  E/ | G A/ B3/4=c// B/ | A F/ D3/4E// F/ | G E/ E3/4^D// E/ | F3/2 B,
@@ -3427,9 +3639,9 @@ w: There for- ev- er may we sing Al- le- lu- ias to our King!
 [V: S2V2]  G, F, G, G, | F, D, G,2 | C, C, B,, E, | D, D, G,,2 |]
 
 X: 57
-T: Epiphany
-T: Brightest and Best of the Sons of Morning
 T: 57
+T: Brightest and Best of the Sons
+T: Epiphany
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
@@ -3596,6 +3808,279 @@ w: West- ward lead- ing, still pro- ceed- ing, Guide us to thy per- fect light.
 [V: S2V1] B, B,/ | D D/ | E D/ | D D/ | B, B,/ | B, B,/ | G, G,/ | [B,3/2 G,3/2] |]
 [V: S2V2] E, E,/ | D, G,/ | C, G,/ | D, G,/ | G, G,/ | G, G,/ | C, C,/ | G,,3/2 |] 
 
+X: 60
+T: 60
+T: Maker of Earth
+T: Septuagesima
+%%titleformat T-1 + T + T1, C1
+M: 4/4 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: E % key signature
+%
+%%MIDI program 1 19
+%%MIDI program 2 19
+%%MIDI program 3 19
+%%MIDI program 4 19
+%
+% 1
+[V: S1V1] [Q:1/4=66] E2 E F | G A B B | !breath!G2 G2 | c B B ^A | !fermata!B2 ||
+w: 1.~Ma- ker of earth, to thee a- lone Per- pet- ual rest be- longs;
+w: 2.~But we, ah ho- ly now no more! Are doomed to toil and pain;
+w: 3.~Fa- ther, whose pro- mise binds thee still To heal the sup- pliant throng,
+w: 4.~And, while we mourn, in faith to rest Up- on thy love and care,
+w: 5.~O God the Fa- ther, God the Son, And God the Ho- ly Ghost,
+[V: S1V2] B,2 B, C/D/ | E E E D | E2 B,2 | E D C C | D2 ||
+[V: S2V1] G,2 B, A, | B, A, F, F, | G,2 E,2 | G, F, G, C | B,2 ||
+[V: S2V2] E,2 G, F, | E, C, B,, B,, | E,2 E,2 | C, D, E, F, | !invertedfermata!B,,2 ||
+%
+[V: S1V1] B2 G B | c B A G | !breath!F2 G2 | F E E D | !fermata!E2 || E2 E2 |]
+w: And the bright choirs a- round thy throne May pour their end- less songs.
+w: Yet ex- iles on an a- lien shore May sing their count- ry's strain.
+w: Grant us to mourn the deeds of ill That ban- ish us so long;
+w: Till thou re- store us with the blest The song of heav'n to share.
+w: To thee be praise, great Three in One, From thy cre- a- ted host. A- men.
+[V: S1V2] F2 E F/G/ | A G G/F/ E | D2 E2 | C G,/A,/ B, B, | B,2 || C2 B,2 |]
+[V: S2V1] B,2 E =D | C ^D E/B,/ B, | B,2 B,2 | A, E, F, F, | G,2 || A,2 G,2 |]
+[V: S2V2] D,2 E, B,, | A,, B,, C,/D,/ E, | B,,2 E,2 | A,, C, B,, B,, | !invertedfermata!E,2 || A,,2 E,2 |]
+%
+
+X: 61
+T: 61
+T: O Love, How Deep
+T: Septuagesima
+%%titleformat T-1 + T + T1, C1
+M: 4/4 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: D % key signature
+%
+%%MIDI program 1 19
+%%MIDI program 2 19
+%%MIDI program 3 19
+%%MIDI program 4 19
+%
+% 1
+[V: S1V1] [Q:1/4=46] D/E/ | F G A A | G F !fermata!E ||
+w: 1.~O * Love, how deep, how broad, how high!
+w: 2.~He * sent no An- gel to our race
+w: 3.~For * us bap- tised, for us he bore 
+w: 4.~For * us to wick- ed men be- trayed, 
+w: 5.~For * us he rose from death a- gain, 
+w: 6.~All * hon- our, laud, and glor- y be, 
+[V: S1V2] A, | D D D D | D/C/ D C ||
+[V: S2V1] F,/G,/ | A, B, =C B,/A,/ | B, A, A, ||
+[V: S2V2] D, | D, B,, F,, B,, | E,, F,,/G,,/ !invertedfermata! A,, ||
+%
+[V: S1V1] A | B c d c | B ^B !fermata!A ||
+w: How pass- ing thought and fan- ta- sy
+w: Of high- er or of low- er place, 
+w: His ho- ly fast, and hung- ered sore; 
+w: Scourged, mocked, in crown of thorns ar- rayed; 
+w: For us he went on high to reign, 
+w: O Je- su, Vir- gin- born, to thee, 
+[V: S1V2] E | F ^G A/E/ E | F ^G E ||
+[V: S2V1] C | B, E A,/B,/ C | D/C/ B, C ||
+[V: S2V2] A, | ^G, F,/E,/ F,/G,/ A, | D, E, !invertedfermata!A,, ||
+%
+[V: S1V1] A | d c B A | G F !fermata!E ||
+w: That God, the Son of God, should take
+w: But wore the robe of hu- man frame, 
+w: For us temp- ta- tions sharp he knew; 
+w: For us he bore the Cross- 's death; 
+w: For us he sent his Spir- it here 
+w: All glor- y, as is e- ver meet, 
+[V: S1V2] E | F E D/E/ F | E A,/B,/ C ||
+[V: S2V1] C/B,/ | A,/F,/ G,/A,/ B, B, | B,/C/ D A, ||
+[V: S2V2] A,/G,/ | F,/D,/ E,/F,/ G,/F,/ ^E,/^D,/ | E, F,/G,/ !invertedfermata!A, ||
+%
+[V: S1V1] A | G F E/F/ G | F E !fermata!D || D2 D2 |]
+w: Our mor- tal form * for mor- tal's sake.
+w: And he him- self * to this world came.
+w: For us the temp - ter o- ver- threw.
+w: For us at length * gave up his breath.
+w: To guide, to strength - en, and to cheer.
+w: To Fa- ther and * to Par- a- clete. A- men.
+[V: S1V2] F/E/ | D/E/ E/D/ D/C/ D | D C A, || B,2 A,2 |]
+[V: S2V1] C | B,/A,/ A, A, G, | A,3/2 G,/ F, || G,2 F,2 |]
+[V: S2V2] F, | B,,/C,/ D, A,, B,, | A,,/G,,/ A,, !invertedfermata!D, || G,,2 D,2 |]
+%
+
+X: 62
+T: 62
+T: Praise to the Holiest
+T: Septuagesima
+%%titleformat T-1 + T + T1, C1
+M: 3/4 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: Em % key signature
+%
+%%MIDI program 1 19
+%%MIDI program 2 19
+%%MIDI program 3 19
+%%MIDI program 4 19
+%
+% 1
+[V: S1V1] [Q:1/4=80] D G B | d2 c | (Bc) A | G2 ||
+w: 1.~Praise to the Hol- iest in * the height
+w: 2.~O lov- ing wis- dom of * our God!  
+w: 3.~O wis- est love! that flesh * and blood  
+w: 4.~And that a high- er gift * than grace  
+w: 5.~O gen- 'rous love! that he * who smote  
+w: 6.~And in the gar- den se - cret- ly,  
+w: 7.~Praise to the Hol- iest in * the height,
+[V: S1V2] B, D G | (AF) E | (DE) C | B,2 ||
+[V: S2V1] G, B, D | D2 G,/A,/ | (B,G,) F, | G,2 ||
+[V: S2V2] G, G, G, | (F,D,) (E,/F,/) | (G,C,) D, | G,,2 ||
+%
+[V: S1V1] B |(Ad) G | (FG) E | !fermata!D2 ||
+w: And in * the depth * be praise,
+w: When all * was sin * and shame, 
+w: Which did * in A - dam fail, 
+w: Should flesh * and blood * re- fine, 
+w: In Man * for man * the foe, 
+w: And on * the Cross * on high, 
+w: And in *the depth * be praise,
+[V: S1V2] ^C | D2 E | D2 ^C | D2 ||
+[V: S2V1] G, | A,2 B, | A,2 G, | F,2 ||
+[V: S2V2] E, | F,2 G, | A,2 A,, | !invertedfermata!D,2 ||
+%
+[V: S1V1] A | (BA) G | (cB) A | (dc) B | e2 !breath!||
+w: In all * his words * most won - der- ful
+w: A se - cond A - dam to * the fight  
+w: Should strive * a- fresh * a- gainst * their foe,  
+w: God's pre - sence and * his ver - y Self,  
+w: The doub - le a - gon- y * in Man  
+w: Should teach * his breth - ren, and * in- spire  
+w: In all * his words * most won - der- ful,
+[V: S1V2] D | D2 E | C2 D/E/ | =F2 F | E2 ||
+[V: S2V1] F, | (G,F,) E, | (A,G,) F, | (G,A,) B, | G,2 ||
+[V: S2V2] C, | B,,2 E, | A,,2 C, | (B,,A,,) G,, | C,2 ||
+%
+[V: S1V1] d | (Ec) B | (B/A/ G) F | G3 || G2 G2 |]
+w: Most sure * in all * * his ways.
+w: And to * the res - - cue came. 
+w: Should strive * and should * * pre- vail;
+w: And Es - sence all - - di- vine.
+w: For man * should un - - der-go;
+w: To suf - fer and * * to die.
+w: Most sure * in all * * his ways. A- men.
+[V: S1V2] G | (EF) G | (ED) D | D3 || E2 D2 |]
+[V: S2V1] D | C2 D | (CB,) A, | B,3 || C2 B,2 |]
+[V: S2V2] B,, | (B,,A,,) G,, | (C,D,) D, | G,,3 || C,2 G,,2 |]
+%
+
+X: 63
+T: 63
+T: There Is A Book
+T: Septuagesima
+%%titleformat T-1 + T + T1, C1
+M: 4/4 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: F % key signature
+%
+%%MIDI program 1 19
+%%MIDI program 2 19
+%%MIDI program 3 19
+%%MIDI program 4 19
+%
+% 1
+[V: S1V1] [Q:1/4=66] F2 | F E F A | G G F2 || F2 | B A F G | !fermata!A2 ||
+w: 1.~There is a book who runs may read, Which heav- nly truth im- parts,
+w: 2.~The works of God a- bove, be- low, With- in us and a- round,
+w: 3.~The glor- ious sky, em- bra- cing all, Is like the Ma- ker's love, 
+w: 4.~The moon a- bove, the Church be- low, A won- drous race they run; 
+[V: S1V2] C2 | C C C F | F E F2 || C2 | F F F D | E2 ||
+[V: S2V1] A,2 | G, G, A, C | D C/B,/ A,2 || A,2 | B, C D D | ^C2 ||
+[V: S2V2] F,2 | C, C, F, A,, | B,, C, F,,2 | F,2 | D, F, B, B, | !invertedfermata!A,,2 ||
+%
+[V: S1V1] A2 | A B c A | F G A2 || A2 | G F F E | F2 || F2 F2 |]
+w: And all the lore its scho- lars need, Pure eyes and Christ- ian hearts.
+w: Are pa- ges in that book, to show How God him- self is found.
+w: Where- with en- com- passed, great and small In peace and or- der move.
+w: But all their rad- iance, all their glow,  Each bor- rows of its sun.
+[V: S1V2] F2 | F F C C | D E F2 || F2 | E F D C | C2 || D2 C2 |]
+[V: S2V1] =C2 | C B, G, A, | A, C C2 || C2 | C C B,/A,/ G, | A,2 || B,2 A,2 |]
+[V: S2V2] F,2 | F, D, E, F, | D, C, F,2 || F,2 | C, A,, B,, C, | F,,2 ||B,,2 F,,2 |]
+%
+W: 
+W: 
+W: 
+W:5. The Saviour lends the light and heat
+W: That crowns his holy hill; 
+W:The Saints, like stars, around his seat
+W: Perform their courses still.
+W:
+W:6. The Saints above are stars in heaven—
+W:What are the saints on earth? 
+W:Like trees they stand whom God has given,
+W:Our Eden's happy birth.
+W:
+W:7. Faith is their fixed unswerving root,
+W:Hope their unfading flower,   
+W:Fair deeds of charity their fruit,
+W:The glory of their bower.
+W:
+W:8. One name, above all glorious names,
+W:With its ten thousand tongues 
+W:The everlasting sea proclaims,
+W:Echoing angelic songs.  
+W:
+W:9. The raging fire, the roaring wind,
+W:Thy boundless power display; 
+W:But in the gentler breeze we find
+W:Thy Spirit's viewless way.
+W:
+W:10. The raging fire, the roaring wind,
+W:Thy boundless power display; 
+W:But in the gentler breeze we find
+W:Thy Spirit’s viewless way.
+W:
+W:11. Two worlds are ours: 'tis only sin
+W:Forbids us to descry
+W:The mystic heaven and earth within,
+W:Plain as the sea and sky.
+W:
+W:12. Thou, who hast given me eyes to see
+W:And love this sight so fair,
+W:Give me a heart to find out thee,
+W:And read thee everywhere. Amen.
+
+
 X: 64
 T: 64
 T: All, Glory, Laud, and Honour
@@ -3655,9 +4140,9 @@ w: Who in all good de- light-  * est, Thou good and gra- cious King.
 
 
 X: 65
-T: Lent
-T: Lord Who Throughout These Forty Days
 T: 65
+T: Lord Who Throughout These Forty Days
+T: Lent
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
@@ -3699,6 +4184,75 @@ w: An Eas- ter of un- end- ing joy We may at- tain at last.
 [V: S2V2]  F, | F, D, C, C, | D, C, F, F, | C, D, B,, C, | F,3 |]
 % 11
 
+
+X: 66
+T: 66
+T: O Jesu Christ From Thee Began
+T: Lent
+%%titleformat T-1 + T + T1, C1
+M: 4/4 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: F % key signature
+%
+%%MIDI program 1 19 % Piano 1
+%%MIDI program 2 19 % Piano 1
+%%MIDI program 3 19 % Piano 1
+%%MIDI program 4 19 % Piano 1
+%
+% 1
+[V: S1V1] [Q:1/4=58] D2 | A E F D | G/A/ B !fermata!A E ||
+w: 1.~O Je- su Christ, from thee * be- gan This
+w: 2.~That he who fell from high * de- light, Borne
+w: 3.~There- fore be- hold thy Church, * O Lord, And
+w: 4.~For- give the sin that we * have done, For-
+w: 5.~But now let e- very heart * pre- pare, By
+w: 6.~Fa- ther and Son and Spir - it blest, To
+[V: S1V2] A,2 | A, ^C D D | D D D E ||
+[V: S2V1] F,2 | E, A, A, F, | G, G, F, A, ||
+[V: S2V2] D,2 | ^C, A,, D, D,/=C,/ | B,, G,, !invertedfermata!D, ^C, ||
+% 5
+[V: S1V1] F G A/c/ B/A/ | A G !fermata!F A ||
+w: heal- ing for * the * soul of man, By
+w: down to sen - sual * ap- pe- tite, By
+w: grace of pen - i - tence a- ccord To
+w: give the course * that * we have run, And
+w: sa- cri- fice * of * fast and prayer, To
+w: thee be e - very * prayer ad- dress, Who
+[V: S1V2] D E F/A/ G/F/ | F E F F ||
+[V: S2V1] A, C C D | C C/B,/ A, C ||
+[V: S2V2] D, =C, F, B,, | C, C, !invertedfermata!F,, F, ||
+% 5
+[V: S1V1] c A/G/ F G/A/ | B B !fermata!A ^c ||
+w: fast- ing * sought, by * fast- ing found, Through
+w: dint of * stern con - trol may rise To
+w: all who * seek with * gen- erous tears Re-
+w: show hence - forth in * e- vil day Thy-
+w: keep with * joy magn - i- fi- cal The
+w: art in * three- fold * Name a- dored, From
+[V: S1V2] G E F F | F E/D/ ^C E ||
+[V: S2V1] G, A, A, D/C/ | B, E, A, A, ||
+[V: S2V2] E, ^C, D,/=C,/ B,,/A,,/ | G,, G,, !invertedfermata!A,, G, ||
+% 5
+[V: S1V1] d A B A/G/ | F E D || D2 D2 |]
+w: for- ty days of * year- ly round; 
+w: climb the hills of * Par- a- dise.
+w: new- al of their * wast- ed years.
+w: self our suc- cour * and our stay.
+w: so- lemn East- er * fest- i- val.
+w: age to age, the * on- ly Lord. A- men.
+[V: S1V2] D F G D/E/ | D ^C D || B,2 A,2 |]
+[V: S2V1] A, D D D/B,/ | A, G, F, || G,2 =F,2 |]
+[V: S2V2] F, D, G, F,/G,/ | A, A,, !invertedfermata!D, || G,,2 =D,2 |]
+% 5
 
 X: 67
 T: 67
@@ -4274,7 +4828,7 @@ w: days; or- der our ways in thy peace:
 
 X: 74
 T: 74
-T: See, The Lord Ascends In Triumph
+T: See, The Lord Ascends
 T: Ascensiontide
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
@@ -4376,6 +4930,78 @@ w: Glo- ry both in earth and Hea- ven, glo- ry, end- less glo- * ry, be.
 [V: S2V1] B, A, A,/B,/ C | A, G, A, A, | C G, A, A, | A,/C/ B, A,2 |]
 [V: S2V2] E,/D,/ C, D, A,, | F, E, D, A, | C, E, F, D, | E, E, A,,2 |]
 
+X: 75
+T: 75
+T: Sing We Triumphant
+T: Ascension
+%%titleformat T-1 + T + T1, C1
+M: 4/4 % time signature
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%%MIDI beat 127 125 110 1
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
+%%MIDI beat 127 125 110 1
+K: D % key signature
+%
+%%MIDI program 1 19
+%%MIDI program 2 19
+%%MIDI program 3 19
+%%MIDI program 4 19
+%
+% 1
+[V: S1V1] [Q:1/4=76] "^In moderate time, very dignified"A2 A A | A A B B | !fermata!A2 ||
+w: 1.~Sing we tri- umph- ant hymns of praise,
+w: 2.~The hol- y a- po- stol- ic band 
+w: 3.~To whom the An- gels, draw- ing nigh, 
+w: 4.~'A- gain shall ye be- hold him, so 
+w: 5.~O grant us, thi- ther- ward to tend,  
+w: 6.~Be thou our joy and strong de- fence,
+w: 7.~O ri- sen Christ, a- scend- ed Lord,  
+[V: S1V2] D2 D F | E F G G | F2 || 
+[V: S2V1] F,2 A, D | C D D D | D2 ||
+[V: S2V2] D,2 F, G, | A, D, G, G,, | !invertedfermata!D,2 ||
+%
+[V: S1V1] A2 D E | F A G F | E2 ||
+w: New hymns to heav'n ex- ult- ing raise:
+w: U- pon the Mount of O- lives stand, 
+w: 'Why stand and gaze u- pon the sky? 
+w: As ye to- day have seen him go; 
+w: And with un- wear- ied hearts a- scend 
+w: Who art our fu- ture re- com- pense: 
+w: All praise to thee let earth ac- cord, 
+[V: S1V2] D2 D C | D E D D | C2 ||
+[V: S2V1] A,2 F, A, | A, A, D A, | A,2 ||
+[V: S2V2] F,,2 B,, A,, | D, C, B,, D, | !invertedfermata!A,,2 ||
+%
+[V: S1V1] A2 A A | A F B c | !fermata!d2 || 
+w: Christ, by a road be- fore un- trod,
+w: And with the Vir- gin- mo- ther see 
+w: This is the Sav- iour!' thus they say, 
+w: In glor- ious pomp a- scend- ing high, 
+w: To- ward thy king- dom's throne, where thou,
+w: So shall the light that springs from thee 
+w: Who art, while end- less a- ges run,  
+[V: S1V2] D2 D F | E D D F | F2 ||
+[V: S2V1] F,2 A, D | C D B, ^A, | B,2 || 
+[V: S2V2] D,2 F, G, | A, D, G, F, | !invertedfermata!B,,2 ||
+%
+[V: S1V1] G2 A B | A D E E | D2 || D2 D2 |]
+w: Asc- end- eth to the throne of God.
+w: Je- su's re- splend- ent ma- jest- y.
+w: 'This is his no- ble tri- umph- day!'
+w: Up to the port- als of the sky.’
+w: As is our faith, art seat- ed now.
+w: Be ours through all e- tern- it- y.
+w: With Fa- ther and with Spir- it One.   A- men.
+[V: S1V2] (ED) C B, | C D D C | D2 || B,2 A,2 |]
+[V: S2V1] B,2 A, G, | A, A, B, A, | F,2 || G,2 F,2 |]
+[V: S2V2] E,2 F, G, | G,, F,, G,, A,, | D,2 || G,,2 D,2 |]
+%
 
 X: 76
 T: 76
@@ -4397,10 +5023,10 @@ V:S1 clef=treble
 %
 K: F % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 %
@@ -4476,9 +5102,67 @@ w: days; or- der our ways in thy peace:
 [V: S2V2]  D, C, B,, F,,/G,,/ | A,,4 | (D,2 C,2) |]
 % 34
 
+X: 77
+T: 77
+T: Let the Holy Spirit's Grace
+T: Whitsuntide
+%%titleformat T-1 + T + T1, C1
+L: 1/4 % default length
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
+%
+K: C % key signature
+M: C
+%
+%%MIDI program 1 19 % Church Organ 1
+%
+%
+[V: S1V1] D2  A A | A _B A G | A F G A | D D | A A A A | _B A G | A F G A | D D ||
+w: 1.~Let the Ho- ly Spir- it's grace, On our souls de- scend- ing, Guide us on our journ- ey through, Cheer us at its end- ing:
+%
+[V: S1V1] D A A A | _B A G | A F G A | D D | A A A A | _B A G | A F G A | D D ||
+w: He that brood- ed o'er the deep, He whose op- er- a- tion In the Vir- gin's ho- ly womb Wrought the In- carn- a- tion.
+%
+[V: S1V1] C C E E | G G G | A B c B | A A | G A G e | F G F | E D E C | D D ||
+w: 2.~Thus God's truth can ne- ver fail, Nor his pro- mise var- y; And In- carn- ate was the Son, Of the Vir- gin Ma- ry,
+%
+[V: S1V1] C D E C | D E F | E D C D | E E | C D E C | D E F | E D E C | D D ||
+w: La- boured, suf- fered, on the Cross All his Pa- ssion end- ed, Died, was bur- ied, rose- a- gain, And to heav'n a- scend- ed.
+%
+[V: S1V1] A A A A | G F E/D/ | F D F G | A A | D A A A | G F E/D/ | F D E C | D D ||
+w: 3.~Yet he would not leave the Twelve * Or- phans in their sad- ness; But he sent the Ho- ly Ghost * Bring- ing joy and glad- ness;
+%
+[V: S1V1] A A A A | G F E/D/ | F D F G | A A | D A A A | G F E/D/ | F D E C | D D ||
+w: At the hour of Terce, the Lord * End- ed their af- flic- tion, On the day of Pent- e- cost, * With his Ben- e- di- ction.
+%
+[V: S1V1] C C E E | G G G | A B c B | A A | G A G E | F G F | E D E C | D D ||
+w: 4.~They re- ceived the Spir- it's love, And the grac- es sev- en, Which are wont to guide the soul Up from earth to heav- en.
+%
+[V: S1V1] C D E C | D E F | E D C D | E E | C D E C | D E F | E D E C | D D ||
+w: On his strength they thus stood forth, Sin and de- mons sham- ing, And the Cath- o- lic Be- lief E- very- where pro- claim- ing.
+%
+[V: S1V1] A A c c | c c c | c B A B | G G | G A B G | A B G | A G c B | A A ||
+w: 5.~Par- a- clete of Par- a- cletes, Was his ap- pel- la- tion: Com- fort, glad- ness, fire of love, And il- lum- i- na- tion:
+%
+[V: S1V1] A A c c | c c c | c B A B | G G | B c d c | A A F | G A G (3F/E/D/ | F2 A ||
+w: E- very faith- ful Christ- ian heart With his grace re- new- ing, E- very cold and ston- y soul Soft- 'ning and be - - dew- ing.
+%
+[V: S1V1] A A F A | c B (3A/B/c/ | d c B A | G G | F E F D | F G A | c B A F | G G ||
+w: 6.~Fing- er thou of God's right hand, * * Point to us our du- ty: Foun- tain of all love- li- ness, Lead us to all beau- ty:
+%
+[V: S1V1] A A A A | G F E/D/ | F D F G | A A | D A A A | G F E/D/ | F D E C | D D ||
+w: That, pro- tect- ed by thy love, * By thy might de- fend- ed, We may be re- ceived at last * Where all griefs are end- ed.
+%
+[V: S1V1] C C E E | G G G | A B c B | A A | G A G E | F G F | E D E C | D D ||
+w: 7.~O thou bless- ed Par- a- clete, Com- fort, gov- ern, guide me, In my life and through my death What- so- e'er be- tide me:
+%
+[V: S1V1] C D E C | D E F | E D C D | E E | C D E C | D E F | E D E C | D E |]
+w: So that I, with faith and hope, And with love sur- round- ed, In the dread- ful Judge- ment Day May not be con- found- ed.
+%
+
 X: 78
 T: Whitsuntide
-T: Spirit of Mercy, Truth, and Love
+T: Spirit of Mercy
 T: 78
 %%titleformat T-1 + T + T1, C1
 L: 1/4 % default length
@@ -4494,10 +5178,10 @@ V: S2V2
 K: Fb % key signature
 M: C
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] [Q:1/4=92] B | B A G F | E c B || B | e d c B | B ^A B ||
@@ -4582,7 +5266,7 @@ w: A- men, A- men, this be done, So sing we, Hal- le- lu- * jah!
 
 X: 80
 T: 80
-T: Holy God, We Praise Thy Name
+T: Holy God, We Praise
 T: Trinity Sunday
 %%titleformat T-1 + T + T1, C1
 M: 3/4 % time signature
@@ -4973,7 +5657,7 @@ w: throne Cre - a- tion bows in won - der And owns your rule a- lone.
 
 X: 85
 T: 85
-T: We All Believe in One True God
+T: We All Believe
 T: Trinity Sunday
 %%titleformat T-1 + T + T1, C1
 L: 1/4 % default length
@@ -5108,7 +5792,7 @@ W: to see thy glory face to face.
 
 X: 87
 T: Transfiguration
-T: Tis Good, Lord, to Be Here
+T: Tis Good Lord
 T: 87
 %%titleformat T-1 + T + T1, C1
 %%combinevoices 1
@@ -5125,10 +5809,10 @@ V: S2V2
 %%MIDI beat 127 125 110 1
 K: E % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
-%%MIDI program 3 0 % Piano 1
-%%MIDI program 4 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
 [V: S1V1] [Q:1/4=100] E | F A | G F | !fermata!E B | c e | d c | !fermata!B

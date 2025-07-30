@@ -7,7 +7,7 @@
 \GreHeader{initial-style}{1}%
 \GreHeader{centering-scheme}{english}%
 \GreEndHeaders %
-\GreBeginScore{f21e99c71876f0bed8fe063723743dafce99729a}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{51f89defbb8d6125aa1543d497b5cc3a3c60ac66}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -838,9 +838,7 @@
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{11}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
-}{%
-\GrePunctumMora{12}{0}{0}{0}%
-}{}%
+}{}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{nd}{a}{nd}}{}{{0}{0}}{}{%
@@ -2134,9 +2132,7 @@
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
 \GreGlyphHeights{10}{10}%
-}{%
-\GrePunctumMora{10}{0}{0}{0}%
-}{}%
+}{}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{nd}{a}{nd}}{}{{0}{0}}{}{%
@@ -2506,9 +2502,7 @@
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
 \GreGlyphHeights{10}{10}%
-}{%
-\GrePunctumMora{10}{0}{0}{0}%
-}{}%
+}{}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{s}{i}{s}}{}{{0}{0}}{}{%
