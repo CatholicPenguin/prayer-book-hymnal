@@ -4,7 +4,7 @@
 \GreHeader{initial-style}{1}%
 \GreHeader{centering-scheme}{english}%
 \GreEndHeaders %
-\GreBeginScore{093cdd950a606e711880eca4e160eac87e4fe46e}{10}{8}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{bdfdbba8843c42db8955aa47873d469b6a5d263e}{10}{8}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -163,7 +163,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{wh}{o}{m}{w}{hom}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{st}{a}{ndeth}{s}{tandeth}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{wh}{o}{m}{w}{hom}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{st}{a}{nd}{s}{tand}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%
@@ -171,7 +171,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{st}{a}{ndeth}{s}{tandeth}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{ou}{r}{o}{ur}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{st}{a}{nd}{s}{tand}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{e}{th}{e}{th}}{}{{0}{0}}{}{%
+\GreSyllableNoteCount{1}%
+\GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
+{%
+\GreGlyphHeights{10}{10}%
+}{}{}%
+}%
+\GreSyllable{\GreSetThisSyllable{}{e}{th}{e}{th}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{ou}{r}{o}{ur}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%

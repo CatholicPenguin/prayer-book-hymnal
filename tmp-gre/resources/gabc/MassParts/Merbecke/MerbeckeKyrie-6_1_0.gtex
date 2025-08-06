@@ -10,7 +10,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{4b6544f92aa3eae7b12b85ef5631a8a187d559da}{12}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{fb65aa00c993f9dfb1f902859c8516b280809ef5}{12}{8}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -59,7 +59,9 @@
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\GreItalic{ii}}{\GreItalic{j.} }{\GreItalic{i}}{\GreItalic{i}\GreItalic{j.} }}{}{{17}{0}}{}{%
@@ -67,7 +69,9 @@
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{11}{Flat}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
-}{}{}%
+}{%
+\GrePunctumMora{8}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{\GreItalic{ii}}{\GreItalic{j.} }{\GreItalic{i}}{\GreItalic{i}\GreItalic{j.} }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Chr}{i}{st\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{C}{hrist\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{1}}{}{%
@@ -122,7 +126,9 @@
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{\GreItalic{ii}}{\GreItalic{j.} }{\GreItalic{i}}{\GreItalic{i}\GreItalic{j.} }}{}{{17}{0}}{}{%
@@ -130,7 +136,9 @@
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
-}{}{}%
+}{%
+\GrePunctumMora{8}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{\GreItalic{ii}}{\GreItalic{j.} }{\GreItalic{i}}{\GreItalic{i}\GreItalic{j.} }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{L}{o}{rd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{L}{ord\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
@@ -185,7 +193,9 @@
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{u}{s. \GreItalic{iij.} }{u}{s. \GreItalic{iij.} }}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
@@ -193,7 +203,9 @@
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
-}{}{}%
+}{%
+\GrePunctumMora{8}{0}{0}{0}%
+}{}%
 }%
 %
 \GreFinalDivisioFinalis{%

@@ -47,14 +47,14 @@ heightrounded]{geometry}
 
 %Now that the Missal is being printed and, therefore, is a set text, we can establish concrete page numbers for BCP parts.
 
-\newcommand{\SPMaryAdvent}{\pageref{SPMaryInAdvent}} %BCP 545}
-\newcommand{\SPMaryChristmas}{\pageref{SPMaryPostChristmas}} %BCP 545}
-\newcommand{\SPMaryEaster}{\pageref{SPMaryInEaster}} %BCP 545}
-\newcommand{\SPSaints}{\pageref{SPSaints}} %BCP 546}
-\newcommand{\SPAgainst}{\pageref{SPAgainst}} %BCP 546}
-\newcommand{\SPChiefBishop}{\pageref{SPChiefBishop}} %BCP 547}
-\newcommand{\SPHolyGhost}{\pageref{SPHolyGhost}} %BCP 547}
-\newcommand{\SPLiving}{\pageref{SPLivingDeparted}} %BCP 548}
+\newcommand{\SPMaryAdvent}{BCP 560}%\pageref{SPMaryInAdvent}} 
+\newcommand{\SPMaryChristmas}{BCP 560}%\pageref{SPMaryPostChristmas}}
+\newcommand{\SPMaryEaster}{BCP 560}%\pageref{SPMaryInEaster}}
+\newcommand{\SPSaints}{BCP 561}%\pageref{SPSaints}}
+\newcommand{\SPAgainst}{BCP 561}%\pageref{SPAgainst}}
+\newcommand{\SPChiefBishop}{BCP 562}%\pageref{SPChiefBishop}}
+\newcommand{\SPHolyGhost}{BCP 562}%\pageref{SPHolyGhost}}
+\newcommand{\SPLiving}{BCP 563}%\pageref{SPLivingDeparted}}
 \newcommand{\Lammas}{BCP 481}
 
 
@@ -583,6 +583,8 @@ heightrounded]{geometry}
 
 %For the Chant Notation (Byzantine)
 \usepackage[autocompile]{gregoriotex}
+%Special cross
+\gresetspecial{cross}{\grealtcross}
 %Disable initial letter
 \gresetheadercapture{initial-style}{gresetinitiallines}{}
 
@@ -658,6 +660,7 @@ heightrounded]{geometry}
 \include{pages/Propers/PropTime.tex}
 \include{pages/Propers/Commons.tex}
 \include{pages/Propers/Common.tex}
+%\include{pages/Propers/Seasonal.tex}
 
 \cleardoublepage
 \include{pages/HymnIndex.tex}

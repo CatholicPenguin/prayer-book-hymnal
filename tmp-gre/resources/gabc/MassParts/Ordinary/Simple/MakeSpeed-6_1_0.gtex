@@ -4,7 +4,7 @@
 \GreHeader{initial-style}{0}%
 \GreHeader{centering-scheme}{english}%
 \GreEndHeaders %
-\GreBeginScore{faf5fb9a838b6a1eccedf16e2cb10e6406b015e2}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{3456dba7ad18bf69f18c52e7dea0816527b49845}{11}{8}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreSetLargestClef{f}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -18,7 +18,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{G}{o}{d\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{G}{od\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{✙ m}{a}{ke}{✙}{ make}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{G}{o}{d\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{G}{od\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{\GreSpecial{cross} m}{a}{ke}{\GreSpecial{cross}}{ make}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%
@@ -26,7 +26,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{✙ m}{a}{ke}{✙}{ make}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{sp}{ee}{d}{s}{peed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{\GreSpecial{cross} m}{a}{ke}{\GreSpecial{cross}}{ make}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{sp}{ee}{d}{s}{peed}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%

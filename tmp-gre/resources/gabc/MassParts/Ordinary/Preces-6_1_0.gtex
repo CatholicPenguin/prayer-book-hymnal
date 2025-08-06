@@ -4,7 +4,7 @@
 \GreHeader{initial-style}{0}%
 \GreHeader{centering-scheme}{english}%
 \GreEndHeaders %
-\GreBeginScore{62ff011ccf03cdd9dcd0175c2061642a2634483b}{10}{8}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{4a994d912db8db4c3a02dc4b9ced22a5f7b1f183}{10}{8}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreSetLargestClef{f}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -74,7 +74,7 @@
 }{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -86,7 +86,7 @@
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{℟. }{A}{nd}{℟}{. And}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
+\GreDivisioMaior{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{℟. }{A}{nd}{℟}{. And}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{gr}{a}{nt}{g}{rant}}{}{{0}{0}}{}{%
@@ -184,7 +184,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{\GreItalic{St}}{\GreItalic{a}}{\GreItalic{te}\GreProtrusion{\GreProtrusionFactor{period}}{.}}{\GreItalic{S}}{\GreItalic{t}\GreItalic{a}\GreItalic{te}\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{\GreItalic{St}}{\GreItalic{a}}{\GreItalic{te}\GreProtrusion{\GreProtrusionFactor{period}}{.}}{\GreItalic{S}}{\GreItalic{t}\GreItalic{a}\GreItalic{te}\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -196,7 +196,7 @@
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{℟. }{A}{nd}{℟}{. And}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
+\GreDivisioMaior{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{℟. }{A}{nd}{℟}{. And}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{e}{r}{m}{er}}{}{{0}{0}}{}{%
@@ -375,7 +375,7 @@
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{n}{e}{ss\GreProtrusion{\GreProtrusionFactor{period}}{.}}{n}{ess\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{n}{e}{ss\GreProtrusion{\GreProtrusionFactor{period}}{.}}{n}{ess\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
@@ -387,7 +387,7 @@
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{℟. }{A}{nd}{℟}{. And}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
+\GreDivisioMaior{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{℟. }{A}{nd}{℟}{. And}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{a}{ke}{m}{ake}}{}{{0}{0}}{}{%
@@ -509,7 +509,7 @@
 \GrePunctumMora{10}{0}{0}{0}%
 }{}%
 }%
-\GreSyllable{\GreSetThisSyllable{pl}{e}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{le\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{pl}{e}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{le\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
@@ -521,7 +521,7 @@
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{℟. }{A}{nd}{℟}{. And}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
+\GreDivisioMaior{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{℟. }{A}{nd}{℟}{. And}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{bl}{e}{ss}{b}{less}}{}{{0}{0}}{}{%
@@ -632,7 +632,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{L}{o}{rd\GreProtrusion{\GreProtrusionFactor{period}}{.}}{L}{ord\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{L}{o}{rd\GreProtrusion{\GreProtrusionFactor{period}}{.}}{L}{ord\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -644,7 +644,7 @@
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{℟. F}{o}{r}{℟}{. For}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
+\GreDivisioMaior{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{℟. F}{o}{r}{℟}{. For}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{t}{i}{t}}{}{{0}{0}}{}{%
@@ -758,7 +758,7 @@
 \GrePunctumMora{10}{0}{0}{0}%
 }{}%
 }%
-\GreSyllable{\GreSetThisSyllable{t}{y}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{t}{y\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{℣. }{O}{}{℣}{. O}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{y}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{t}{y\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
@@ -766,6 +766,11 @@
 }{%
 \GrePunctumMora{8}{0}{0}{0}%
 }{}%
+}%
+%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{℣. }{O}{}{℣}{. O}}{}{{0}{0}}{}{%
+\GreSyllableNoteCount{0}%
+\GreDivisioFinalis{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{℣. }{O}{}{℣}{. O}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{G}{o}{d\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{G}{od\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
@@ -833,7 +838,7 @@
 }{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -845,7 +850,7 @@
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{℟. }{A}{nd}{℟}{. And}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
-\GreDivisioFinalis{0}{}%
+\GreDivisioMaior{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{℟. }{A}{nd}{℟}{. And}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{t}{a}{ke}{t}{ake}}{}{{0}{0}}{}{%

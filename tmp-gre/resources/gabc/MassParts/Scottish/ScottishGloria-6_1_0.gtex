@@ -10,7 +10,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{97a2767670d236150da0392df067e194b4ce337c}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{817ca921fa7c6b7bf077237d61abfa5381914191}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -1055,23 +1055,19 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{F}{a}{}{F}{a}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{th}{e}{r\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{t}{her\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{1}}{}{%
+\GreSyllable{\GreSetThisSyllable{F}{a}{}{F}{a}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{th}{e}{r\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{t}{her\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreFlat{11}{0}%
 {%
 \GreGlyphHeights{11}{11}%
 }{}{}%
-\GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{11}{Flat}}{0}%
+\GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{11}{}}{0}%
 {%
 \GreGlyphHeights{11}{11}%
 }{}{}%
 }%
 \GreSyllable{\GreSetThisSyllable{th}{e}{r\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{t}{her\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreFlat{11}{0}%
-{%
-\GreGlyphHeights{11}{11}%
-}{}{}%
 \GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{11}{11}%
@@ -1456,9 +1452,9 @@
 \GrePunctumMora{7}{0}{0}{0}%
 }{}%
 }%
-\GreSyllable{\GreSetThisSyllable{m}{e}{n\GreProtrusion{\GreProtrusionFactor{period}}{.}}{m}{en\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}\GreLastOfLine}{}{{18}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{m}{e}{n\GreProtrusion{\GreProtrusionFactor{period}}{.}}{m}{en\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
-\GreLastOfScore\GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
+\GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{%
@@ -1466,5 +1462,7 @@
 }{}%
 }%
 %
+\GreFinalDivisioFinalis{%
+}%
 \GreEndScore %
 \endinput %
