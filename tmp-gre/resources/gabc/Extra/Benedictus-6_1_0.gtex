@@ -7,7 +7,7 @@
 \GreHeader{initial-style}{1}%
 \GreHeader{centering-scheme}{english}%
 \GreEndHeaders %
-\GreBeginScore{51f89defbb8d6125aa1543d497b5cc3a3c60ac66}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{c9ef346aef8b838581ca096d3de5924b947c3638}{13}{9}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -838,7 +838,9 @@
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{11}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
-}{}{}%
+}{%
+\GrePunctumMora{12}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{\greheightstar}{}{\greheightstar}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{nd}{a}{nd}}{}{{0}{0}}{}{%

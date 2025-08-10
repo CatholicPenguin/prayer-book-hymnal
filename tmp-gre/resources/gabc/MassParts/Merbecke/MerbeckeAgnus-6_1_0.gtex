@@ -10,7 +10,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{4d078d8ef2b3514ab1d5bc8b2015d730d78d46d8}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{6a9f2c9f0be1c7f1929786df6670d2f59f1ed845}{13}{7}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -45,7 +45,9 @@
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{a}{t}{t}{hat}}{}{{0}{0}}{}{%
@@ -128,7 +130,9 @@
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{a}{ve}{h}{ave}}{}{{0}{0}}{}{%
@@ -171,7 +175,9 @@
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
-}{}{}%
+}{%
+\GrePunctumMora{8}{0}{0}{0}%
+}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
@@ -179,7 +185,9 @@
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{7}{7}%
-}{}{}%
+}{%
+\GrePunctumMora{7}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{O}{}{O}{}}{}{{0}{0}}{}{%
@@ -216,7 +224,9 @@
 \GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{11}{}}{0}%
 {%
 \GreGlyphHeights{11}{11}%
-}{}{}%
+}{%
+\GrePunctumMora{11}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{a}{t}{t}{hat}}{}{{0}{0}}{}{%
@@ -299,7 +309,9 @@
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{a}{ve}{h}{ave}}{}{{0}{0}}{}{%
@@ -342,7 +354,9 @@
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
-}{}{}%
+}{%
+\GrePunctumMora{8}{0}{0}{0}%
+}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}{u}{s\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
@@ -350,7 +364,9 @@
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{7}{7}%
-}{}{}%
+}{%
+\GrePunctumMora{7}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{O}{}{O}{}}{}{{0}{0}}{}{%
@@ -382,12 +398,19 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{G}{o}{d\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{G}{od\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{a}{t}{t}{hat}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{G}{o}{d\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{G}{od\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
+}%
+%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{a}{t}{t}{hat}}{}{{0}{0}}{}{%
+\GreSyllableNoteCount{0}%
+\GreDivisioMinima{0}{}{0}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{th}{a}{t}{t}{hat}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{t}{a}{k}{t}{ak}}{}{{0}{0}}{}{%
@@ -465,7 +488,9 @@
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{gr}{a}{nt}{g}{rant}}{}{{0}{0}}{}{%
@@ -494,7 +519,9 @@
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
-}{}{}%
+}{%
+\GrePunctumMora{8}{0}{0}{0}%
+}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{p}{ea}{ce\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{eace\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
@@ -502,7 +529,9 @@
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{7}{7}%
-}{}{}%
+}{%
+\GrePunctumMora{7}{0}{0}{0}%
+}{}%
 }%
 %
 \GreFinalDivisioFinalis{%

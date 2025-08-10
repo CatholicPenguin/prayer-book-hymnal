@@ -13,7 +13,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{fe975886150e6eb2d7ea736715868ac7e2cdf44f}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{6f2fb81b089479a574031be41c79aecee54707b5}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{5}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -644,12 +644,19 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{o}{f}{o}{f}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{i}{t}{p}{it}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{o}{f}{o}{f}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{6}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
-}{}{}%
+}{%
+\GrePunctumMora{8}{0}{0}{0}%
+}{}%
+}%
+%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{i}{t}{p}{it}}{}{{0}{0}}{}{%
+\GreSyllableNoteCount{0}%
+\GreDivisioMinima{0}{}{1}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{p}{i}{t}{p}{it}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{y}{}{y}{}}{}{{0}{0}}{}{%
@@ -696,12 +703,19 @@
 \GreGlyphHeights{10}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{n}{e}{ss}{n}{ess}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{u}{p}{u}{p}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{n}{e}{ss}{n}{ess}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{12}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
+}%
+%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{u}{p}{u}{p}}{}{{0}{0}}{}{%
+\GreSyllableNoteCount{0}%
+\GreDivisioMinor{0}{}%
 }%
 %
 \GreSyllable{\GreSetThisSyllable{}{u}{p}{u}{p}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{o}{n}{o}{n}}{}{{0}{0}}{}{%
@@ -945,7 +959,9 @@
 \GreGlyph{\GreCPPunctum}{5}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{5}{5}%
-}{}{}%
+}{%
+\GrePunctumMora{5}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{O}{}{O}{}}{}{{0}{0}}{}{%
@@ -983,7 +999,9 @@
 \GreGlyph{\GreCPPunctum}{5}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{5}{5}%
-}{}{}%
+}{%
+\GrePunctumMora{5}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{O}{}{O}{}}{}{{0}{0}}{}{%
@@ -1021,7 +1039,9 @@
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
-}{}{}%
+}{%
+\GrePunctumMora{9}{0}{0}{0}%
+}{}%
 }%
 %
 \GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{O}{}{O}{}}{}{{0}{0}}{}{%

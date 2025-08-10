@@ -1002,7 +1002,7 @@ K: G % key signature
 % 1
 [V: S1V1] D | G G B | G G B | A A B/A/ | G2 |]
 w: 1.~Im-mac-u-late Ma-ry! Our hearts are on - fire,
-w: 2.~We pray for God’s glor-y, May his king-dom - come;
+w: 2.~We pray for God's glor-y, May his king-dom - come;
 w: 3.~We pray for our Mo-ther, The Church u-pon - earth,
 [V: S1V2]  D | B, D D | E D D | E E D/C/ | B,2 |]
 [V: S2V1]  F, | G, G, G, | G, G, G, | G, E, F, | G,2 |]
@@ -1028,76 +1028,71 @@ w: A-ve, A-ve, Ma-ri- * - a! A-men.
 [V: S2V1]  A,2 E | ^D B, B, | (C2 D/C/) | B,3 |] E3 | D3 |]
 [V: S2V2]  (A,, C,) A,, | B,, ^D, E, | (A,,2 D,) | G,,3 |] C,3 | G,,3 |]
 %
-W:4. We pray for all sinners, 
-W:And souls that now stray
-W:From Jesus and Mary
-W:In heresy's way.
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:5. We pray for our fellows
-W:Who are bound in Rome
-W:Cut off from thy dear Son,
-W:Please bring them back home!
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:8. There is no need, Mary,
-W:Nor ever hath been,
-W:Which thou canst not succour,
-W:Immaculate Queen.
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:9. In grief and temptation,
-W:In joy, or in pain,
-W:We’ll seek thee, our Mother,
-W:Nor seek thee in vain.
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:10. O bless us, dear Lady,
-W:With blessings from heav'n,
-W:And to our petitions
-W:Let answer be giv'n.
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:6. O Mother of the Light,
-W:Shine upon all men,
-W:Bound up in the darkness,
-W:Please make them all kin.
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:7. For poor, sick, afflicted,
-W:Thy mercy we crave;
-W:And comfort the dying,
-W:Thou light of the grave!
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:11. In death's solemn moment,
-W:Our Mother, be nigh;
-W:As children of Mary
-W:O teach us to die!
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:12. And crown thy sweet mercy
-W:With this special grace,
-W:To behold in heaven
-W:God’s ravishing Face.
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-W:
-W:13. To God be all glory
-W:And worship for aye,
-W:To God's Virgin Mother
-W:An endless Ave.
-W:Ave, Ave, Ave Maria!
-W:Ave, Ave, Maria!
-
+%%multicol start
+%%rightmargin 7.5cm
+%%begintext obeylines justify
+%% 4.\tWe pray for all sinners, 
+%% \t\t\t\tAnd souls that now stray
+%% \t\t\t\tFrom Jesus and Mary
+%% \t\t\t\tIn heresy's way.
+%% 
+%% 5.\tWe pray for our fellows
+%% \t\t\t\tWho are bound in Rome
+%% \t\t\t\tCut off from thy dear Son,
+%% \t\t\t\tPlease bring them back home!
+%%endtext
+%%multicol new
+%%leftmargin 7.5cm
+%%begintext obeylines justify
+%% 6.\tO Mother of the Light,
+%% \t\t\t\tShine upon all men,
+%% \t\t\t\tBound up in the darkness,
+%% \t\t\t\tPlease make them all kin.
+%% 
+%% 7.\tFor poor, sick, afflicted,
+%% \t\t\t\tThy mercy we crave;
+%% \t\t\t\tAnd comfort the dying,
+%% \t\t\t\tThou light of the grave!
+%%endtext
+%%multicol end
+%%
+%%multicol start
+%%rightmargin 7.5cm
+%%begintext obeylines justify
+%% 8.\tThere is no need, Mary,
+%% \t\t\t\tNor ever hath been,
+%% \t\t\t\tWhich thou canst not succour,
+%% \t\t\t\tImmaculate Queen.
+%% 
+%% 9.\tIn grief and temptation,
+%% \t\t\t\tIn joy, or in pain,
+%% \t\t\t\tWe'll seek thee, our Mother,
+%% \t\t\t\tNor seek thee in vain.
+%% 
+%% 10.\tO bless us, dear Lady,
+%% \t\t\t\tWith blessings from heav'n,
+%% \t\t\t\tAnd to our petitions
+%% \t\t\t\tLet answer be giv'n.
+%%endtext
+%%multicol new
+%%leftmargin 7.5cm
+%%begintext obeylines justify
+%% 11.\tIn death's solemn moment,
+%% \t\t\t\tOur Mother, be nigh;
+%% \t\t\t\tAs children of Mary
+%% \t\t\t\tO teach us to die!
+%% 
+%% 12.\tAnd crown thy sweet mercy
+%% \t\t\t\tWith this special grace,
+%% \t\t\t\tTo behold in heaven
+%% \t\t\t\tGod's ravishing Face.
+%% 
+%% 13.\tTo God be all glory
+%% \t\t\t\tAnd worship for aye,
+%% \t\t\t\tTo God's Virgin Mother
+%% \t\t\t\tAn endless Ave.
+%%endtext
+%%multicol end
 
 
 X: 16
@@ -1410,33 +1405,33 @@ w: the sons of * A- dam their lost home re- gain.
 % 18
 %%begintext obeylines justify
 %% 6.\tFrom north and south, from east and west they raise
-%% \t\t\t\tin growing unison their songs of praise. Refrain
+%% \t\t\t\tin growing unison their songs of praise. (Refrain)
 %% 
 %% 7.\tO Lord, once lifted on the glorious tree,
-%% \t\t\t\tas thou hast promised, draw the world to thee. Refrain
+%% \t\t\t\tas thou hast promised, draw the world to thee. (Refrain)
 %% 
 %% 8.\tSo shall our song of triumph ever be: 
-%% \t\t\t\tPraise to the Crucified for victory. Refrain
+%% \t\t\t\tPraise to the Crucified for victory. (Refrain)
 %%endtext
 %%begintext obeylines justify
 %% 9.\tLet every race and every language tell
-%% \t\t\t\tof him who saves our souls from death and hell. Refrain
+%% \t\t\t\tof him who saves our souls from death and hell. (Refrain)
 %% 
 %% 10.From farthest regions let their homage bring,
-%% \t\t\t\tand on his Cross adore their Saviour King. Refrain
+%% \t\t\t\tand on his Cross adore their Saviour King. (Refrain)
 %%
 %% 11.Set up thy throne, that earth's despair may cease
-%% \t\t\t\tbeneath the shadow of its healing peace. Refrain
+%% \t\t\t\tbeneath the shadow of its healing peace. (Refrain)
 %% 
 %% 12.For thy blest Cross which doth for all atone
-%% \t\t\t\tcreation's praises rise before thy throne. Refrain 
+%% \t\t\t\tcreation's praises rise before thy throne. (Refrain) 
 %%endtext
 
 
 
 X: 21
 T: 21
-T: Look Down, O Lord, from Heaven Behold
+T: Look Down, O Lord, from Heaven
 T: General
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
@@ -1635,25 +1630,33 @@ w: Short as the watch that ends the night Be- fore the ris- ing sun.
 [V: S2V1]  G, | G, A, A, G, | G, A, ^G, =G, | F, G, A, G, | G,3 |]
 [V: S2V2]  G, | C, F, D, G, | C, F, E, E, | D, C, F, G, | C,3 |]
 % 11
-W: 6.The busy tribes of flesh and blood,
-W: With all their lives and cares,
-W: Are carried downwards by the flood,
-W: And lost in following years.
-W:  
-W: 7.Time, like an ever rolling stream,
-W: Bears all its sons away;
-W: They fly, forgotten, as a dream
-W: Dies at the opening day.
-W:  
-W: 8.Like flowery fields the nations stand
-W: Pleased with the morning light;
-W: The flowers beneath the mower's hand
-W: Lie withering ere 'tis night.
-W:  
-W: 9.Our God, our help in ages past,
-W: Our hope for years to come,
-W: Be thou our guard while troubles last,
-W: And our eternal home.
+%%multicol start
+%%rightmargin 7.5cm
+%%begintext obeylines justify
+%% 6.\tThe busy tribes of flesh and blood,
+%% \t\t\tWith all their lives and cares,
+%% \t\t\tAre carried downwards by the flood,
+%% \t\t\tAnd lost in following years.
+%% 
+%% 7.\tTime, like an ever rolling stream,
+%% \t\t\tBears all its sons away;
+%% \t\t\tThey fly, forgotten, as a dream
+%% \t\t\tDies at the opening day.
+%%endtext
+%%multicol new
+%%leftmargin 7.5cm
+%%begintext obeylines justify
+%% 8.\tLike flowery fields the nations stand
+%% \t\t\tPleased with the morning light;
+%% \t\t\tThe flowers beneath the mower's hand
+%% \t\t\tLie withering ere 'tis night.
+%%  
+%% 9.\tOur God, our help in ages past,
+%% \t\t\tOur hope for years to come,
+%% \t\t\tBe thou our guard while troubles last,
+%% \t\t\tAnd our eternal home.
+%%endtext
+%%multicol end
 
 X: 25
 T: 25
@@ -1951,6 +1954,8 @@ w: So shalt thou have length of days.  *  *  *  *
 [V: S2V1]  z A, | D B, G,2 | _B, B, D2 | D3/2 D (C =B,//A,//) | B,4 |]
 [V: S2V2]  x D, | F, G, C,2 | G,, G,, G,,2 | G,3/2 D,/ (E,/F,/ G,) | G,,4 |]
 % 14
+%%multicol start
+%%rightmargin 7.5cm
 %%begintext obeylines justify
 %% 6.\tKill thou not out of evil will,
 %% \t\t\t\tNor hate, nor render ill for ill;
@@ -1961,35 +1966,44 @@ w: So shalt thou have length of days.  *  *  *  *
 %% \t\t\t\tThy heart give only to thy spouse
 %% \t\t\t\tKeep thy life pure, and lest thou sin
 %% \t\t\t\tKeep thyself with discipline.	
-%% 
+%%endtext
+%%multicol new
+%%leftmargin 7.5cm
+%%begintext obeylines justify
 %% 8.\tSteal not; oppressive acts abhor;
 %% \t\t\t\tNor wring their life-blood from the poor;
 %% \t\t\t\tBut open wide thy loving hand
 %% \t\t\t\tTo all the poor in the land.
-%%endtext
-%%begintext obeylines justify
+%% 
 %% 9.\tBear not false witness, nor belie
 %% \t\t\t\tThy neighbor by foul calumny;
 %% \t\t\t\tDefend his innocence from blame,
 %% \t\t\t\tWith charity hide his shame.
-%% 
-%% 10.Thy neighbor's wife desire thou not,
+%%endtext
+%%multicol end
+%%
+%%multicol start
+%%rightmargin 7.5cm
+%%begintext obeylines justify
+%% 10.\tThy neighbor's wife desire thou not,
 %% \t\t\t\tHis house, nor aught that he hath got
 %% \t\t\t\tBut wish that his such good may be
 %% \t\t\t\tAs thy heart doth wish for thee.
 %% 
-%% 11.God these commandments gave, therein
+%% 11.\tGod these commandments gave, therein
 %% \t\t\t\tTo show thee, son of man, thy sin,
 %% \t\t\t\tAnd make thee also well perceive
 %% \t\t\t\tHow man for God ought to live.	
 %%endtext
+%%multicol new
+%%leftmargin 7.5cm
 %%begintext obeylines justify
-%% 
-%% 12.Help us, Lord Jesus Christ, for we
+%% 12.\tHelp us, Lord Jesus Christ, for we
 %% \t\t\t\tA Mediator have in thee;
 %% \t\t\t\tWithout thy help our works so vain
 %% \t\t\t\tMerit naught but endless pain.
 %%endtext
+%%multicol end
 
 
 X: 30
@@ -2481,26 +2495,26 @@ w: Re- joice! Re- joice! Em- man- * * u- el shall come to thee, O I- * * sra- el
 [V: S2V2]  G, | D,3 E, | B,,3 G,, | (C, A,, B,,) D, | E,3 D, | G,, B,, C, B,, | (C, A,, B,,) B,, | E,3 |]
 % 22
 W: 4. O come, thou Rod of Jesse, free
-W: Thine own from Satan’s tyranny;
+W: Thine own from Satan's tyranny;
 W: From depths of hell thy people save,
 W: And give them victory o’er the grave.
 W: 
 W: 5. O come, thou Key of David, come,
-W: And open wide our heav’nly home;
+W: And open wide our heav'nly home;
 W: Make sure the way that leads on high,
 W: And close the path to misery.
 W: 
 W: 6. O come, thou Day-spring, come and cheer
 W: Our spirits by thine advent here;
 W: Disperse the gloomy clouds of night,
-W: And death’s dark shadows put to flight.
+W: And death's dark shadows put to flight.
 W: 
 W: 7. O come, thou King of nations, bind
 W: All peoples in one heart and mind;
 W: Bid envy, strife, and quarrels cease;
-W: Fill the whole world with heaven’s peace.
+W: Fill the whole world with heaven's peace.
 W: 
-W: 8. O Virgin of Virgins, from thee
+W: 8. O pure Virgin of Virgins meek
 W: Who humbly asks, O how shall this be?
 W: And angels ask, Quae Ista Est?
 W: The Mother of Salvation Best!
@@ -2829,6 +2843,7 @@ T: Christmas
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
+%%maxstretch 1
 %%staves (S1V1 S1V2) | (S2V1 S2V2) 
 %%staffsep 1.2cm
 V: S1V1 clef=treble 
@@ -2883,23 +2898,38 @@ w: O * ti- dings of com- * fort and joy, com- fort and joy; O * ti- * dings of c
 [V: S2V1]  (B, A,) | G,2 G, G, | (D C) B, B, | G,2 G,/G,/ G, | (F, A,) (D C) | (B, G,) D C | (D C) B, B, | G,3 |]
 [V: S2V2]  (E, F,) | G,2 C, G, | (G,, A,,) B,, B,, | E,2 E,/E,/ E, | (D, C,) (B,, A,,) | (G,, E,) B,, C, | (G,, A,,) B,, B,, | E,3 |]
 % 22
+%%multicol start
+%%rightmargin 7.5cm
 %%begintext obeylines justify
-%% 6.\tBut when to Bethlehem they came where our dear Saviour lay,
-%% \t\t\t\tThey found him in a manger where oxen feed on hay;
-%% \t\t\t\tHis mother Mary kneeling unto the Lord did pray.
+%% 6.\tBut when to Bethlehem they came
+%% \t\t\t\t\t\t\t\twhere our dear Saviour lay,
+%% \t\t\t\tThey found him in a manger
+%% \t\t\t\t\t\t\t\twhere oxen feed on hay;
+%% \t\t\t\tHis mother Mary kneeling
+%% \t\t\t\t\t\t\t\tunto the Lord did pray.
 %%
-%% 7.\tNow to the Lord sing praises all you within this place,
-%% \t\t\t\tAnd with true love and brotherhood each other now embrace;
-%% \t\t\t\tThis holy tide of Christmas all others doth deface.
-%% \t\t\t\t
+%% 7.\tNow to the Lord sing praises
+%% \t\t\t\t\t\t\t\tall you within this place,
+%% \t\t\t\tAnd with true love and brotherhood
+%% \t\t\t\t\t\t\t\teach other now embrace;
+%% \t\t\t\tThis holy tide of Christmas
 %%endtext
+%%multicol new
+%%leftmargin 7.5cm
 %%begintext obeylines justify
-%% 8.\tGod bless the ruler of this house, and send him long to reign,
-%% \t\t\t\tAnd many a merry Christmas may live to see again;
-%% \t\t\t\tAmong your friends and kindred that live both far and near
-%% \t\t\t\tThat God send you a happy new year, happy new year,
+%% \t\t\t\t\t\t\t\tall others doth deface.
+%% \t\t\t
+%% 8.\tGod bless the ruler of this house,
+%% \t\t\t\t\t\t\t\tand send him long to reign,
+%% \t\t\t\tAnd many a merry Christmas
+%% \t\t\t\t\t\t\t\tmay live to see again;
+%% \t\t\t\tAmong your friends and kindred
+%% \t\t\t\t\t\t\t\tthat live both far and near
+%% \t\t\t\tThat God send you a happy new year,
+%% \t\t\t\t\t\t\t\t happy new year,
 %% \t\t\t\tAnd God send you a happy new year.
 %%endtext
+%%multicol end
 
 
 X: 45
@@ -4047,7 +4077,7 @@ W: Perform their courses still.
 W:
 W:6. The Saints above are stars in heaven—
 W:What are the saints on earth? 
-W:Like trees they stand whom God has given,
+W:Like trees they stand whom God has giv'n,
 W:Our Eden's happy birth.
 W:
 W:7. Faith is their fixed unswerving root,
@@ -4068,7 +4098,7 @@ W:
 W:10. The raging fire, the roaring wind,
 W:Thy boundless power display; 
 W:But in the gentler breeze we find
-W:Thy Spirit’s viewless way.
+W:Thy Spirit's viewless way.
 W:
 W:11. Two worlds are ours: 'tis only sin
 W:Forbids us to descry
@@ -4083,7 +4113,7 @@ W:And read thee everywhere. Amen.
 
 X: 64
 T: 64
-T: All, Glory, Laud, and Honour
+T: All Glory, Laud, and Honour
 T: Lent
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
@@ -4548,21 +4578,25 @@ w: Ours the cross, the grave, the * skies, Al- * * le- * lu- ia!
 %% \t\t\t\tThee we greet triumphant now, Alleluia!
 %% \t\t\t\tHail, the resurrection, thou, Alleluia!
 %%
+%% 
 %% 7.\tKing of glory, Soul of bliss, Alleluia!
 %% \t\t\t\tEverlasting life is this, Alleluia!
 %% \t\t\t\tThee to know, thy power to prove, Alleluia!
 %% \t\t\t\tThus to sing and thus to love, Alleluia!
+%% 
 %%endtext
 %%begintext obeylines justify
 %% 8.\tHymns of praise then let us sing, Alleluia!
 %% \t\t\t\tUnto Christ, our heavenly King, Alleluia!
 %% \t\t\t\tWho endured the cross and grave, Alleluia!
 %% \t\t\t\tSinners to redeem and save. Alleluia!
+%% 
 %%
 %% 9.\tBut the pains that he endured, Alleluia!
 %% \t\t\t\tOur salvation have procured, Alleluia!
 %% \t\t\t\tNow above the sky he's King, Alleluia!
 %% \t\t\t\tWhere the angels ever sing. Alleluia!
+%% 
 %%endtext
 %%begintext obeylines justify
 %% 10.Jesus Christ is risen today, Alleluia!
@@ -4994,7 +5028,7 @@ w: Who art, while end- less a- ges run,  
 w: Asc- end- eth to the throne of God.
 w: Je- su's re- splend- ent ma- jest- y.
 w: 'This is his no- ble tri- umph- day!'
-w: Up to the port- als of the sky.’
+w: Up to the port- als of the sky.'
 w: As is our faith, art seat- ed now.
 w: Be ours through all e- tern- it- y.
 w: With Fa- ther and with Spir- it One.   A- men.
@@ -5203,7 +5237,7 @@ w: Still let man- kind thy bless- ings prove, Spi- rit of mer- cy, truth, and lo
 X: 79
 T: 79
 T: God the Father Be Our Stay
-T: Trinity Sunday
+T: Trinity
 %%titleformat T-1 + T + T1, C1
 L: 1/4 % default length
 %%staves (S1V1 S1V2) | (S2V1 S2V2) 
@@ -5267,7 +5301,7 @@ w: A- men, A- men, this be done, So sing we, Hal- le- lu- * jah!
 X: 80
 T: 80
 T: Holy God, We Praise
-T: Trinity Sunday
+T: Trinity
 %%titleformat T-1 + T + T1, C1
 M: 3/4 % time signature
 L: 1/4 % default length
@@ -5328,7 +5362,7 @@ w: bend the  * knee, While we own * the my- * ster- y.
 X: 81
 T: 81
 T: Holy, Holy, Holy
-T: Trinity Sunday
+T: Trinity
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
@@ -5380,7 +5414,7 @@ w: mer- ci- ful and might- y! God in three Per- sons, bless- ed Tri- ni- ty!
 X: 82
 T: 82
 T: I Bind unto Myself Today
-T: Trinity Sunday
+T: Trinity
 %%titleformat T-1 + T + T1, C1
 M: 3/4 % time signature
 L: 1/4 % default length
@@ -5475,46 +5509,56 @@ w: speech, * his * heav'n- ly * host * to be my guard.  *
 [V: S3V1]  B, D B,/A,/ | [F,2B,2] [F,A,] | [G,B,] [G,B,] [D,A,] | x2 C & G,3 | [G,2B,2] |]
 [V: S3V3]  (E, D,) G,/F,/ | B,,2 F,/D,/ | (G,, E,,) D,, | [B,2G,,2D,2] C, | [D,2G,,2] |]
 % 34
-W: 6.Against the demon snares of sin,
-W: The vice that gives temptation force,
-W: The natural lusts that war within,
-W: The hostile men that mar my course;
-W: Or few or many, far or nigh,
-W: In every place and in all hours,
-W: Against their fierce hostility
-W: I bind to me these holy powers.
-W: 
-W: 7.Against all Satan's spells and wiles,
-W: Against false words of heresy,
-W: Against the knowledge that defiles,
-W: Against the heart's idolatry,
-W: Against the wizard's evil craft,
-W: Against the death wound and the burning,
-W: The choking wave, the poisoned shaft,
-W: Protect me, Christ, till thy returning.
-W: 
-W: 8.Christ be with me, Christ within me,
-W: Christ behind me, Christ before me,
-W: Christ beside me, Christ to win me,
-W: Christ to comfort and restore me.
-W: Christ beneath me, Christ above me,
-W: Christ in quiet, Christ in danger,
-W: Christ in hearts of all that love me,
-W: Christ in mouth of friend and stranger.
-W: 
-W: 9.I bind unto myself the Name,
-W: The strong Name of the Trinity,
-W: By invocation of the same,
-W: The Three in One and One in Three.
-W: By whom all nature hath creation,
-W: Eternal Father, Spirit, Word:
-W: Praise to the Lord of my salvation,
-W: Salvation is of Christ the Lord.
+%%multicol start
+%%rightmargin 7.5cm
+%%begintext obeylines justify
+%% 6.\tAgainst the demon snares of sin,
+%% \t\t\t\tThe vice that gives temptation force,
+%% \t\t\t\tThe natural lusts that war within,
+%% \t\t\t\tThe hostile men that mar my course;
+%% \t\t\t\tOr few or many, far or nigh,
+%% \t\t\t\tIn every place and in all hours,
+%% \t\t\t\tAgainst their fierce hostility
+%% \t\t\t\tI bind to me these holy powers.
+%% 
+%% 7.\tAgainst all Satan's spells and wiles,
+%% \t\t\t\tAgainst false words of heresy,
+%% \t\t\t\tAgainst the knowledge that defiles,
+%% \t\t\t\tAgainst the heart's idolatry,
+%% \t\t\t\tAgainst the wizard's evil craft,
+%% \t\t\t\tAgainst the death wound and the burning,
+%% \t\t\t\tThe choking wave, the poisoned shaft,
+%% \t\t\t\tProtect me, Christ, till thy returning.
+%%endtext
+%%multicol new
+%%leftmargin 7.5cm
+%%begintext obeylines justify
+%% 8.\tChrist be with me, Christ within me,
+%% \t\t\t\tChrist behind me, Christ before me,
+%% \t\t\t\tChrist beside me, Christ to win me,
+%% \t\t\t\tChrist to comfort and restore me.
+%% \t\t\t\tChrist beneath me, Christ above me,
+%% \t\t\t\tChrist in quiet, Christ in danger,
+%% \t\t\t\tChrist in hearts of all that love me,
+%% \t\t\t\tChrist in mouth of friend and stranger.
+%% 
+%% 9.\tI bind unto myself the Name,
+%% \t\t\t\tThe strong Name of the Trinity,
+%% \t\t\t\tBy invocation of the same,
+%% \t\t\t\tThe Three in One and One in Three.
+%% \t\t\t\tBy whom all nature hath creation,
+%% \t\t\t\tEternal Father, Spirit, Word:
+%% \t\t\t\tPraise to the Lord of my salvation,
+%% \t\t\t\tSalvation is of Christ the Lord.
+%%endtext
+%%multicol end
+
+
 
 X: 83
 T: 83
 T: Isaiah, Mighty Seer
-T: Trinity Sunday
+T: Trinity
 %%titleformat T-1 + T + T1, C1
 M: 4/4 % time signature
 L: 1/4 % default length
@@ -5587,7 +5631,7 @@ w: The beams and lin- tels trem- bled at the cry, And clouds of smoke en- wrappe
 X: 84
 T: 84
 T: O Word of God the Father
-T: Trinity Sunday
+T: Trinity
 %%titleformat T-1 + T + T1, C1
 M: 3/4 % time signature
 L: 1/4 % default length
@@ -5610,7 +5654,7 @@ K: C % key signature
 %
 % 1
 [V: S1V1] [Q:1/4=95] (E/G/) | A3/2 c/ B3/4G// | (c/d/) c B | A/B/ A G | E2 (E/G/) | A3/2 c/ B3/4G// | 
-w: 1.~O * Word of God the Fa - ther Be- fore the worlds be- gan Who * laid the earth’s foun- 
+w: 1.~O * Word of God the Fa - ther Be- fore the worlds be- gan Who * laid the earth's foun- 
 w: 2.~O * Word of God the Fa - ther,  Our fa- thers sought for thee. They * left the lands of 
 w: 3.~O * Word of God the Fa - ther Stretched out u- pon the tree, You * left your throne in 
 w: 4.~O * Word of God the Fa - ther, You reign as king on high. You * raised our hu- man 
@@ -5619,8 +5663,8 @@ w: 4.~O * Word of God the Fa - ther, You reign as king on high. You * raised our
 [V: S2V2]  C, | F,3/2 F,/ D,3/4D,// | E, E, E, | F,/G,/ A, B, | A,2 G, | F,3/2 F,/ D,3/4D,// | 
 %6
 [V: S1V1] (c/d/) e e | e/d/ c d | c2 (G/E/) | D3/2 D/ C/E/ | D G (G/E/) |
-w: da - tions, Who stretched out hea- ven’s span; Who * gave the stars their or- bits, Who *
-w: slav - 'ry, They passed through E- gypt’s sea; They * heard the voice that thun- dered, They *
+w: da - tions, Who stretched out hea- ven's span; Who * gave the stars their or- bits, Who *
+w: slav - 'ry, They passed through E- gypt's sea; They * heard the voice that thun- dered, They *
 w: heav - en And died to set us free. You * came and dwelt a- mongst us, You *
 w: na - ture, That death it- self may die: The * Lamb, en- throned 'midst an- gels, The *
 [V: S1V2]  E G G | F/F/ F F | E2 C | B,3/2 B,/ C/C/ | B, B, C | 
@@ -5658,7 +5702,7 @@ w: throne Cre - a- tion bows in won - der And owns your rule a- lone.
 X: 85
 T: 85
 T: We All Believe
-T: Trinity Sunday
+T: Trinity
 %%titleformat T-1 + T + T1, C1
 L: 1/4 % default length
 %%staves (S1V1 S1V2) | (S2V1 S2V2) 

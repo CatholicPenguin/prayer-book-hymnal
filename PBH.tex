@@ -11,6 +11,8 @@ heightrounded]{geometry}
 \usepackage{pifont} %Needed for \ding characters (for the crosses mainly)
 \usepackage{ebgaramond} %Standard open source font
 
+%To contain Apostles' Creed and other minibox:
+\usepackage{adjustbox}
 
 %To ensure language compatibility.
 \usepackage[utf8]{inputenc}
@@ -397,7 +399,9 @@ heightrounded]{geometry}
 \graphicspath{{resources/}}
 \usepackage{wrapfig}
 \usepackage{epsfig}
-\usepackage{caption} %Enables text under image
+%Enables text under image without caption.
+\usepackage{caption}
+\captionsetup[figure]{labelformat=empty}
 %Colour
 \usepackage[svgnames,dvipsnames]{xcolor}
 %Hymn Pages
@@ -648,7 +652,7 @@ heightrounded]{geometry}
 
 \include{pages/Daily_Office/LiturgicalHymnsFront.tex}
 \include{pages/Propers/MassParts.tex}
-
+\cleardoublepage
 \include{pages/Propers/Devotion.tex}
 \include{pages/Propers/DevotionalHymns.tex}
 
