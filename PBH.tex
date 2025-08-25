@@ -49,15 +49,15 @@ heightrounded]{geometry}
 
 %Now that the Missal is being printed and, therefore, is a set text, we can establish concrete page numbers for BCP parts.
 
-\newcommand{\SPMaryAdvent}{BCP 560}%\pageref{SPMaryInAdvent}} 
-\newcommand{\SPMaryChristmas}{BCP 560}%\pageref{SPMaryPostChristmas}}
-\newcommand{\SPMaryEaster}{BCP 560}%\pageref{SPMaryInEaster}}
-\newcommand{\SPSaints}{BCP 561}%\pageref{SPSaints}}
-\newcommand{\SPAgainst}{BCP 561}%\pageref{SPAgainst}}
-\newcommand{\SPChiefBishop}{BCP 562}%\pageref{SPChiefBishop}}
-\newcommand{\SPHolyGhost}{BCP 562}%\pageref{SPHolyGhost}}
-\newcommand{\SPLiving}{BCP 563}%\pageref{SPLivingDeparted}}
-\newcommand{\Lammas}{BCP 481}
+\newcommand{\SPMaryAdvent}{BCP 562}%\pageref{SPMaryInAdvent}} 
+\newcommand{\SPMaryChristmas}{BCP 562}%\pageref{SPMaryPostChristmas}}
+\newcommand{\SPMaryEaster}{BCP 562}%\pageref{SPMaryInEaster}}
+\newcommand{\SPSaints}{BCP 563}%\pageref{SPSaints}}
+\newcommand{\SPAgainst}{BCP 563}%\pageref{SPAgainst}}
+\newcommand{\SPChiefBishop}{BCP 564}%\pageref{SPChiefBishop}}
+\newcommand{\SPHolyGhost}{BCP 564}%\pageref{SPHolyGhost}}
+\newcommand{\SPLiving}{BCP 565}%\pageref{SPLivingDeparted}}
+\newcommand{\Lammas}{BCP 496}
 
 
 \newcommand{\psalmsec}[1]{
@@ -401,7 +401,8 @@ heightrounded]{geometry}
 \usepackage{epsfig}
 %Enables text under image without caption.
 \usepackage{caption}
-\captionsetup[figure]{labelformat=empty}
+\captionsetup[figure]{labelformat=empty,justification=centering}
+\usepackage{float}
 %Colour
 \usepackage[svgnames,dvipsnames]{xcolor}
 %Hymn Pages
@@ -414,7 +415,9 @@ heightrounded]{geometry}
 \newcommand{\evensong}[1]{Evensong} %To allow switch in naming of Vespers and Evensong in lectionary
 
 %For Rubric Colour:
-\definecolor{RubricRed}{RGB}{145, 4, 10}
+%\definecolor{RubricRed}{RGB}{145, 4, 10}
+%CMYK for printing:
+\definecolor{RubricRed}{cmyk}{0, 1, 1, 0.25}
 
 %I have found it useful to have different kinds of headings in order to instruct the reader. For mere rubrical notes, which are meant to be in paragraph form, rubric is used. For headings, meant to be short, inhead (instructional heading) is used.
 %Rubric Environments
@@ -605,7 +608,8 @@ heightrounded]{geometry}
 	Office Hymn
 \end{inhead}}
 
-
+%Quoting for Editor's Preface
+\usepackage{quoting}
 
 \begin{document}
 \begin{titlepage}
@@ -619,11 +623,18 @@ heightrounded]{geometry}
 			{\Huge{\scshape Hymnal}}
 			\par
 			\vspace{.4cm}
-			{\large{\textit{A Supplement of Hours, Hymns, \& Propers for the Book of Common Prayer}}}
-			\par
+			{\large{\textit{A Supplement of Hymns \& Propers for the Book of Common Prayer}}}
+			\end{center}
+			
 			\vfill
-   	        \includegraphics[scale=.17]{logo.eps}
-		\end{center}
+			
+			\begin{figure}[H]
+				\centering
+				\includegraphics[scale=.17]{logo.eps}
+				\caption{\scshape Apologia Anglicana\\Boston, Massachusetts\\
+				A. D. MMXXV}
+			\end{figure}
+		
 	\end{titlepage}
 \cleardoublepage
 \pagenumbering{gobble}
@@ -638,36 +649,38 @@ heightrounded]{geometry}
 %\fi
 %Roman numeral page numbers for the front material.
 \include{pages/Copyright.tex}
+%\include{pages/Foreword.tex}
 \include{pages/Preface.tex}
 %\include{pages/Dedication.tex}
 
 %\include{pages/FrequentPrayers.tex}
 
 %Office Hymns
-
+\cleardoublepage
 \include{pages/Daily_Office/DailyHymns.tex}
 \include{pages/Propers/FerialHymns.tex}
-
 %Liturgical Hymns
-
+\cleardoublepage
 \include{pages/Daily_Office/LiturgicalHymnsFront.tex}
 \include{pages/Propers/MassParts.tex}
+%Devotional Hymns
 \cleardoublepage
 \include{pages/Propers/Devotion.tex}
 \include{pages/Propers/DevotionalHymns.tex}
-
+%Propers of Season and Saints
+\cleardoublepage
 \include{pages/Propers/Propers.tex}
-
 %\include{pages/Propers/HolyWeek.tex}
-
 \include{pages/Propers/PropSeason.tex}
 \include{pages/Propers/PropTime.tex}
+%Common of Saints
+\cleardoublepage
 \include{pages/Propers/Commons.tex}
 \include{pages/Propers/Common.tex}
 %\include{pages/Propers/Seasonal.tex}
-
+%Hymn Index
 \cleardoublepage
 \include{pages/HymnIndex.tex}
-\cleardoublepage
+%\cleardoublepage
 \include{pages/Back.tex}
 \end{document}
