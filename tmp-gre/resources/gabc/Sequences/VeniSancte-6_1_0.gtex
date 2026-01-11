@@ -8,7 +8,7 @@
 \GreHeader{book}{The plainchant gradual - Parts I & II, 1965, p. 203}%
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreEndHeaders %
-\GreBeginScore{fe0170d37000172e37d6f5c844db7e9db289502f}{13}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{5d5e2d3830b4b70ebfca49e1f46f33e5d2e918c2}{13}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -1039,19 +1039,19 @@
 }{}{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{E}{v'}{E}{v'}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{E}{v}{E}{v}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinor{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{E}{v'}{E}{v'}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{y}{}{r}{y}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{E}{v}{E}{v}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{e}{ry}{e}{ry}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{6}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{r}{y}{}{r}{y}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{o}{}{h}{o}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{e}{ry}{e}{ry}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{o}{}{h}{o}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{5}{}}{0}%
 {%

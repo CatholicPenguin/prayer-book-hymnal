@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{dcbe210458fb65a1a68317da10e7f38db6b3db4a}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{28fb717eb676dcc257f39b823dad3e22a08e8e0b}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -1260,14 +1260,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{h}{a}{l}{h}{al}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{owe}{d}{l}{owed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{h}{a}{l}{h}{al}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{ow}{'d}{l}{ow'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOneNothing}{9}{\GreNextCustos{6}{}}{8}%
 {%
 \GreGlyphHeights{9}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{l}{owe}{d}{l}{owed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{f}{oo}{t}{f}{oot}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{l}{ow}{'d}{l}{ow'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{f}{oo}{t}{f}{oot}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{6}{\GreNextCustos{7}{}}{0}%
 {%
@@ -1679,14 +1679,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{r}{e}{}{r}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{ee}{med}{d}{eemed}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{e}{}{r}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{ee}{m'd}{d}{eem'd}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{10}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{11}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{d}{ee}{med}{d}{eemed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{o}{nes\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{o}{nes\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{d}{ee}{m'd}{d}{eem'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{o}{nes\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{o}{nes\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{10}{\GreNextCustos{9}{}}{8}%
 {%

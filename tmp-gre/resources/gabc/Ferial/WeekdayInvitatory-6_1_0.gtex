@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{0af30a76b340d8e0f0c69a8371f7b6ee7ea929bb}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{127ecb904af05bee78391c4fbdab74f373c30765}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -509,14 +509,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{h}{a}{r}{h}{ar}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{a}{ssed}{a}{ssed}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{h}{a}{r}{h}{ar}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{a}{ss'd}{a}{ss'd}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{a}{ssed}{a}{ssed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{i}{nd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{m}{ind\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{a}{ss'd}{a}{ss'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{i}{nd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{m}{ind\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{8}{\GreNextCustos{6}{}}{8}%
 {%
@@ -1707,21 +1707,21 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{u}{n}{u}{n}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{w}{ea}{}{w}{ea}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{u}{n}{u}{n}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{w}{ea}{r}{w}{ear}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{w}{ea}{}{w}{ea}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{ie}{d}{r}{ied}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{w}{ea}{r}{w}{ear}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{ie}{d}{i}{ed}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{r}{ie}{d}{r}{ied}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{k}{ee}{p\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{k}{eep\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{ie}{d}{i}{ed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{k}{ee}{p\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{k}{eep\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{8}{\GreNextCustos{6}{}}{8}%
 {%

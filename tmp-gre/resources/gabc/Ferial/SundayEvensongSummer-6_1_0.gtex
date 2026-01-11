@@ -13,7 +13,7 @@
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 128}%
 \GreHeader{transcriber}{Augustine Watson}%
 \GreEndHeaders %
-\GreBeginScore{7c525cadc6ab63e931c6d6bd82928c7636344a18}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{cb70ae5ef363d028fa249cbe484a7af7965bdee2}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreMode{\GreModeNumber{8}}{}{}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -100,7 +100,7 @@
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{Wh}{o}{}{W}{ho}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{a}{kest}{m}{akest}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{Wh}{o}{}{W}{ho}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{a}{k'st}{m}{ak'st}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -108,7 +108,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{m}{a}{kest}{m}{akest}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{e}{}{t}{he}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{m}{a}{k'st}{m}{ak'st}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{e}{}{t}{he}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{3}%
 \GreGlyph{\GreCPTorculusOneOneNothing}{11}{\GreNextCustos{12}{}}{0}%
 {%
@@ -134,7 +134,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{w}{i}{th}{w}{ith}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{r}{a}{d}{r}{ad}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{w}{i}{th}{w}{ith}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{r}{a}{}{r}{a}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%
@@ -142,14 +142,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{r}{a}{d}{r}{ad}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{ia}{nce}{i}{ance}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{a}{}{r}{a}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{ia}{nce}{d}{iance}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{ia}{nce}{i}{ance}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{br}{i}{ght\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{b}{right\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{d}{ia}{nce}{d}{iance}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{br}{i}{ght\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{b}{right\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{8}{\GreNextCustos{7}{}}{8}%
 {%
@@ -662,7 +662,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{a}{nd}{a}{nd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{wh}{e}{lmed}{w}{helmed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{a}{nd}{a}{nd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{wh}{e}{lm'd}{w}{helm'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{8}{\GreNextCustos{10}{}}{8}%
 {%
@@ -670,7 +670,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{wh}{e}{lmed}{w}{helmed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{w}{i}{th}{w}{ith}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{wh}{e}{lm'd}{w}{helm'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{w}{i}{th}{w}{ith}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -1020,7 +1020,7 @@
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{Th}{e}{}{T}{he}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{ea}{ven}{h}{eaven}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{Th}{e}{}{T}{he}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{ea}{v'n}{h}{eav'n}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -1028,7 +1028,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{h}{ea}{ven}{h}{eaven}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{y}{}{l}{y}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{h}{ea}{v'n}{h}{eav'n}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{y}{}{l}{y}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{3}%
 \GreGlyph{\GreCPTorculusOneOneNothing}{11}{\GreNextCustos{12}{}}{0}%
 {%
@@ -1205,7 +1205,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{ea}{ch}{e}{ach}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{}{e}{}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{ea}{ch}{e}{ach}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{r}{e}{r}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%
@@ -1213,14 +1213,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{e}{}{e}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{rr}{o}{r}{r}{ror}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{e}{r}{e}{r}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{o}{r}{r}{or}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{rr}{o}{r}{r}{ror}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{a}{st\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{ast\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{o}{r}{r}{or}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{a}{st\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{ast\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{8}{\GreNextCustos{7}{}}{8}%
 {%
@@ -1324,7 +1324,7 @@
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{Thr}{ou}{gh}{T}{hrough}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{J}{e}{s}{J}{es}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{Thr}{ou}{gh}{T}{hrough}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{J}{e}{}{J}{e}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -1332,7 +1332,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{J}{e}{s}{J}{es}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{u}{s}{u}{s}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{J}{e}{}{J}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{u}{s}{s}{us}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{3}%
 \GreGlyph{\GreCPTorculusOneOneNothing}{11}{\GreNextCustos{12}{}}{0}%
 {%
@@ -1341,7 +1341,7 @@
 \GreVEpisema{10}{\GreOCaseFinalPunctum}%
 }{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{u}{s}{u}{s}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Chr}{i}{st\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{C}{hrist\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{1}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{s}{u}{s}{s}{us}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Chr}{i}{st\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{C}{hrist\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{1}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{10}{}}{0}%
 {%
@@ -1502,7 +1502,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{r}{ei}{gn}{r}{eign}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{t}{e}{t}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{ei}{gn}{r}{eign}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{e}{}{e}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueTwoNothing}{10}{\GreNextCustos{9}{}}{1}%
 {%
@@ -1510,28 +1510,28 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{e}{t}{e}{t}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{e}{r}{e}{r}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{e}{}{e}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{e}{r}{t}{er}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{e}{r}{e}{r}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{a}{ll}{n}{all}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{e}{r}{t}{er}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{a}{l}{n}{al}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{n}{a}{ll}{n}{all}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{y}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{y}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{n}{a}{l}{n}{al}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{y}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{l}{y\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{8}{\GreNextCustos{7}{}}{8}%
 {%
 \GreGlyphHeights{8}{7}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{y}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{y}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{l}{y}{\GreProtrusion{\GreProtrusionFactor{period}}{.}}{l}{y\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{7}{}}{0}%
 {%

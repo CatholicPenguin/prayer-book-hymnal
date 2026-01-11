@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{97f667be0874a2e0256511a3545ab42166e837e8}{13}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{8112b668b566e7741f11a942cceb36d66ec7c6b4}{13}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{6}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -556,14 +556,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{ou}{t}{o}{ut}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{ou}{red\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{oured\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{ou}{t}{o}{ut}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{ou}{r'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{our'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOneNothing}{9}{\GreNextCustos{8}{}}{8}%
 {%
 \GreGlyphHeights{9}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{p}{ou}{red\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{oured\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{p}{ou}{r'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}{p}{our'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{8}{}}{0}%
 {%
@@ -821,14 +821,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{u}{n}{u}{n}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{h}{a}{rmed}{h}{armed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{u}{n}{u}{n}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{h}{a}{rm'd}{h}{arm'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{10}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{h}{a}{rmed}{h}{armed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{}{a}{}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{h}{a}{rm'd}{h}{arm'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{}{a}{}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%

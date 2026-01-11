@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{94a80ee5ae94ff3894a7bf9354dfcf307c0514fd}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{16939b3bc1c0743bc2cb9c1ec6c7639dd90946a6}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{3}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -778,7 +778,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{tr}{ea}{s}{t}{reas}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{u}{red}{u}{red}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{tr}{ea}{s}{t}{reas}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{u}{r'd}{u}{r'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{3}%
 \GreGlyph{\GreCPPesTwoNothing}{10}{\GreNextCustos{13}{}}{0}%
 {%
@@ -790,7 +790,7 @@
 \GreGlyphHeights{13}{13}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{u}{red}{u}{red}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{o}{r}{o}{r}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{u}{r'd}{u}{r'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{o}{r}{o}{r}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
@@ -1316,21 +1316,21 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{E}{}{E}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{i}{ph}{p}{iph}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{E}{}{E}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{i}{}{p}{i}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{12}{12}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{p}{i}{ph}{p}{iph}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{a}{}{a}{}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{p}{i}{}{p}{i}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ph}{a}{}{p}{ha}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{12}{\GreNextCustos{10}{}}{8}%
 {%
 \GreGlyphHeights{12}{11}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{a}{}{a}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{y}{}{n}{y}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ph}{a}{}{p}{ha}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{y}{}{n}{y}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{10}{\GreNextCustos{10}{}}{8}%
 {%

@@ -1547,43 +1547,57 @@ T: General
 T: Now Thank We All Our God
 T: 23
 %%titleformat T-1 + T + T1, C1
-M:none
+M:C
 L: 1/4 % default length
-%%staves S1 | S2 
-V: S1 clef=treble 
+%%staves (S1V1 S1V2) | (S2V1 S2V2) 
+V: S1V1 clef=treble 
 %%MIDI beat 127 125 110 1
-V: S2 clef=bass 
+V: S1V2 
+%%MIDI beat 127 125 110 1
+V: S2V1 clef=bass 
+%%MIDI beat 127 125 110 1
+V: S2V2 
 %%MIDI beat 127 125 110 1
 K: F % key signature
 %
-%%MIDI program 1 0 % Piano 1
-%%MIDI program 2 0 % Piano 1
+%%MIDI program 1 19 % Church Organ 1
+%%MIDI program 2 19 % Church Organ 1
+%%MIDI program 3 19 % Church Organ 1
+%%MIDI program 4 19 % Church Organ 1
 %
 % 1
-[V: S1] [Q:1/4=120] [F2c2] | [F3/2c3/2] [F/c/] [Fd] [Fd] | [F3c3] [FA] | [FB] [FA] [DG] [CF] | [C2E2] [C2F2] |
+%% 1
+[V: S1V1] [Q:1/4=72] c | c c d d | c3 | c B A G | A G2 !fermata!F | 
 w: 1.~Now thank we all our God, with heart and hands and voi- ces, 
 w: 2.~O may this boun- teous God through all our life be near us, 
 w: 3.~All praise and thanks to God the Fa- ther now be gi- ven; 
-[V: S2]  [F,2A,2] | [F,3/2A,3/2] [F,/A,/] [B,,B,] [B,,B,] | [F,3A,3] [F,C] | [D,D] [F,,C] [G,,B,] [A,,A,] | [C,2G,2] [F,,2A,2] |
-% 5
-[V: S1]  [F2c2] | [F3/2c3/2] [F/c/] [Fd] [Fd] | [F3c3] [FA] | [FB] [FA] [DG] [CF] | [C2E2] [C2F2] |
-w: Who won- drous things has done, in whom this world re- joi- ces; 
+[V: S1V2]  !f!F | G F F F | F3 | A G F E | F (F E) C | 
+[V: S2V1]  !f!A, | B, A, B, B, | A,3 | F D C C | C (D C) A, | 
+[V: S2V2]  F, | E, F, B,, D, | F,3 | F,, G,, A,,/B,,/ C, | A,, (B,, C,) !invertedfermata!F,, | 
+%% 5
+[V: S1V1] c | c c d d | c3 | c B A G | A G2 !fermata!F | 
+w: Who won- drous things hath done, in whom his world re- joi- ces; 
 w: With ev- er joy- ful hearts and bless- ed peace to cheer us; 
-w: The Son and him who reigns with Them in high- est Hea- ven; 
-[V: S2]  [F,2A,2] | [F,3/2A,3/2] [F,/A,/] [B,,B,] [B,,B,] | [F,3A,3] [F,C] | [B,,D] [F,,C] [G,,B,] [A,,A,] | [C,2G,2] [F,,2A,2] |
-% 9
-[V: S1]  [E2G2] | [E3/2G3/2] [E/G/] [FA] [FA] | [E3G3] [EG] | [FA] [Gc] [Fc] [D=B] | [E3c3]
-w: Who from our mo- thers' arms has blessed us on our way 
+w: The Son and him who reigns with them in high- est Hea- ven; 
+[V: S1V2]  F | E F F F | F3 | A G F E | F (F E) C | 
+[V: S2V1]  A, | G, A, B, B, | A,3 | F D C C | C (D C) A, | 
+[V: S2V2]  F, | C, F, B,, D, | F,3 | F,, G,, A,,/B,,/ C, | A,, (B,, C,) !invertedfermata!F,, | 
+%% 10
+[V: S1V1] G | G G A c | G3 | G A/=B/ c d | B c3 | 
+w: Who from our mo- thers' arms hath bless- ed us on our way 
 w: And keep us in his grace, and guide us when per- plexed; 
 w: The one e- ter- nal God, whom earth and Heav'n a- dore; 
-[V: S2]  [C,2C2] | [C,3/2C3/2] [C,/C/] [F,C] [F,C] | [C,3C3] [C,C] | [F,C] [E,G,] [F,A,] G, & x3 G, | [C,3G,3]
-% 13
-[V: S1]  [Fc] | [Fd] [Fc] [FB] [FA] | [F2B2] !sintro![F2A2] | [DG] [CF] [DF] [CE] | [C4F4] !eintro!|]
+[V: S1V2]  E | F E F F | E3 | C C/D/ E F | E E3 | 
+[V: S2V1]  C | D C C C | C3 | C A, A, A, | ^G, A,3 | 
+[V: S2V2]  C, | =B,, C, F,, A,, | C,3 | E, F, E, D, | E, A,,3 | 
+%% 15
+[V: S1V1] c | d c B A | B3 | A G F F | E F3 || F2 F2 |]
 w: With count- less gifts of love, and still is ours to- day. 
 w: And free us from all ills, in this world and the next! 
-w: For thus it was, is now, and shall be ev- er- more. 
-[V: S2]  [F,A,] | [B,,B,] [A,,C] [B,,D] [F,,C] | [B,,2D2] [F,,2C2] | [G,,B,] [A,,A,] [B,,G,] [C,G,] | [F,,4A,4] |]
-% 21
+w: For thus it was, is now, and shall be ev- er- more. A- men.
+[V: S1V2]  E | D D D ^F | G3 | F D D D | C C3 || D2 C2 |]
+[V: S2V1]  A, | A, G,/A,/ B, C | B,3 | C B, A, G, | G, [A,3F,3] || B,2 A,2 |]
+[V: S2V2]  A,/G,/ | ^F, E,/F,/ G, D, | G,,3 | A,, B,,/C,/ D, B,, | C, F,,3 || B,,2 F,,2 |]
 
 
 X: 24

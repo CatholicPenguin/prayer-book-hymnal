@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{a80369b941567f563ba31e6cd06a426259859666}{13}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{d3b39d2d9314d744000ead9655149c6ffd48983e}{13}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -1116,14 +1116,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{w}{o}{r}{w}{or}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{sh}{i}{pped\GreProtrusion{\GreProtrusionFactor{period}}{.}}{s}{hipped\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{w}{o}{r}{w}{or}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{sh}{i}{pp'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}{s}{hipp'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{8}{\GreNextCustos{6}{}}{8}%
 {%
 \GreGlyphHeights{8}{7}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{sh}{i}{pped\GreProtrusion{\GreProtrusionFactor{period}}{.}}{s}{hipped\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{sh}{i}{pp'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}{s}{hipp'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{10}{}}{0}%
 {%

@@ -1,0 +1,1640 @@
+\babel@toc {british}{}\relax 
+\vspace *{-3ex}
+\contentsline {chapter}{Copyright}{i}{section*.2}%
+\contentsline {chapter}{Editor's Preface}{ix}{section*.3}%
+\contentsline {chapter}{Ferial Hymns}{1}{section*.4}%
+\contentsline {section}{Invitatory Hymns}{2}{figure.caption.5}%
+\contentsline {subsection}{Sunday Invitatory Hymn in Summer}{2}{figure.caption.5}%
+\contentsline {subsection}{Sunday Invitatory Hymn in Winter}{3}{figure.caption.5}%
+\contentsline {subsection}{Weekday Invitatory Hymn}{4}{figure.caption.5}%
+\contentsline {subsection}{Monday Invitatory Hymn}{6}{figure.caption.5}%
+\contentsline {subsection}{Tuesday Invitatory Hymn}{7}{figure.caption.5}%
+\contentsline {subsection}{Wednesday Invitatory Hymn}{8}{figure.caption.5}%
+\contentsline {subsection}{Thursday Invitatory Hymn}{10}{figure.caption.5}%
+\contentsline {subsection}{Friday Invitatory Hymn}{11}{figure.caption.5}%
+\contentsline {subsection}{Saturday Invitatory Hymn}{12}{figure.caption.5}%
+\contentsline {section}{Summer Hymns}{14}{figure.caption.5}%
+\contentsline {subsection}{Sunday Mattins Office Hymn}{14}{figure.caption.5}%
+\contentsline {subsection}{Sunday Evensong Office Hymn}{15}{figure.caption.5}%
+\contentsline {subsection}{Monday Mattins Office Hymn}{16}{figure.caption.5}%
+\contentsline {subsection}{Monday Evensong Office Hymn}{18}{figure.caption.5}%
+\contentsline {subsection}{Tuesday Mattins Office Hymn}{19}{figure.caption.5}%
+\contentsline {subsection}{Tuesday Evensong Office Hymn}{20}{figure.caption.5}%
+\contentsline {subsection}{Wednesday Mattins Office Hymn}{22}{figure.caption.5}%
+\contentsline {subsection}{Wednesday Evensong Office Hymn}{23}{figure.caption.5}%
+\contentsline {subsection}{Thursday Mattins Office Hymn}{24}{figure.caption.5}%
+\contentsline {subsection}{Thursday Evensong Office Hymn}{25}{figure.caption.5}%
+\contentsline {subsection}{Friday Mattins Office Hymn}{27}{figure.caption.5}%
+\contentsline {subsection}{Friday Evensong Office Hymn}{28}{figure.caption.5}%
+\contentsline {subsection}{Saturday Mattins Office Hymn}{30}{figure.caption.5}%
+\contentsline {subsection}{Saturday Evensong Office Hymn}{31}{figure.caption.5}%
+\contentsline {section}{Winter Hymns}{32}{figure.caption.5}%
+\contentsline {subsection}{Sunday Mattins Office Hymn}{32}{figure.caption.5}%
+\contentsline {subsection}{Sunday Evensong Office Hymn}{34}{figure.caption.5}%
+\contentsline {subsection}{Monday Mattins Office Hymn}{35}{figure.caption.5}%
+\contentsline {subsection}{Monday Evensong Office Hymn}{37}{figure.caption.5}%
+\contentsline {subsection}{Tuesday Mattins Office Hymn}{38}{figure.caption.5}%
+\contentsline {subsection}{Tuesday Evensong Office Hymn}{39}{figure.caption.5}%
+\contentsline {subsection}{Wednesday Mattins Office Hymn}{41}{figure.caption.5}%
+\contentsline {subsection}{Wednesday Evensong Office Hymn}{42}{figure.caption.5}%
+\contentsline {subsection}{Thursday Mattins Office Hymn}{43}{figure.caption.5}%
+\contentsline {subsection}{Thursday Evensong Office Hymn}{44}{figure.caption.5}%
+\contentsline {subsection}{Friday Mattins Office Hymn}{46}{figure.caption.5}%
+\contentsline {subsection}{Friday Evensong Office Hymn}{47}{figure.caption.5}%
+\contentsline {subsection}{Saturday Mattins Office Hymn}{48}{figure.caption.5}%
+\contentsline {subsection}{Saturday Evensong Office Hymn}{50}{figure.caption.5}%
+\contentsline {chapter}{Liturgical Hymns}{51}{section*.6}%
+\contentsline {section}{Ordinary of the Office}{52}{figure.caption.7}%
+\contentsline {subsection}{Introduction}{52}{figure.caption.7}%
+\contentsline {subsubsection}{Simple}{52}{figure.caption.7}%
+\contentsline {subsubsection}{Solemn}{53}{figure.caption.7}%
+\contentsline {subsection}{Apostles' Creed}{54}{figure.caption.7}%
+\contentsline {subsection}{Salutation}{54}{figure.caption.7}%
+\contentsline {subsection}{Kyrie}{54}{figure.caption.7}%
+\contentsline {subsection}{Lord's Prayer}{55}{figure.caption.7}%
+\contentsline {subsection}{Preces}{55}{figure.caption.7}%
+\contentsline {subsection}{Mattins Collects}{56}{figure.caption.7}%
+\contentsline {subsubsection}{A Collect for Peace}{56}{figure.caption.7}%
+\contentsline {subsubsection}{A Collect for Grace}{57}{figure.caption.7}%
+\contentsline {subsection}{Evensong Collects}{57}{figure.caption.7}%
+\contentsline {subsubsection}{A Collect for Peace}{57}{figure.caption.7}%
+\contentsline {subsubsection}{A Collect for Aid against Perils}{58}{figure.caption.7}%
+\contentsline {subsection}{Conclusion}{58}{figure.caption.7}%
+\contentsline {section}{Office Service}{60}{figure.caption.7}%
+\contentsline {subsection}{Our Worship, Praise, and Thanksgiving\\unto the Glory of God Alone}{60}{figure.caption.7}%
+\contentsline {subsubsection}{Venite, exultemus Domino}{60}{figure.caption.7}%
+\contentsline {subsubsection}{Pascha Nostrum}{61}{figure.caption.7}%
+\contentsline {subsubsection}{Te Deum laudamus}{61}{figure.caption.7}%
+\contentsline {subsubsection}{Benedicite, omnia opera Domini}{63}{figure.caption.7}%
+\contentsline {subsubsection}{Benedictus}{65}{figure.caption.7}%
+\contentsline {subsubsection}{Athanasian Creed}{67}{figure.caption.7}%
+\contentsline {subsubsection}{Gloria in excelsis}{69}{figure.caption.7}%
+\contentsline {subsubsection}{Magnificat}{71}{figure.caption.7}%
+\contentsline {subsubsection}{Nunc dimittis}{72}{figure.caption.7}%
+\contentsline {subsection}{Marian Anthems}{73}{figure.caption.7}%
+\contentsline {subsubsection}{Alma Redemptoris Mater}{73}{figure.caption.7}%
+\contentsline {subsubsection}{Ave, Regina C{\ae }lorum}{74}{figure.caption.7}%
+\contentsline {subsubsection}{Regina C{\ae }li}{74}{figure.caption.7}%
+\contentsline {subsubsection}{Salve Regina, Simple Tone}{75}{figure.caption.7}%
+\contentsline {subsubsection}{Salve Regina, Solemn Tone}{76}{figure.caption.7}%
+\contentsline {section}{Great Litany}{77}{figure.caption.7}%
+\contentsline {section}{Communion Services}{78}{figure.caption.7}%
+\contentsline {subsection}{Communion Service One - \\Mass of the Grace of God}{78}{figure.caption.7}%
+\contentsline {subsubsection}{Ten Commandments}{78}{figure.caption.7}%
+\contentsline {subsubsection}{Kyrie}{78}{figure.caption.7}%
+\contentsline {subsubsection}{Gloria in excelsis}{79}{figure.caption.7}%
+\contentsline {subsubsection}{Nicene Creed}{80}{figure.caption.7}%
+\contentsline {subsubsection}{Sanctus}{82}{figure.caption.7}%
+\contentsline {subsubsection}{Agnus Dei}{82}{figure.caption.7}%
+\contentsline {subsection}{Communion Service Two - \\Mass of Our Lady}{83}{figure.caption.7}%
+\contentsline {subsubsection}{Ten Commandments}{83}{figure.caption.7}%
+\contentsline {subsubsection}{Kyrie}{84}{figure.caption.7}%
+\contentsline {subsubsection}{Gloria in excelsis}{84}{figure.caption.7}%
+\contentsline {subsubsection}{Nicene Creed}{86}{figure.caption.7}%
+\contentsline {subsubsection}{Sanctus}{88}{figure.caption.7}%
+\contentsline {subsubsection}{Agnus Dei}{89}{figure.caption.7}%
+\contentsline {subsection}{Communion Service Three - \\Mass of the Angels}{90}{figure.caption.7}%
+\contentsline {subsubsection}{Kyrie}{90}{figure.caption.7}%
+\contentsline {subsubsection}{Gloria in excelsis}{90}{figure.caption.7}%
+\contentsline {subsubsection}{Sanctus}{92}{figure.caption.7}%
+\contentsline {subsubsection}{Agnus Dei}{92}{figure.caption.7}%
+\contentsline {subsection}{Communion Service Four - \\Mass of the Maker of the World}{93}{figure.caption.7}%
+\contentsline {subsubsection}{Kyrie}{93}{figure.caption.7}%
+\contentsline {subsubsection}{Gloria in excelsis}{93}{figure.caption.7}%
+\contentsline {subsubsection}{Sanctus}{95}{figure.caption.7}%
+\contentsline {subsubsection}{Agnus Dei}{95}{figure.caption.7}%
+\contentsline {subsection}{Communion Service Five - \\Mass of God Our Sweet Father}{96}{figure.caption.7}%
+\contentsline {subsubsection}{Kyrie}{96}{figure.caption.7}%
+\contentsline {subsubsection}{Sanctus}{96}{figure.caption.7}%
+\contentsline {subsubsection}{Agnus Dei}{97}{figure.caption.7}%
+\contentsline {section}{Creeds}{98}{figure.caption.7}%
+\contentsline {subsection}{Creed III}{98}{figure.caption.7}%
+\contentsline {subsection}{Credo III}{100}{figure.caption.7}%
+\contentsline {section}{Sequences}{102}{figure.caption.7}%
+\contentsline {subsection}{Victimae paschali laudes}{102}{figure.caption.7}%
+\contentsline {subsection}{Veni, Sancte Spiritus}{103}{figure.caption.7}%
+\contentsline {subsection}{Dies Irae, Dies Illa}{104}{figure.caption.7}%
+\contentsline {section}{Paraliturgical Hymns}{108}{figure.caption.7}%
+\contentsline {subsection}{Therefore, We Before Him Bending}{108}{figure.caption.7}%
+\contentsline {subsection}{Tantum Ergo Sacramentum}{109}{figure.caption.7}%
+\contentsline {subsection}{O Saving Victim Opening Wide}{110}{figure.caption.7}%
+\contentsline {subsection}{O Salutaris Hostia}{110}{figure.caption.7}%
+\contentsline {subsection}{Prostrate, I Adore Thee}{111}{figure.caption.7}%
+\contentsline {subsection}{Adoro Te Devote}{113}{figure.caption.7}%
+\contentsline {subsection}{Advent Prose}{115}{figure.caption.7}%
+\contentsline {chapter}{Devotional Hymns}{117}{section*.8}%
+\contentsline {chapter}{Propers of the Church Year}{307}{section*.10}%
+\contentsline {section}{Proper of Season}{308}{section*.12}%
+\contentsline {subsection}{First Sunday of Advent}{308}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{308}{section*.12}%
+\contentsline {subsubsection}{Mattins}{309}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{311}{section*.12}%
+\contentsline {subsection}{Advent Ferial Office}{312}{section*.12}%
+\contentsline {subsection}{The First Week of Advent}{312}{section*.12}%
+\contentsline {subsubsection}{Monday}{312}{section*.12}%
+\contentsline {subsubsection}{Tuesday}{312}{section*.12}%
+\contentsline {subsubsection}{Wednesday}{312}{section*.12}%
+\contentsline {subsubsection}{Thursday}{312}{section*.12}%
+\contentsline {subsubsection}{Friday}{312}{section*.12}%
+\contentsline {subsubsection}{Saturday}{312}{section*.12}%
+\contentsline {subsection}{Second Sunday of Advent}{313}{section*.12}%
+\contentsline {subsection}{The Second Week of Advent}{313}{section*.12}%
+\contentsline {subsubsection}{Monday}{313}{section*.12}%
+\contentsline {subsubsection}{Tuesday}{313}{section*.12}%
+\contentsline {subsubsection}{Wednesday}{313}{section*.12}%
+\contentsline {subsubsection}{Thursday}{313}{section*.12}%
+\contentsline {subsubsection}{Friday}{313}{section*.12}%
+\contentsline {subsubsection}{Saturday}{314}{section*.12}%
+\contentsline {subsection}{Magnificat Antiphons before Christmas}{314}{section*.12}%
+\contentsline {subsubsection}{16 December: O Sapientia}{314}{section*.12}%
+\contentsline {subsubsection}{17 December: O Adonai}{314}{section*.12}%
+\contentsline {subsubsection}{18 December: O Radix Jesse}{314}{section*.12}%
+\contentsline {subsubsection}{19 December: O Clavis David}{314}{section*.12}%
+\contentsline {subsubsection}{20 December: O Oriens}{314}{section*.12}%
+\contentsline {subsubsection}{21 December: O Rex gentium}{314}{section*.12}%
+\contentsline {subsubsection}{22 December: O Emmanuel}{315}{section*.12}%
+\contentsline {subsubsection}{23 December: O Virgo virginum}{315}{section*.12}%
+\contentsline {subsection}{Third Sunday of Advent}{315}{section*.12}%
+\contentsline {subsection}{The Third Week of Advent}{315}{section*.12}%
+\contentsline {subsubsection}{Monday}{315}{section*.12}%
+\contentsline {subsubsection}{Tuesday}{315}{section*.12}%
+\contentsline {subsubsection}{Ember Wednesday}{315}{section*.12}%
+\contentsline {subsubsection}{Thursday}{316}{section*.12}%
+\contentsline {subsubsection}{Ember Friday}{316}{section*.12}%
+\contentsline {subsubsection}{Ember Saturday}{316}{section*.12}%
+\contentsline {subsection}{Fourth Sunday of Advent}{316}{section*.12}%
+\contentsline {subsection}{The Fourth Week of Advent}{316}{section*.12}%
+\contentsline {subsubsection}{Monday}{316}{section*.12}%
+\contentsline {subsubsection}{Tuesday}{316}{section*.12}%
+\contentsline {subsubsection}{Wednesday}{316}{section*.12}%
+\contentsline {subsubsection}{Thursday}{316}{section*.12}%
+\contentsline {subsubsection}{Friday}{316}{section*.12}%
+\contentsline {subsection}{Christmas Eve}{317}{section*.12}%
+\contentsline {subsection}{Christmas Day}{317}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{317}{section*.12}%
+\contentsline {subsubsection}{Mattins}{319}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{321}{section*.12}%
+\contentsline {subsection}{26 December. St. Stephen}{321}{section*.12}%
+\contentsline {subsubsection}{Mattins}{321}{section*.12}%
+\contentsline {subsubsection}{Evensong}{322}{section*.12}%
+\contentsline {subsection}{27 December. St. John}{324}{section*.12}%
+\contentsline {subsubsection}{Mattins}{324}{section*.12}%
+\contentsline {subsubsection}{Evensong}{325}{section*.12}%
+\contentsline {subsection}{28 December. Holy Innocents}{325}{section*.12}%
+\contentsline {subsubsection}{Mattins}{325}{section*.12}%
+\contentsline {subsubsection}{Evensong}{327}{section*.12}%
+\contentsline {subsection}{Sunday within the Nativity Octave}{327}{section*.12}%
+\contentsline {subsection}{1 January. Circumcision of Our Lord}{328}{section*.12}%
+\contentsline {subsection}{2 January. Most Holy Name of Jesus}{328}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{328}{section*.12}%
+\contentsline {subsubsection}{Mattins}{329}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{332}{section*.12}%
+\contentsline {subsection}{2 January. Octave Day of St. Stephen}{332}{section*.12}%
+\contentsline {subsubsection}{Collect}{332}{section*.12}%
+\contentsline {subsection}{Second Sunday after Nativity}{332}{section*.12}%
+\contentsline {subsection}{3 January. Octave Day of St. John}{333}{section*.12}%
+\contentsline {subsubsection}{Collect}{333}{section*.12}%
+\contentsline {subsubsection}{Secret}{333}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{333}{section*.12}%
+\contentsline {subsection}{4 January. Octave Day of Holy Innocents}{333}{section*.12}%
+\contentsline {subsubsection}{Collect}{334}{section*.12}%
+\contentsline {subsubsection}{Secret}{334}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{334}{section*.12}%
+\contentsline {subsection}{4 January. St. Titus}{334}{section*.12}%
+\contentsline {subsubsection}{Collect}{334}{section*.12}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 10:1}}{334}{section*.12}%
+\contentsline {subsubsection}{Secret}{335}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{335}{section*.12}%
+\contentsline {subsection}{5 January. Vigil of Epiphany}{335}{section*.12}%
+\contentsline {subsubsection}{Introit}{335}{section*.12}%
+\contentsline {subsubsection}{Collect}{335}{section*.12}%
+\contentsline {subsubsection}{Epistle. \emph {Galatians 4:1}}{336}{section*.12}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 2:19}}{336}{section*.12}%
+\contentsline {subsubsection}{Secret}{336}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{336}{section*.12}%
+\contentsline {subsection}{5 January. St. Telesphorus}{337}{section*.12}%
+\contentsline {subsubsection}{Collect}{337}{section*.12}%
+\contentsline {subsubsection}{Secret}{337}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{337}{section*.12}%
+\contentsline {subsection}{6 January. Epiphany of Our Lord}{337}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{337}{section*.12}%
+\contentsline {subsubsection}{Mattins}{339}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{340}{section*.12}%
+\contentsline {subsection}{Within the Octave of the Epiphany}{340}{section*.12}%
+\contentsline {subsubsection}{Day II, Semidouble}{340}{section*.12}%
+\contentsline {subsubsection}{Day III, Semidouble}{341}{section*.12}%
+\contentsline {subsubsection}{Day IV, Semidouble}{341}{section*.12}%
+\contentsline {subsubsection}{Day V, Semidouble}{341}{section*.12}%
+\contentsline {subsubsection}{Day VI, Semidouble}{341}{section*.12}%
+\contentsline {subsubsection}{Saturday within the Octave}{341}{section*.12}%
+\contentsline {subsection}{Sunday within the Octave of the Epiphany}{342}{section*.12}%
+\contentsline {subsection}{Baptism of Our Lord}{342}{section*.12}%
+\contentsline {subsection}{Second Sunday after Epiphany}{342}{section*.12}%
+\contentsline {subsection}{Third Sunday after Epiphany}{342}{section*.12}%
+\contentsline {subsection}{Fourth Sunday after Epiphany}{343}{section*.12}%
+\contentsline {subsection}{Fifth Sunday after Epiphany}{343}{section*.12}%
+\contentsline {subsection}{Sixth Sunday after Epiphany}{343}{section*.12}%
+\contentsline {subsection}{Septuagesima Sunday}{343}{section*.12}%
+\contentsline {subsection}{Septuagesimatide Ferial Office}{343}{section*.12}%
+\contentsline {subsection}{Antiphons within Septuagesima Week}{344}{section*.12}%
+\contentsline {subsubsection}{Septuagesima Monday, Feria}{344}{section*.12}%
+\contentsline {subsubsection}{Septuagesima Tuesday, Feria}{344}{section*.12}%
+\contentsline {subsubsection}{Septuagesima Wednesday, Feria}{344}{section*.12}%
+\contentsline {subsubsection}{Septuagesima Thursday, Feria}{344}{section*.12}%
+\contentsline {subsubsection}{Septuagesima Friday, Feria}{344}{section*.12}%
+\contentsline {subsection}{Sexagesima Sunday}{344}{section*.12}%
+\contentsline {subsection}{Antiphons within Sexagesima Week}{344}{section*.12}%
+\contentsline {subsubsection}{Sexagesima Monday, Feria}{344}{section*.12}%
+\contentsline {subsubsection}{Sexagesima Tuesday, Feria}{344}{section*.12}%
+\contentsline {subsubsection}{Sexagesima Wednesday, Feria}{345}{section*.12}%
+\contentsline {subsubsection}{Sexagesima Thursday, Feria}{345}{section*.12}%
+\contentsline {subsubsection}{Sexagesima Friday, Feria}{345}{section*.12}%
+\contentsline {subsection}{Quinquagesima Sunday}{345}{section*.12}%
+\contentsline {subsection}{Antiphons within Quinquagesima Week}{345}{section*.12}%
+\contentsline {subsubsection}{Quinquagesima Monday, Feria}{345}{section*.12}%
+\contentsline {subsubsection}{Quinquagesima Tuesday, Feria}{345}{section*.12}%
+\contentsline {subsection}{Ash Wednesday}{346}{section*.12}%
+\contentsline {subsection}{Thursday after Ash Wednesday}{346}{section*.12}%
+\contentsline {subsubsection}{Introit}{346}{section*.12}%
+\contentsline {subsubsection}{Collect}{346}{section*.12}%
+\contentsline {subsubsection}{Epistle. \emph {Isaiah 38:1}}{347}{section*.12}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 8:5}}{347}{section*.12}%
+\contentsline {subsubsection}{Secret}{347}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{348}{section*.12}%
+\contentsline {subsection}{Friday after Ash Wednesday}{348}{section*.12}%
+\contentsline {subsubsection}{Introit}{348}{section*.12}%
+\contentsline {subsubsection}{Collect}{348}{section*.12}%
+\contentsline {subsubsection}{Epistle. \emph {Isaiah 58:1}}{349}{section*.12}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 5:43}}{349}{section*.12}%
+\contentsline {subsubsection}{Secret}{350}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{350}{section*.12}%
+\contentsline {subsection}{Saturday after Ash Wednesday}{350}{section*.12}%
+\contentsline {subsubsection}{Introit}{350}{section*.12}%
+\contentsline {subsubsection}{Collect}{351}{section*.12}%
+\contentsline {subsubsection}{Epistle. \emph {Isaiah 58:9}}{351}{section*.12}%
+\contentsline {subsubsection}{Gospel. \emph {Mark 6:47}}{351}{section*.12}%
+\contentsline {subsubsection}{Secret}{352}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{352}{section*.12}%
+\contentsline {subsection}{First Sunday of Lent}{352}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{352}{section*.12}%
+\contentsline {subsubsection}{Mattins}{354}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{357}{section*.12}%
+\contentsline {subsection}{Lenten Ferial Office}{357}{section*.12}%
+\contentsline {subsection}{Ember Wednesday in Lent}{357}{section*.12}%
+\contentsline {subsection}{Ember Friday in Lent}{357}{section*.12}%
+\contentsline {subsection}{Ember Saturday in Lent}{357}{section*.12}%
+\contentsline {subsection}{Second Sunday of Lent}{357}{section*.12}%
+\contentsline {subsection}{Third Sunday of Lent}{358}{section*.12}%
+\contentsline {subsection}{Fourth Sunday of Lent}{358}{section*.12}%
+\contentsline {subsection}{Passion Sunday}{358}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{358}{section*.12}%
+\contentsline {subsubsection}{Mattins}{360}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{364}{section*.12}%
+\contentsline {subsection}{Passiontide Ferial Office}{364}{section*.12}%
+\contentsline {subsection}{Palm Sunday}{364}{section*.12}%
+\contentsline {subsection}{Easter Day}{364}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{364}{section*.12}%
+\contentsline {subsubsection}{Mattins}{365}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{368}{section*.12}%
+\contentsline {subsection}{Antiphons within Easter Week}{370}{section*.12}%
+\contentsline {subsubsection}{Easter Monday}{370}{section*.12}%
+\contentsline {subsubsection}{Easter Tuesday}{370}{section*.12}%
+\contentsline {subsubsection}{Easter Wednesday}{370}{section*.12}%
+\contentsline {subsubsection}{Easter Thursday}{370}{section*.12}%
+\contentsline {subsubsection}{Easter Friday}{370}{section*.12}%
+\contentsline {subsubsection}{Easter Saturday}{370}{section*.12}%
+\contentsline {subsection}{Low Sunday}{371}{section*.12}%
+\contentsline {subsection}{Eastertide Ferial Office}{371}{section*.12}%
+\contentsline {subsection}{The First Week after the Easter Octave}{371}{section*.12}%
+\contentsline {subsubsection}{Monday}{371}{section*.12}%
+\contentsline {subsubsection}{Tuesday}{371}{section*.12}%
+\contentsline {subsubsection}{Wednesday}{372}{section*.12}%
+\contentsline {subsubsection}{Thursday}{372}{section*.12}%
+\contentsline {subsubsection}{Friday}{372}{section*.12}%
+\contentsline {subsection}{Second Sunday after Easter}{372}{section*.12}%
+\contentsline {subsection}{The Second Week after the Easter Octave}{372}{section*.12}%
+\contentsline {subsubsection}{Monday}{372}{section*.12}%
+\contentsline {subsubsection}{Tuesday}{373}{section*.12}%
+\contentsline {subsubsection}{Wednesday}{373}{section*.12}%
+\contentsline {subsubsection}{Thursday}{373}{section*.12}%
+\contentsline {subsubsection}{Friday}{373}{section*.12}%
+\contentsline {subsection}{Patronage of St. Joseph}{373}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{373}{section*.12}%
+\contentsline {subsubsection}{Mattins}{375}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{376}{section*.12}%
+\contentsline {subsection}{Third Sunday after Easter}{377}{section*.12}%
+\contentsline {subsection}{The Third Week after the Easter Octave}{377}{section*.12}%
+\contentsline {subsubsection}{Monday}{377}{section*.12}%
+\contentsline {subsubsection}{Tuesday}{377}{section*.12}%
+\contentsline {subsubsection}{Wednesday}{377}{section*.12}%
+\contentsline {subsubsection}{Thursday}{377}{section*.12}%
+\contentsline {subsubsection}{Friday}{378}{section*.12}%
+\contentsline {subsection}{Fourth Sunday after Easter}{378}{section*.12}%
+\contentsline {subsection}{The Fourth Week after the Easter Octave}{378}{section*.12}%
+\contentsline {subsubsection}{Monday}{378}{section*.12}%
+\contentsline {subsubsection}{Tuesday}{378}{section*.12}%
+\contentsline {subsubsection}{Wednesday}{378}{section*.12}%
+\contentsline {subsubsection}{Thursday}{379}{section*.12}%
+\contentsline {subsubsection}{Friday}{379}{section*.12}%
+\contentsline {subsection}{Rogation Sunday}{379}{section*.12}%
+\contentsline {subsection}{Rogation Monday}{379}{section*.12}%
+\contentsline {subsection}{Rogation Tuesday}{380}{section*.12}%
+\contentsline {subsection}{Vigil of Ascension}{380}{section*.12}%
+\contentsline {subsubsection}{Introit}{380}{section*.12}%
+\contentsline {subsubsection}{Collect}{380}{section*.12}%
+\contentsline {subsubsection}{Epistle. \emph {Ephesians 4:7}}{380}{section*.12}%
+\contentsline {subsubsection}{Gospel. \emph {John 17:1}}{381}{section*.12}%
+\contentsline {subsubsection}{Secret}{381}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{382}{section*.12}%
+\contentsline {subsection}{Ascension of Our Lord}{382}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{382}{section*.12}%
+\contentsline {subsubsection}{Mattins}{382}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{385}{section*.12}%
+\contentsline {subsection}{Sunday within the Ascension Octave}{385}{section*.12}%
+\contentsline {subsection}{Vigil of Whitsunday}{386}{section*.12}%
+\contentsline {subsubsection}{Prophecy I. \emph {Genesis 22:1}}{386}{section*.12}%
+\contentsline {subsubsection}{Prophecy II. \emph {Exodus 14:24}}{387}{section*.12}%
+\contentsline {subsubsection}{Prophecy III. \emph {Deuteronomy 31:22}}{388}{section*.12}%
+\contentsline {subsubsection}{Prophecy IV. \emph {Isaiah 4:1}}{388}{section*.12}%
+\contentsline {subsubsection}{Prophecy V. \emph {Baruch 3:9}}{389}{section*.12}%
+\contentsline {subsubsection}{Prophecy VI. \emph {Ezekiel 37:}}{390}{section*.12}%
+\babel@toc {latin}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {latin}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {latin}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {latin}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {latin}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {latin}{}\relax 
+\babel@toc {british}{}\relax 
+\babel@toc {british}{}\relax 
+\contentsline {subsubsection}{Collect}{391}{section*.12}%
+\contentsline {subsubsection}{Epistle. \emph {Acts 19:1}}{392}{section*.12}%
+\contentsline {subsubsection}{Gospel. \emph {John 14:15}}{392}{section*.12}%
+\contentsline {subsubsection}{Secret}{392}{section*.12}%
+\contentsline {subsubsection}{Postcommunion}{393}{section*.12}%
+\contentsline {subsection}{Whitsunday}{393}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{393}{section*.12}%
+\contentsline {subsubsection}{Mattins}{395}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{398}{section*.12}%
+\contentsline {subsection}{Whit-Monday}{399}{section*.12}%
+\contentsline {subsection}{Whit-Tuesday}{399}{section*.12}%
+\contentsline {subsection}{Ember Wednesday in Whitsuntide}{399}{section*.12}%
+\contentsline {subsection}{Whit-Thursday}{399}{section*.12}%
+\contentsline {subsection}{Ember Friday in Whitsuntide}{399}{section*.12}%
+\contentsline {subsection}{Ember Saturday in Whitsuntide}{400}{section*.12}%
+\contentsline {subsection}{Trinity Sunday}{400}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{400}{section*.12}%
+\contentsline {subsubsection}{Mattins}{400}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{402}{section*.12}%
+\contentsline {subsection}{The Most Holy Body of Christ}{402}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{402}{section*.12}%
+\contentsline {subsubsection}{Mattins}{404}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{407}{section*.12}%
+\contentsline {subsection}{Sunday in the Octave of Corpus Christi}{408}{section*.12}%
+\contentsline {subsection}{Compassion of Our Lord Jesus Christ}{408}{section*.12}%
+\contentsline {subsubsection}{I Evensong}{408}{section*.12}%
+\contentsline {subsubsection}{Mattins}{410}{section*.12}%
+\contentsline {subsubsection}{II Evensong}{413}{section*.12}%
+\contentsline {subsection}{Sundays after Trinity}{413}{section*.12}%
+\contentsline {subsubsection}{Second Sunday after Trinity}{413}{section*.12}%
+\contentsline {subsubsection}{Third Sunday after Trinity}{413}{section*.12}%
+\contentsline {subsubsection}{Fourth Sunday after Trinity}{413}{section*.12}%
+\contentsline {subsubsection}{Fifth Sunday after Trinity}{413}{section*.12}%
+\contentsline {subsubsection}{Sixth Sunday after Trinity}{413}{section*.12}%
+\contentsline {subsubsection}{Seventh Sunday after Trinity}{414}{section*.12}%
+\contentsline {subsubsection}{Eighth Sunday after Trinity}{414}{section*.12}%
+\contentsline {subsubsection}{Ninth Sunday after Trinity}{414}{section*.12}%
+\contentsline {subsubsection}{Tenth Sunday after Trinity}{414}{section*.12}%
+\contentsline {subsubsection}{Eleventh Sunday after Trinity}{415}{section*.12}%
+\contentsline {subsubsection}{Twelfth Sunday after Trinity}{415}{section*.12}%
+\contentsline {subsubsection}{Thirteenth Sunday after Trinity}{415}{section*.12}%
+\contentsline {subsubsection}{Fourteenth Sunday after Trinity}{415}{section*.12}%
+\contentsline {subsubsection}{Fifteenth Sunday after Trinity}{415}{section*.12}%
+\contentsline {subsubsection}{Sixteenth Sunday after Trinity}{415}{section*.12}%
+\contentsline {subsubsection}{Seventeenth Sunday after Trinity}{415}{section*.12}%
+\contentsline {subsubsection}{Eighteenth Sunday after Trinity}{415}{section*.12}%
+\contentsline {subsubsection}{Nineteenth Sunday after Trinity}{416}{section*.12}%
+\contentsline {subsubsection}{Twentieth Sunday after Trinity}{416}{section*.12}%
+\contentsline {subsubsection}{Twenty-First Sunday after Trinity}{416}{section*.12}%
+\contentsline {subsubsection}{Twenty-Second Sunday after Trinity}{416}{section*.12}%
+\contentsline {subsubsection}{Twenty-Third Sunday after Trinity}{416}{section*.12}%
+\contentsline {subsubsection}{Twenty-Fourth Sunday after Trinity}{416}{section*.12}%
+\contentsline {subsubsection}{Sunday Next before Advent}{416}{section*.12}%
+\contentsline {subsection}{Magnificat Antiphons for Sundays in Trinitytide}{417}{section*.12}%
+\contentsline {section}{Proper of Saints}{419}{section*.13}%
+\contentsline {subsection}{29 November. Vigil of St. Andrew}{419}{section*.13}%
+\contentsline {subsubsection}{Introit}{419}{section*.13}%
+\contentsline {subsubsection}{Collect}{419}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 44:22}}{419}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {John 1:35}}{420}{section*.13}%
+\contentsline {subsubsection}{Secret}{420}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{421}{section*.13}%
+\contentsline {subsection}{(29 November. St. Saturninus)}{421}{section*.13}%
+\contentsline {subsubsection}{Collect}{421}{section*.13}%
+\contentsline {subsubsection}{Secret}{421}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{421}{section*.13}%
+\contentsline {subsection}{[30 November. St. Andrew]}{421}{section*.13}%
+\contentsline {subsection}{2 December. St. Peter Chrysologus}{422}{section*.13}%
+\contentsline {subsubsection}{Collect}{422}{section*.13}%
+\contentsline {subsection}{(2 December. St. Bibiana)}{422}{section*.13}%
+\contentsline {subsubsection}{Collect}{422}{section*.13}%
+\contentsline {subsubsection}{Secret}{422}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{422}{section*.13}%
+\contentsline {subsection}{(4 December. St. Barbara)}{423}{section*.13}%
+\contentsline {subsection}{(5 December. St. Sabbas of Jud{\ae }a)}{423}{section*.13}%
+\contentsline {subsection}{6 December. St. Nicholas}{423}{section*.13}%
+\contentsline {subsubsection}{Introit}{423}{section*.13}%
+\contentsline {subsubsection}{Collect}{423}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Hebrews 13:7}}{423}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 25:14}}{424}{section*.13}%
+\contentsline {subsubsection}{Secret}{424}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{424}{section*.13}%
+\contentsline {subsection}{7 December. St. Ambrose}{425}{section*.13}%
+\contentsline {subsubsection}{Introit}{425}{section*.13}%
+\contentsline {subsubsection}{Collect}{425}{section*.13}%
+\contentsline {subsubsection}{Secret}{425}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{426}{section*.13}%
+\contentsline {subsection}{[8 December. Conception of the Blessed Virgin Mary]}{426}{section*.13}%
+\contentsline {subsection}{(10 December. St. Melchiades)}{426}{section*.13}%
+\contentsline {subsection}{(11 December. St. Damasus)}{426}{section*.13}%
+\contentsline {subsubsection}{Introit}{426}{section*.13}%
+\contentsline {subsubsection}{Collect}{426}{section*.13}%
+\contentsline {subsubsection}{Secret}{427}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{427}{section*.13}%
+\contentsline {subsection}{13 December. St. Lucy}{427}{section*.13}%
+\contentsline {subsubsection}{Introit}{428}{section*.13}%
+\contentsline {subsubsection}{Collect}{428}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 13:44}}{428}{section*.13}%
+\contentsline {subsubsection}{Secret}{428}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{429}{section*.13}%
+\contentsline {subsection}{(13 December. St. Herman of Alaska)}{429}{section*.13}%
+\contentsline {subsection}{14 December. Day VII within the Octave of the Conception}{429}{section*.13}%
+\contentsline {subsection}{15 December. Octave Day of the Conception of the Blessed Virgin Mary}{429}{section*.13}%
+\contentsline {subsection}{(16 December. St. Eusebius of Vercelli)}{430}{section*.13}%
+\contentsline {subsection}{18 December. Expectation of the Blessed Virgin Mary}{430}{section*.13}%
+\contentsline {subsubsection}{Collect}{430}{section*.13}%
+\contentsline {subsection}{20 December. Vigil of St. Thomas}{430}{section*.13}%
+\contentsline {subsection}{[21 December. St. Thomas]}{431}{section*.13}%
+\contentsline {subsection}{(10 January. St. Paul the First Hermit)}{431}{section*.13}%
+\contentsline {subsubsection}{Introit}{431}{section*.13}%
+\contentsline {subsubsection}{Collect}{431}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 11:25}}{431}{section*.13}%
+\contentsline {subsubsection}{Secret}{432}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{432}{section*.13}%
+\contentsline {subsection}{(11 January. St. Hyginus of Rome)}{432}{section*.13}%
+\contentsline {subsection}{(12 January. St. Benedict Biscop)}{432}{section*.13}%
+\contentsline {subsubsection}{Collect}{432}{section*.13}%
+\contentsline {subsubsection}{Secret}{432}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{432}{section*.13}%
+\contentsline {subsection}{14 January. St. Hilary}{433}{section*.13}%
+\contentsline {subsection}{(14 January. St. Felix)}{433}{section*.13}%
+\contentsline {subsubsection}{Collect}{433}{section*.13}%
+\contentsline {subsubsection}{Secret}{433}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{433}{section*.13}%
+\contentsline {subsection}{15 January. St. Maurus}{433}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{433}{section*.13}%
+\contentsline {subsubsection}{Mattins}{434}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{435}{section*.13}%
+\contentsline {subsubsection}{Introit}{435}{section*.13}%
+\contentsline {subsubsection}{Collect}{435}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 51:13}}{435}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 14:28}}{436}{section*.13}%
+\contentsline {subsubsection}{Secret}{436}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{437}{section*.13}%
+\contentsline {subsection}{(16 January. St. Marcellus)}{437}{section*.13}%
+\contentsline {subsubsection}{Introit}{437}{section*.13}%
+\contentsline {subsubsection}{Collect}{437}{section*.13}%
+\contentsline {subsubsection}{Secret}{437}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{438}{section*.13}%
+\contentsline {subsection}{17 January. St. Anthony}{438}{section*.13}%
+\contentsline {subsection}{18 January. Chair of St. Peter at Rome}{438}{section*.13}%
+\contentsline {subsubsection}{Introit}{438}{section*.13}%
+\contentsline {subsubsection}{Collect}{438}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 Peter 1:1}}{438}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 16:13}}{439}{section*.13}%
+\contentsline {subsubsection}{Secret}{440}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{440}{section*.13}%
+\contentsline {subsection}{(18 January. St. Prisca of Rome)}{440}{section*.13}%
+\contentsline {subsubsection}{Collect}{440}{section*.13}%
+\contentsline {subsubsection}{Secret}{440}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{440}{section*.13}%
+\contentsline {subsection}{(19 January. Sts. Marius, Martha, Audifax, \& Abachum)}{441}{section*.13}%
+\contentsline {subsubsection}{Introit}{441}{section*.13}%
+\contentsline {subsubsection}{Collect}{441}{section*.13}%
+\contentsline {subsubsection}{Secret}{441}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{441}{section*.13}%
+\contentsline {subsection}{(19 January. St. Mark of Ephesus)}{442}{section*.13}%
+\contentsline {subsubsection}{Collect}{442}{section*.13}%
+\contentsline {subsubsection}{Secret}{442}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{442}{section*.13}%
+\contentsline {subsection}{20 January. Sts. Fabian \& Sebastian}{443}{section*.13}%
+\contentsline {subsubsection}{Introit}{443}{section*.13}%
+\contentsline {subsubsection}{Collect}{443}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 6:17}}{443}{section*.13}%
+\contentsline {subsubsection}{Secret}{444}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{444}{section*.13}%
+\contentsline {subsection}{21 January. St. Agnes of Rome}{444}{section*.13}%
+\contentsline {subsubsection}{Introit}{444}{section*.13}%
+\contentsline {subsubsection}{Collect}{445}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 51:1}}{445}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 25:1}}{445}{section*.13}%
+\contentsline {subsubsection}{Secret}{446}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{446}{section*.13}%
+\contentsline {subsection}{(22 January. Sts. Vincent \& Anastasius)}{446}{section*.13}%
+\contentsline {subsection}{(23 January. St. Emerentiana)}{446}{section*.13}%
+\contentsline {subsection}{24 January. St. Timothy}{447}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 Timothy 6:11}}{447}{section*.13}%
+\contentsline {subsection}{[25 January. Conversion of St. Paul the Apostle]}{447}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{447}{section*.13}%
+\contentsline {subsubsection}{Mattins}{448}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{448}{section*.13}%
+\contentsline {subsection}{(26 January. St. Polycarp of Smyrna)}{448}{section*.13}%
+\contentsline {subsubsection}{Introit}{448}{section*.13}%
+\contentsline {subsubsection}{Collect}{448}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 John 3:10}}{449}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 10:26}}{449}{section*.13}%
+\contentsline {subsubsection}{Secret}{449}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{450}{section*.13}%
+\contentsline {subsection}{27 January. St. John Chrysostom}{450}{section*.13}%
+\contentsline {subsubsection}{Collect}{450}{section*.13}%
+\contentsline {subsubsection}{Secret}{450}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{450}{section*.13}%
+\contentsline {subsection}{28 January. St. Cyril of Alexandria}{451}{section*.13}%
+\contentsline {subsubsection}{Collect}{451}{section*.13}%
+\contentsline {subsubsection}{Secret}{451}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{451}{section*.13}%
+\contentsline {subsection}{(28 January. The Second Feast of St. Agnes)}{451}{section*.13}%
+\contentsline {subsubsection}{Introit}{451}{section*.13}%
+\contentsline {subsubsection}{Collect}{451}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 13:44}}{452}{section*.13}%
+\contentsline {subsubsection}{Secret}{452}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{452}{section*.13}%
+\contentsline {subsection}{(30 January. St. Martina)}{452}{section*.13}%
+\contentsline {subsection}{1 February. St. Ignatius of Antioch}{453}{section*.13}%
+\contentsline {subsubsection}{Introit}{453}{section*.13}%
+\contentsline {subsubsection}{Collect}{453}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Romans 8:35}}{453}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {John 12:24}}{453}{section*.13}%
+\contentsline {subsubsection}{Secret}{454}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{454}{section*.13}%
+\contentsline {subsection}{(1 February. St. Bridget of Ireland)}{454}{section*.13}%
+\contentsline {subsection}{[2 February. Purification of the Blessed Virgin Mary]}{454}{section*.13}%
+\contentsline {subsection}{(3 February. St. Blaise)}{455}{section*.13}%
+\contentsline {subsection}{(4 February. St. Joseph of Aleppo)}{455}{section*.13}%
+\contentsline {subsection}{(4 February. The New Martyrs of Russia)}{455}{section*.13}%
+\contentsline {subsection}{5 February. St. Agatha}{455}{section*.13}%
+\contentsline {subsubsection}{Introit}{455}{section*.13}%
+\contentsline {subsubsection}{Collect}{456}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 Corinthians 1:26}}{456}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 19:3}}{456}{section*.13}%
+\contentsline {subsubsection}{Secret}{457}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{457}{section*.13}%
+\contentsline {subsection}{(6 February. St. Dorothea)}{457}{section*.13}%
+\contentsline {subsubsection}{Collect}{457}{section*.13}%
+\contentsline {subsubsection}{Secret}{457}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{457}{section*.13}%
+\contentsline {subsection}{7 February. St. Romuald}{458}{section*.13}%
+\contentsline {subsection}{(9 February. St. Apollonia of Alexandria)}{458}{section*.13}%
+\contentsline {subsubsection}{Collect}{458}{section*.13}%
+\contentsline {subsubsection}{Secret}{458}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{458}{section*.13}%
+\contentsline {subsection}{[10 February. St. Scholastica]}{458}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{458}{section*.13}%
+\contentsline {subsubsection}{Mattins}{460}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{463}{section*.13}%
+\contentsline {subsection}{(11 February. Pope St. Gregory II)}{463}{section*.13}%
+\contentsline {subsection}{(14 February. St. Valentine)}{464}{section*.13}%
+\contentsline {subsubsection}{Collect}{464}{section*.13}%
+\contentsline {subsubsection}{Secret}{464}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{464}{section*.13}%
+\contentsline {subsection}{(15 February. Sts. Faustinus and Jovita)}{464}{section*.13}%
+\contentsline {subsubsection}{Collect}{464}{section*.13}%
+\contentsline {subsubsection}{Secret}{464}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{464}{section*.13}%
+\contentsline {subsection}{(18 February. St. Simeon of Jerusalem)}{464}{section*.13}%
+\contentsline {subsection}{[22 February. Chair of St. Peter at Antioch]}{465}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{465}{section*.13}%
+\contentsline {subsubsection}{Mattins}{466}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{466}{section*.13}%
+\contentsline {subsection}{23/24 February. Vigil of St. Matthias}{467}{section*.13}%
+\contentsline {subsection}{[24/25 February. St. Matthias]}{467}{section*.13}%
+\contentsline {subsection}{(25/26 February. St. Walburga of Heidenheim)}{467}{section*.13}%
+\contentsline {subsubsection}{Collect}{467}{section*.13}%
+\contentsline {subsubsection}{Secret}{467}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{467}{section*.13}%
+\contentsline {subsection}{(26/27 February. Pope St. Alexander of Alexandria)}{467}{section*.13}%
+\contentsline {subsection}{27/28 February. St. Raphael of Brooklyn}{468}{section*.13}%
+\contentsline {subsection}{(1 March. St. David of Wales)}{468}{section*.13}%
+\contentsline {subsubsection}{Collect}{468}{section*.13}%
+\contentsline {subsubsection}{Secret}{468}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{468}{section*.13}%
+\contentsline {subsection}{(2 March. St. Chad)}{468}{section*.13}%
+\contentsline {subsubsection}{Collect}{468}{section*.13}%
+\contentsline {subsubsection}{Secret}{469}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{469}{section*.13}%
+\contentsline {subsection}{(4 March. Pope St. Lucius I)}{469}{section*.13}%
+\contentsline {subsubsection}{Collect}{469}{section*.13}%
+\contentsline {subsubsection}{Secret}{469}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{469}{section*.13}%
+\contentsline {subsection}{6 March. Sts. Perpetua and Felicitas}{470}{section*.13}%
+\contentsline {subsubsection}{Collect}{470}{section*.13}%
+\contentsline {subsubsection}{Secret}{470}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{470}{section*.13}%
+\contentsline {subsection}{(9 March. St. Gregory of Nyssa)}{470}{section*.13}%
+\contentsline {subsection}{(10 March. The Forty Holy Martyrs)}{471}{section*.13}%
+\contentsline {subsubsection}{Introit}{471}{section*.13}%
+\contentsline {subsubsection}{Collect}{471}{section*.13}%
+\contentsline {subsubsection}{Secret}{471}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{471}{section*.13}%
+\contentsline {subsection}{[12 March. Pope St. Gregory the Great]}{472}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{472}{section*.13}%
+\contentsline {subsubsection}{Mattins}{473}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{474}{section*.13}%
+\contentsline {subsection}{17 March. St. Patrick}{475}{section*.13}%
+\contentsline {subsubsection}{Collect}{475}{section*.13}%
+\contentsline {subsubsection}{Secret}{475}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{475}{section*.13}%
+\contentsline {subsection}{(17 March. St. Joseph of Arimathea)}{476}{section*.13}%
+\contentsline {subsubsection}{Collect}{476}{section*.13}%
+\contentsline {subsection}{18 March. St. Cyril of Jerusalem}{476}{section*.13}%
+\contentsline {subsubsection}{Introit}{476}{section*.13}%
+\contentsline {subsubsection}{Collect}{476}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 10:23}}{477}{section*.13}%
+\contentsline {subsubsection}{Secret}{477}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{477}{section*.13}%
+\contentsline {subsection}{(18 March. St. Edward)}{478}{section*.13}%
+\contentsline {subsubsection}{Collect}{478}{section*.13}%
+\contentsline {subsubsection}{Secret}{478}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{478}{section*.13}%
+\contentsline {subsection}{[19 March. St. Joseph, Spouse of the Blessed Virgin Mary]}{478}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{478}{section*.13}%
+\contentsline {subsubsection}{Mattins}{480}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{483}{section*.13}%
+\contentsline {subsection}{20 March. St. Cuthbert}{483}{section*.13}%
+\contentsline {subsubsection}{Collect}{483}{section*.13}%
+\contentsline {subsubsection}{Secret}{483}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{483}{section*.13}%
+\contentsline {subsection}{[21 March. St. Benedict]}{484}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{484}{section*.13}%
+\contentsline {subsubsection}{Mattins}{485}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{488}{section*.13}%
+\contentsline {subsection}{24 March. St. Gabriel}{488}{section*.13}%
+\contentsline {subsubsection}{Introit}{489}{section*.13}%
+\contentsline {subsubsection}{Collect}{490}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Daniel 9:21}}{490}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 1:26}}{491}{section*.13}%
+\contentsline {subsubsection}{Secret}{491}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{491}{section*.13}%
+\contentsline {subsection}{[25 March. Annunciation of the Blessed Virgin Mary]}{492}{section*.13}%
+\contentsline {subsection}{27 March. St. John Damascene}{492}{section*.13}%
+\contentsline {subsubsection}{Introit}{492}{section*.13}%
+\contentsline {subsubsection}{Collect}{492}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Wisdom 10:10}}{493}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 6:6}}{493}{section*.13}%
+\contentsline {subsubsection}{Secret}{493}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{494}{section*.13}%
+\contentsline {subsection}{(30 March. St. John Climacus)}{494}{section*.13}%
+\contentsline {subsection}{(31 March. St. Innocent of Alaska)}{494}{section*.13}%
+\contentsline {subsection}{4 April. St. Isidore of Seville}{494}{section*.13}%
+\contentsline {subsection}{[7 April. St. Tikhon of Moscow]}{494}{section*.13}%
+\contentsline {subsection}{11 April. Pope St. Leo the Great}{495}{section*.13}%
+\contentsline {subsubsection}{Introit}{495}{section*.13}%
+\contentsline {subsubsection}{Collect}{495}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 16:13}}{495}{section*.13}%
+\contentsline {subsubsection}{Secret}{496}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{496}{section*.13}%
+\contentsline {subsection}{(13 April. St. Hermengild)}{496}{section*.13}%
+\contentsline {subsubsection}{Collect}{496}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 14:26}}{496}{section*.13}%
+\contentsline {subsubsection}{Secret}{497}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{497}{section*.13}%
+\contentsline {subsection}{(14 April. St. Justin)}{497}{section*.13}%
+\contentsline {subsubsection}{Introit}{497}{section*.13}%
+\contentsline {subsubsection}{Collect}{497}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 Corinthians 1:18}}{497}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 12:2}}{498}{section*.13}%
+\contentsline {subsubsection}{Secret}{499}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{499}{section*.13}%
+\contentsline {subsection}{(14 April. St. Tiburtius, Valerian, and Maximus)}{499}{section*.13}%
+\contentsline {subsubsection}{Collect}{499}{section*.13}%
+\contentsline {subsubsection}{Secret}{499}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{499}{section*.13}%
+\contentsline {subsection}{(17 April. St. Anicetus)}{500}{section*.13}%
+\contentsline {subsection}{(22 April. Sts. Soter and Caius)}{500}{section*.13}%
+\contentsline {subsection}{[23 April. St. George]}{500}{section*.13}%
+\contentsline {subsection}{[25 April. St. Mark]}{500}{section*.13}%
+\contentsline {subsection}{(26 April. Sts. Cletus and Marcellinus)}{500}{section*.13}%
+\contentsline {subsubsection}{Collect}{500}{section*.13}%
+\contentsline {subsubsection}{Secret}{500}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{501}{section*.13}%
+\contentsline {subsection}{(28 April. St. Vitalis)}{501}{section*.13}%
+\contentsline {subsection}{[1 May. Sts. Philip \& James]}{501}{section*.13}%
+\contentsline {subsection}{2 May. St. Athanasius}{501}{section*.13}%
+\contentsline {subsubsection}{Introit}{501}{section*.13}%
+\contentsline {subsubsection}{Collect}{501}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {2 Corinthians 4:5}}{502}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 10:23}}{502}{section*.13}%
+\contentsline {subsubsection}{Secret}{503}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{503}{section*.13}%
+\contentsline {subsection}{[3 May. Invention of the Holy Cross]}{503}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{503}{section*.13}%
+\contentsline {subsubsection}{Mattins}{505}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{509}{section*.13}%
+\contentsline {subsection}{(3 May. Sts. Alexander, Eventius, Theodulus, and Juvenalis)}{509}{section*.13}%
+\contentsline {subsubsection}{Collect}{509}{section*.13}%
+\contentsline {subsubsection}{Secret}{509}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{509}{section*.13}%
+\contentsline {subsection}{(4 May. St. Monica)}{509}{section*.13}%
+\contentsline {subsubsection}{Collect}{509}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 7:11}}{510}{section*.13}%
+\contentsline {subsubsection}{Secret}{510}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{510}{section*.13}%
+\contentsline {subsection}{[6 May. St. John before the Latin Gate]}{510}{section*.13}%
+\contentsline {subsection}{(7 May. St. Alexis Toth)}{510}{section*.13}%
+\contentsline {subsection}{8 May. The Apparition of St. Michael the Archangel}{510}{section*.13}%
+\contentsline {subsubsection}{Introit}{510}{section*.13}%
+\contentsline {subsubsection}{Collect}{511}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Revelation 1:1}}{511}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 18:1}}{511}{section*.13}%
+\contentsline {subsubsection}{Secret}{512}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{512}{section*.13}%
+\contentsline {subsection}{(8 May. Pope St. Boniface IV)}{512}{section*.13}%
+\contentsline {subsection}{9 May. St. Gregory Nazianzen}{512}{section*.13}%
+\contentsline {subsection}{(10 May. Sts. Gordian \& Epimachus)}{512}{section*.13}%
+\contentsline {subsubsection}{Collect}{512}{section*.13}%
+\contentsline {subsubsection}{Secret}{512}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{512}{section*.13}%
+\contentsline {subsection}{(12 May. Sts. Nereus, Achilles, Domitilla, and Pancras)}{513}{section*.13}%
+\contentsline {subsubsection}{Introit}{513}{section*.13}%
+\contentsline {subsubsection}{Collect}{513}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {John 4:46}}{513}{section*.13}%
+\contentsline {subsubsection}{Secret}{513}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{514}{section*.13}%
+\contentsline {subsection}{(14 May. St. Boniface of Tarsus)}{514}{section*.13}%
+\contentsline {subsubsection}{Collect}{514}{section*.13}%
+\contentsline {subsubsection}{Secret}{514}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{514}{section*.13}%
+\contentsline {subsection}{18 May. St. Venantius}{514}{section*.13}%
+\contentsline {subsubsection}{Collect}{514}{section*.13}%
+\contentsline {subsubsection}{Secret}{514}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{515}{section*.13}%
+\contentsline {subsection}{(19 May. St. Pudentiana)}{515}{section*.13}%
+\contentsline {subsection}{(22 May. St. Romanus)}{515}{section*.13}%
+\contentsline {subsection}{(24 May. St. Vincent of Lerins)}{515}{section*.13}%
+\contentsline {subsection}{(25 May. Pope St. Urban I)}{515}{section*.13}%
+\contentsline {subsection}{26 May. St. Augustine of Canterbury}{515}{section*.13}%
+\contentsline {subsubsection}{Introit}{515}{section*.13}%
+\contentsline {subsubsection}{Collect}{515}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Hebrews 7:23}}{516}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 10:1}}{516}{section*.13}%
+\contentsline {subsubsection}{Secret}{516}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{517}{section*.13}%
+\contentsline {subsection}{(26 May. Pope St. Eleutherius)}{517}{section*.13}%
+\contentsline {subsubsection}{Collect}{517}{section*.13}%
+\contentsline {subsubsection}{Secret}{517}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{517}{section*.13}%
+\contentsline {subsection}{27 May. St. Bede the Venerable}{518}{section*.13}%
+\contentsline {subsubsection}{Collect}{518}{section*.13}%
+\contentsline {subsubsection}{Secret}{518}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{518}{section*.13}%
+\contentsline {subsection}{(27 May. Pope St. John I)}{518}{section*.13}%
+\contentsline {subsection}{(30 May. Pope St. Felix I)}{518}{section*.13}%
+\contentsline {subsection}{(31 May. St. Petronilla)}{518}{section*.13}%
+\contentsline {subsection}{(2 June. Sts. Marcellinus, Peter, \& Erasmus)}{519}{section*.13}%
+\contentsline {subsubsection}{Introit}{519}{section*.13}%
+\contentsline {subsubsection}{Collect}{519}{section*.13}%
+\contentsline {subsubsection}{Secret}{519}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{520}{section*.13}%
+\contentsline {subsection}{5 June. St. Boniface}{520}{section*.13}%
+\contentsline {subsubsection}{Introit}{520}{section*.13}%
+\contentsline {subsubsection}{Collect}{520}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 44:1}}{520}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 5:1}}{521}{section*.13}%
+\contentsline {subsubsection}{Secret}{521}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{521}{section*.13}%
+\contentsline {subsection}{9 June. St. Columba of Iona}{522}{section*.13}%
+\contentsline {subsection}{(9 June. Sts. Primus \& Felician)}{522}{section*.13}%
+\contentsline {subsubsection}{Introit}{522}{section*.13}%
+\contentsline {subsubsection}{Collect}{522}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 11:25}}{522}{section*.13}%
+\contentsline {subsubsection}{Secret}{523}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{523}{section*.13}%
+\contentsline {subsection}{(10 June. St. Margaret of Scotland)}{523}{section*.13}%
+\contentsline {subsubsection}{Collect}{523}{section*.13}%
+\contentsline {subsubsection}{Secret}{523}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{523}{section*.13}%
+\contentsline {subsection}{[11 June. St. Barnabas]}{524}{section*.13}%
+\contentsline {subsection}{(12 June. Sts. Basilides, Cyrinus, Nabor, and Nazarius)}{524}{section*.13}%
+\contentsline {subsubsection}{Introit}{524}{section*.13}%
+\contentsline {subsubsection}{Collect}{524}{section*.13}%
+\contentsline {subsubsection}{Secret}{524}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{525}{section*.13}%
+\contentsline {subsection}{14 June. St. Basil the Great}{525}{section*.13}%
+\contentsline {subsubsection}{Introit}{525}{section*.13}%
+\contentsline {subsubsection}{Collect}{525}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 14:26}}{525}{section*.13}%
+\contentsline {subsubsection}{Secret}{526}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{526}{section*.13}%
+\contentsline {subsection}{(15 June. Sts. Vitus, Modestus, and Crescentia)}{526}{section*.13}%
+\contentsline {subsubsection}{Introit}{526}{section*.13}%
+\contentsline {subsubsection}{Collect}{526}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 10:16}}{527}{section*.13}%
+\contentsline {subsubsection}{Secret}{527}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{527}{section*.13}%
+\contentsline {subsection}{18 June. St. Ephrem the Syrian}{527}{section*.13}%
+\contentsline {subsubsection}{Collect}{527}{section*.13}%
+\contentsline {subsubsection}{Secret}{528}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{528}{section*.13}%
+\contentsline {subsection}{(18 June. Sts. Marcus and Marcellianus)}{528}{section*.13}%
+\contentsline {subsubsection}{Introit}{528}{section*.13}%
+\contentsline {subsubsection}{Collect}{528}{section*.13}%
+\contentsline {subsubsection}{Secret}{529}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{529}{section*.13}%
+\contentsline {subsection}{(19 June. Sts. Gervase and Protase)}{529}{section*.13}%
+\contentsline {subsubsection}{Introit}{529}{section*.13}%
+\contentsline {subsubsection}{Collect}{529}{section*.13}%
+\contentsline {subsubsection}{Secret}{530}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{530}{section*.13}%
+\contentsline {subsection}{(20 June. St. Silverius)}{530}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Jude 17}}{530}{section*.13}%
+\contentsline {subsection}{22 June. St. Alban}{530}{section*.13}%
+\contentsline {subsubsection}{Introit}{530}{section*.13}%
+\contentsline {subsubsection}{Collect}{531}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Wisdom 10:10}}{531}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 16:24}}{531}{section*.13}%
+\contentsline {subsubsection}{Secret}{531}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{532}{section*.13}%
+\contentsline {subsection}{(22 June. St. Paulinus)}{532}{section*.13}%
+\contentsline {subsubsection}{Introit}{532}{section*.13}%
+\contentsline {subsubsection}{Collect}{532}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {2 Corinthians 8:9}}{532}{section*.13}%
+\contentsline {subsubsection}{Secret}{533}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{533}{section*.13}%
+\contentsline {subsection}{23 June. Vigil of St. John Baptist}{533}{section*.13}%
+\contentsline {subsubsection}{Introit}{533}{section*.13}%
+\contentsline {subsubsection}{Collect}{533}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Jeremiah 1:4}}{533}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 1:5}}{534}{section*.13}%
+\contentsline {subsubsection}{Secret}{534}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{535}{section*.13}%
+\contentsline {subsection}{(23 June. St. Etheldreda)}{535}{section*.13}%
+\contentsline {subsubsection}{Collect}{535}{section*.13}%
+\contentsline {subsection}{[24 June. St. John Baptist]}{535}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{535}{section*.13}%
+\contentsline {subsubsection}{Mattins}{537}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{539}{section*.13}%
+\contentsline {subsection}{26 June. Sts. John and Paul}{540}{section*.13}%
+\contentsline {subsubsection}{Introit}{540}{section*.13}%
+\contentsline {subsubsection}{Collect}{540}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 44:10}}{540}{section*.13}%
+\contentsline {subsubsection}{Secret}{541}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{541}{section*.13}%
+\contentsline {subsection}{28 June. Vigil of Sts. Peter and Paul}{541}{section*.13}%
+\contentsline {subsubsection}{Introit}{541}{section*.13}%
+\contentsline {subsubsection}{Collect}{541}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Acts 3:1}}{542}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {John 21:15}}{542}{section*.13}%
+\contentsline {subsubsection}{Secret}{542}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{543}{section*.13}%
+\contentsline {subsection}{(28 June. Pope St. Leo II)}{543}{section*.13}%
+\contentsline {subsection}{[29 June. Sts. Peter and Paul]}{543}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{543}{section*.13}%
+\contentsline {subsubsection}{Mattins}{544}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{546}{section*.13}%
+\contentsline {subsection}{[30 June. Commemoration of St. Paul]}{546}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{546}{section*.13}%
+\contentsline {subsubsection}{Mattins}{547}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{547}{section*.13}%
+\contentsline {subsection}{[1 July. Most Precious Blood of Our Lord Jesus Christ]}{547}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{547}{section*.13}%
+\contentsline {subsubsection}{Mattins}{549}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{553}{section*.13}%
+\contentsline {subsection}{[2 July. Visitation of the Blessed Virgin Mary]}{554}{section*.13}%
+\contentsline {subsection}{(2 July. St. John of San Francisco)}{554}{section*.13}%
+\contentsline {subsection}{(2 July. Sts. Processus and Martinian)}{554}{section*.13}%
+\contentsline {subsubsection}{Collect}{554}{section*.13}%
+\contentsline {subsubsection}{Secret}{554}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{554}{section*.13}%
+\contentsline {subsection}{3 July. St. Iren{\ae }us of Lyon}{555}{section*.13}%
+\contentsline {subsubsection}{Collect}{555}{section*.13}%
+\contentsline {subsection}{6 July. Octave Day of Sts. Peter and Paul}{555}{section*.13}%
+\contentsline {subsubsection}{Introit}{555}{section*.13}%
+\contentsline {subsubsection}{Collect}{555}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 44:10}}{555}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 14:22}}{556}{section*.13}%
+\contentsline {subsubsection}{Secret}{556}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{556}{section*.13}%
+\contentsline {subsection}{7 July. Sts. Cyril and Methodius}{557}{section*.13}%
+\contentsline {subsubsection}{Collect}{557}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 10:1}}{557}{section*.13}%
+\contentsline {subsubsection}{Secret}{557}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{557}{section*.13}%
+\contentsline {subsection}{(10 July. Seven Holy Brothers, with Sts. Rufina and Secunda)}{558}{section*.13}%
+\contentsline {subsubsection}{Introit}{558}{section*.13}%
+\contentsline {subsubsection}{Collect}{558}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 12:46}}{558}{section*.13}%
+\contentsline {subsubsection}{Secret}{558}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{558}{section*.13}%
+\contentsline {subsection}{(10 July. St. Joseph of Damascus and Companions)}{559}{section*.13}%
+\contentsline {subsection}{(11 July. Pope St. Pius I)}{559}{section*.13}%
+\contentsline {subsection}{(12 July. Sts. Nabor and Felix)}{559}{section*.13}%
+\contentsline {subsubsection}{Collect}{559}{section*.13}%
+\contentsline {subsubsection}{Secret}{559}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{559}{section*.13}%
+\contentsline {subsection}{(13 July. St. Anacletus)}{559}{section*.13}%
+\contentsline {subsection}{15 July. St. Vladimir of Kiev}{559}{section*.13}%
+\contentsline {subsection}{(16 July. Sts. Nicholas and Habib Khasha)}{559}{section*.13}%
+\contentsline {subsection}{(17 July. St. Alexius)}{560}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 Timothy 6:6}}{560}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 19:27}}{560}{section*.13}%
+\contentsline {subsection}{18 July. Translation of St. Raphael of Brooklyn}{560}{section*.13}%
+\contentsline {subsection}{(18 July. St. Sergius of Radonezh)}{560}{section*.13}%
+\contentsline {subsection}{(18 July. Sts. Symphorosa and Her Seven Sons)}{560}{section*.13}%
+\contentsline {subsubsection}{Introit}{560}{section*.13}%
+\contentsline {subsubsection}{Collect}{560}{section*.13}%
+\contentsline {subsubsection}{Secret}{561}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{561}{section*.13}%
+\contentsline {subsection}{(19 July. St. Seraphim of Sarov)}{561}{section*.13}%
+\contentsline {subsection}{20 July. St. Elias the Prophet}{561}{section*.13}%
+\contentsline {subsubsection}{Introit}{564}{section*.13}%
+\contentsline {subsubsection}{Collect}{564}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 48:1}}{564}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 9:28}}{565}{section*.13}%
+\contentsline {subsubsection}{Secret}{565}{section*.13}%
+\contentsline {subsubsection}{Preface}{565}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{566}{section*.13}%
+\contentsline {subsection}{(20 July. St. Margaret of Antioch)}{566}{section*.13}%
+\contentsline {subsection}{(21 July. St. Praxedes)}{566}{section*.13}%
+\contentsline {subsubsection}{Introit}{566}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 13:44}}{566}{section*.13}%
+\contentsline {subsection}{[22 July. St. Mary Magdalene, Penitent]}{567}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{567}{section*.13}%
+\contentsline {subsubsection}{Mattins}{568}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{570}{section*.13}%
+\contentsline {subsection}{(23 July. St. John Cassian)}{570}{section*.13}%
+\contentsline {subsection}{(23 July. St. Apollinaris of Ravenna)}{570}{section*.13}%
+\contentsline {subsubsection}{Introit}{570}{section*.13}%
+\contentsline {subsubsection}{Collect}{570}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 Peter 5:1}}{571}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 22:24}}{571}{section*.13}%
+\contentsline {subsubsection}{Secret}{571}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{572}{section*.13}%
+\contentsline {subsection}{(23 July. St. Liborius)}{572}{section*.13}%
+\contentsline {subsection}{24 July. Vigil of St. James}{572}{section*.13}%
+\contentsline {subsection}{(24 July. St. Christina)}{572}{section*.13}%
+\contentsline {subsection}{[25 July. St. James]}{572}{section*.13}%
+\contentsline {subsection}{(25 July. St. Christopher)}{572}{section*.13}%
+\contentsline {subsection}{[26 July. St. Anne]}{572}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{572}{section*.13}%
+\contentsline {subsubsection}{Mattins}{573}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{574}{section*.13}%
+\contentsline {subsection}{(27 July. St. Pantaleon)}{576}{section*.13}%
+\contentsline {subsection}{(28 July. Sts. Nazarius, Celsus, Victor, and Innocent)}{576}{section*.13}%
+\contentsline {subsubsection}{Collect}{576}{section*.13}%
+\contentsline {subsubsection}{Secret}{576}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{576}{section*.13}%
+\contentsline {subsection}{29 July. St. Martha of Bethany}{576}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 10:38}}{576}{section*.13}%
+\contentsline {subsection}{(29 July. Sts. Felix II, Simplicius, Faustinus, and Beatrice)}{577}{section*.13}%
+\contentsline {subsubsection}{Collect}{577}{section*.13}%
+\contentsline {subsubsection}{Secret}{577}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{577}{section*.13}%
+\contentsline {subsection}{(30 July. Sts. Abdon and Sennen)}{577}{section*.13}%
+\contentsline {subsubsection}{Introit}{577}{section*.13}%
+\contentsline {subsubsection}{Collect}{577}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 5:1}}{578}{section*.13}%
+\contentsline {subsubsection}{Secret}{578}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{578}{section*.13}%
+\contentsline {subsection}{[1 August. Chains of St. Peter]}{578}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{578}{section*.13}%
+\contentsline {subsubsection}{Mattins}{579}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{580}{section*.13}%
+\contentsline {subsection}{(1 August. Holy Maccabees)}{580}{section*.13}%
+\contentsline {subsubsection}{Introit}{580}{section*.13}%
+\contentsline {subsubsection}{Collect}{580}{section*.13}%
+\contentsline {subsubsection}{Secret}{581}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{581}{section*.13}%
+\contentsline {subsection}{(2 August. Pope St. Stephen)}{581}{section*.13}%
+\contentsline {subsubsection}{Introit}{581}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Acts 20:17}}{581}{section*.13}%
+\contentsline {subsection}{3 August. Invention of St. Stephen}{582}{section*.13}%
+\contentsline {subsubsection}{Collect}{582}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Acts 6:8}}{582}{section*.13}%
+\contentsline {subsection}{5 August. Dedication of Our Lady of the Snows}{583}{section*.13}%
+\contentsline {subsection}{5 August. St. Oswald}{583}{section*.13}%
+\contentsline {subsubsection}{Collect}{583}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Wisdom 4:7}}{583}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 16:24}}{583}{section*.13}%
+\contentsline {subsection}{[6 August. Transfiguration of Our Lord Jesus Christ]}{584}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{584}{section*.13}%
+\contentsline {subsubsection}{Mattins}{585}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{586}{section*.13}%
+\contentsline {subsection}{(6 August. Sts. Sixtus II, Felicissimus, and Agapitus)}{586}{section*.13}%
+\contentsline {subsection}{(7 August. St. Donatus)}{586}{section*.13}%
+\contentsline {subsubsection}{Introit}{586}{section*.13}%
+\contentsline {subsubsection}{Collect}{586}{section*.13}%
+\contentsline {subsubsection}{Secret}{587}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{587}{section*.13}%
+\contentsline {subsection}{(8 August. Sts. Cyriacus, Largus, and Smaragdus)}{587}{section*.13}%
+\contentsline {subsubsection}{Introit}{587}{section*.13}%
+\contentsline {subsubsection}{Collect}{587}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 Thessalonians 2:13}}{588}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Mark 16:15}}{588}{section*.13}%
+\contentsline {subsubsection}{Secret}{588}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{588}{section*.13}%
+\contentsline {subsection}{9 August. Vigil of St. Lawrence}{589}{section*.13}%
+\contentsline {subsubsection}{Introit}{589}{section*.13}%
+\contentsline {subsubsection}{Collect}{589}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 51:1}}{589}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 16:24}}{589}{section*.13}%
+\contentsline {subsubsection}{Secret}{590}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{590}{section*.13}%
+\contentsline {subsection}{(9 August. St. Romanus)}{590}{section*.13}%
+\contentsline {subsubsection}{Collect}{590}{section*.13}%
+\contentsline {subsubsection}{Secret}{590}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{590}{section*.13}%
+\contentsline {subsection}{[10 August. St. Lawrence]}{591}{section*.13}%
+\contentsline {subsection}{(11 August. Sts. Tiburtius and Susanna)}{591}{section*.13}%
+\contentsline {subsubsection}{Collect}{591}{section*.13}%
+\contentsline {subsubsection}{Secret}{591}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{591}{section*.13}%
+\contentsline {subsection}{13 August. St. Maximus of Constantinople}{592}{section*.13}%
+\contentsline {subsection}{(13 August. Sts. Hippolytus and Cassian)}{592}{section*.13}%
+\contentsline {subsubsection}{Collect}{592}{section*.13}%
+\contentsline {subsubsection}{Secret}{592}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{592}{section*.13}%
+\contentsline {subsection}{14 August. Vigil of the Assumption of the Blessed Virgin Mary}{592}{section*.13}%
+\contentsline {subsubsection}{Introit}{592}{section*.13}%
+\contentsline {subsubsection}{Collect}{593}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 24:9}}{593}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 11:27}}{593}{section*.13}%
+\contentsline {subsubsection}{Secret}{593}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{594}{section*.13}%
+\contentsline {subsection}{(14 August. St. Eusebius)}{594}{section*.13}%
+\contentsline {subsubsection}{Introit}{594}{section*.13}%
+\contentsline {subsubsection}{Collect}{594}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 11:25}}{594}{section*.13}%
+\contentsline {subsubsection}{Secret}{595}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{595}{section*.13}%
+\contentsline {subsection}{[15 August. Assumption of the Blessed Virgin Mary]}{595}{section*.13}%
+\contentsline {subsection}{[16 August. St. Joachim]}{597}{section*.13}%
+\contentsline {subsection}{17 August. Octave Day of St. Lawrence}{597}{section*.13}%
+\contentsline {subsubsection}{Introit}{597}{section*.13}%
+\contentsline {subsubsection}{Collect}{597}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {2 Corinthians 9:6}}{597}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {John 12:24}}{598}{section*.13}%
+\contentsline {subsubsection}{Secret}{598}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{598}{section*.13}%
+\contentsline {subsection}{(18 August. St. Helen)}{598}{section*.13}%
+\contentsline {subsubsection}{Introit}{598}{section*.13}%
+\contentsline {subsubsection}{Collect}{598}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Proverbs 31:10}}{598}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 13:44}}{599}{section*.13}%
+\contentsline {subsubsection}{Secret}{600}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{600}{section*.13}%
+\contentsline {subsection}{(18 August. St. Agapitus)}{600}{section*.13}%
+\contentsline {subsubsection}{Collect}{600}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {John 12:24}}{600}{section*.13}%
+\contentsline {subsubsection}{Secret}{600}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{600}{section*.13}%
+\contentsline {subsection}{22 August. Octave Day of the Assumption of the Blessed Virgin Mary}{601}{section*.13}%
+\contentsline {subsection}{(22 August. Sts. Timothy, Hippolytus, and Symphorian)}{601}{section*.13}%
+\contentsline {subsubsection}{Collect}{601}{section*.13}%
+\contentsline {subsubsection}{Secret}{601}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{601}{section*.13}%
+\contentsline {subsection}{23 August. Vigil of St. Bartholomew}{601}{section*.13}%
+\contentsline {subsection}{[24 August. St. Bartholomew]}{602}{section*.13}%
+\contentsline {subsection}{(26 August. St. Zephyrinus)}{602}{section*.13}%
+\contentsline {subsubsection}{Collect}{602}{section*.13}%
+\contentsline {subsubsection}{Secret}{602}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{602}{section*.13}%
+\contentsline {subsection}{28 August. St. Augustine of Hippo}{602}{section*.13}%
+\contentsline {subsubsection}{Introit}{602}{section*.13}%
+\contentsline {subsubsection}{Collect}{603}{section*.13}%
+\contentsline {subsubsection}{Secret}{603}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{603}{section*.13}%
+\contentsline {subsection}{(28 August. St. Hermes)}{603}{section*.13}%
+\contentsline {subsubsection}{Collect}{603}{section*.13}%
+\contentsline {subsubsection}{Secret}{604}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{604}{section*.13}%
+\contentsline {subsection}{[29 August. Decollation of St. John Baptist]}{604}{section*.13}%
+\contentsline {subsection}{(29 August. St. Sabina)}{604}{section*.13}%
+\contentsline {subsection}{(30 August. Sts. Felix and Adauctus)}{604}{section*.13}%
+\contentsline {subsubsection}{Introit}{604}{section*.13}%
+\contentsline {subsubsection}{Collect}{604}{section*.13}%
+\contentsline {subsubsection}{Secret}{605}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{605}{section*.13}%
+\contentsline {subsection}{(31 August. St. Aidan of Lindisfarne)}{605}{section*.13}%
+\contentsline {subsection}{(1 September. St. Giles)}{605}{section*.13}%
+\contentsline {subsection}{(1 September. Twelve Holy Brothers)}{605}{section*.13}%
+\contentsline {subsubsection}{Introit}{605}{section*.13}%
+\contentsline {subsubsection}{Collect}{605}{section*.13}%
+\contentsline {subsubsection}{Secret}{606}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{606}{section*.13}%
+\contentsline {subsection}{(2 September. St. Stephen of Hungary)}{606}{section*.13}%
+\contentsline {subsubsection}{Collect}{606}{section*.13}%
+\contentsline {subsubsection}{Secret}{606}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{606}{section*.13}%
+\contentsline {subsection}{4 September. St. Gorazde of Prague}{607}{section*.13}%
+\contentsline {subsection}{[8 September. Nativity of the Blessed Virgin Mary]}{607}{section*.13}%
+\contentsline {subsection}{(8 September. St. Hadrian)}{607}{section*.13}%
+\contentsline {subsection}{(9 September. St. Gorgonius)}{607}{section*.13}%
+\contentsline {subsubsection}{Collect}{607}{section*.13}%
+\contentsline {subsubsection}{Secret}{607}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{608}{section*.13}%
+\contentsline {subsection}{(11 September. Sts. Protus and Hyacinth)}{608}{section*.13}%
+\contentsline {subsubsection}{Collect}{608}{section*.13}%
+\contentsline {subsubsection}{Secret}{608}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{608}{section*.13}%
+\contentsline {subsection}{12 September. Most Holy Name of Mary}{608}{section*.13}%
+\contentsline {subsubsection}{Introit}{608}{section*.13}%
+\contentsline {subsubsection}{Collect}{609}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 24:17}}{609}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 1:26}}{609}{section*.13}%
+\contentsline {subsubsection}{Secret}{610}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{610}{section*.13}%
+\contentsline {subsection}{[14 September. Exaltation of the Holy Cross]}{610}{section*.13}%
+\contentsline {subsection}{[Ember Wednesday in Autumn]}{610}{section*.13}%
+\contentsline {subsection}{[Ember Friday in Autumn]}{610}{section*.13}%
+\contentsline {subsection}{[Ember Saturday in Autumn]}{610}{section*.13}%
+\contentsline {subsection}{[15 September. Seven Sorrows of the Blessed Virgin Mary]}{611}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{611}{section*.13}%
+\contentsline {subsubsection}{Mattins}{613}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{615}{section*.13}%
+\contentsline {subsection}{(15 September. St. Nicomedes)}{615}{section*.13}%
+\contentsline {subsubsection}{Collect}{615}{section*.13}%
+\contentsline {subsubsection}{Secret}{615}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{615}{section*.13}%
+\contentsline {subsection}{16 September. Sts. Cornelius and Cyprian}{616}{section*.13}%
+\contentsline {subsubsection}{Collect}{616}{section*.13}%
+\contentsline {subsubsection}{Secret}{616}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{616}{section*.13}%
+\contentsline {subsection}{(16 September. Sts. Euphemia, Lucy, and Geminian)}{616}{section*.13}%
+\contentsline {subsubsection}{Collect}{616}{section*.13}%
+\contentsline {subsubsection}{Secret}{616}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{617}{section*.13}%
+\contentsline {subsection}{19 September. Sts. Januarius and Companions}{617}{section*.13}%
+\contentsline {subsection}{(19 September. St. Theodore of Canterbury)}{617}{section*.13}%
+\contentsline {subsection}{20 September. Sts. Eustace and Companions}{617}{section*.13}%
+\contentsline {subsection}{20 September. Vigil of St. Matthew}{617}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 5:27}}{617}{section*.13}%
+\contentsline {subsection}{[21 September. St. Matthew]}{617}{section*.13}%
+\contentsline {subsection}{(22 September. Sts. Maurice and Companions)}{618}{section*.13}%
+\contentsline {subsubsection}{Collect}{618}{section*.13}%
+\contentsline {subsubsection}{Secret}{618}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{618}{section*.13}%
+\contentsline {subsection}{(23 September. Pope St. Linus)}{618}{section*.13}%
+\contentsline {subsubsection}{Collect}{618}{section*.13}%
+\contentsline {subsubsection}{Secret}{618}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{619}{section*.13}%
+\contentsline {subsection}{(23 September. St. Thecla)}{619}{section*.13}%
+\contentsline {subsubsection}{Collect}{619}{section*.13}%
+\contentsline {subsubsection}{Secret}{619}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{619}{section*.13}%
+\contentsline {subsection}{(26 September. Sts. Cyprian and Justina)}{619}{section*.13}%
+\contentsline {subsubsection}{Collect}{619}{section*.13}%
+\contentsline {subsubsection}{Secret}{619}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{620}{section*.13}%
+\contentsline {subsection}{(27 September. Sts. Cosmas and Damian)}{620}{section*.13}%
+\contentsline {subsubsection}{Introit}{620}{section*.13}%
+\contentsline {subsubsection}{Collect}{620}{section*.13}%
+\contentsline {subsubsection}{Secret}{620}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{620}{section*.13}%
+\contentsline {subsection}{(28 September. St. Wenceslaus)}{621}{section*.13}%
+\contentsline {subsubsection}{Collect}{621}{section*.13}%
+\contentsline {subsection}{[29 September. St. Michael]}{621}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{621}{section*.13}%
+\contentsline {subsubsection}{Mattins}{622}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{624}{section*.13}%
+\contentsline {subsection}{30 September. St. Jerome}{624}{section*.13}%
+\contentsline {subsubsection}{Collect}{624}{section*.13}%
+\contentsline {subsubsection}{Secret}{624}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{625}{section*.13}%
+\contentsline {subsection}{(30 September. St. Gregory of Armenia)}{625}{section*.13}%
+\contentsline {subsubsection}{Collect}{625}{section*.13}%
+\contentsline {subsubsection}{Secret}{625}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{625}{section*.13}%
+\contentsline {subsection}{(1 October. St. Remigius)}{625}{section*.13}%
+\contentsline {subsection}{[2 October. Holy Guardian Angels]}{625}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{625}{section*.13}%
+\contentsline {subsubsection}{Mattins}{627}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{628}{section*.13}%
+\contentsline {subsection}{5 October. Sts. Placidus and Companions}{628}{section*.13}%
+\contentsline {subsection}{[7 October. Holy Rosary of the Blessed Virgin Mary]}{628}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{628}{section*.13}%
+\contentsline {subsubsection}{Mattins}{630}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{633}{section*.13}%
+\contentsline {subsection}{(7 October. St. Mark of Rome)}{634}{section*.13}%
+\contentsline {subsubsection}{Collect}{634}{section*.13}%
+\contentsline {subsubsection}{Secret}{634}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{634}{section*.13}%
+\contentsline {subsection}{(7 October. Sts. Sergius, Bacchus, Marcellus, and Apuleius)}{635}{section*.13}%
+\contentsline {subsubsection}{Collect}{635}{section*.13}%
+\contentsline {subsubsection}{Secret}{635}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{635}{section*.13}%
+\contentsline {subsection}{(9 October. Sts. Denys, Rusticus, and Eleutherius)}{635}{section*.13}%
+\contentsline {subsubsection}{Introit}{635}{section*.13}%
+\contentsline {subsubsection}{Collect}{635}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Acts 17:22}}{635}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 12:1}}{636}{section*.13}%
+\contentsline {subsubsection}{Secret}{636}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{637}{section*.13}%
+\contentsline {subsection}{[11 October. Motherhood of the Blessed Virgin Mary]}{637}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{637}{section*.13}%
+\contentsline {subsubsection}{Mattins}{637}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{639}{section*.13}%
+\contentsline {subsection}{(12 October. St. Wilfred)}{640}{section*.13}%
+\contentsline {subsubsection}{Collect}{640}{section*.13}%
+\contentsline {subsubsection}{Secret}{640}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{640}{section*.13}%
+\contentsline {subsection}{(13 October. St. Edward)}{640}{section*.13}%
+\contentsline {subsubsection}{Collect}{640}{section*.13}%
+\contentsline {subsection}{14 October. St. Callistus}{640}{section*.13}%
+\contentsline {subsubsection}{Introit}{640}{section*.13}%
+\contentsline {subsubsection}{Collect}{640}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Hebrews 5:1}}{641}{section*.13}%
+\contentsline {subsubsection}{Secret}{641}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{641}{section*.13}%
+\contentsline {subsection}{[15 October. Our Lady of Walsingham]}{641}{section*.13}%
+\contentsline {subsection}{[18 October. St. Luke]}{643}{section*.13}%
+\contentsline {subsection}{(19 October. St. Frideswide)}{643}{section*.13}%
+\contentsline {subsubsection}{Collect}{643}{section*.13}%
+\contentsline {subsubsection}{Secret}{643}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{643}{section*.13}%
+\contentsline {subsection}{(21 October. St. Hilarion)}{643}{section*.13}%
+\contentsline {subsection}{(21 October. Sts. Ursula and Companions)}{643}{section*.13}%
+\contentsline {subsection}{[24 October. St. Raphael]}{644}{section*.13}%
+\contentsline {subsection}{(25 October. Sts. Chrysanthus and Daria)}{644}{section*.13}%
+\contentsline {subsubsection}{Collect}{644}{section*.13}%
+\contentsline {subsubsection}{Secret}{644}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{644}{section*.13}%
+\contentsline {subsection}{(26 October. St. Evaristus)}{644}{section*.13}%
+\contentsline {subsection}{27 October. Vigil of Sts. Simon and Jude}{645}{section*.13}%
+\contentsline {subsubsection}{Introit}{645}{section*.13}%
+\contentsline {subsubsection}{Collect}{645}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {1 Corinthians 4:9}}{645}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {John 15:1}}{645}{section*.13}%
+\contentsline {subsubsection}{Secret}{646}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{646}{section*.13}%
+\contentsline {subsection}{[28 October. Sts. Simon and Jude]}{646}{section*.13}%
+\contentsline {subsection}{[Christ the King Sunday]}{646}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{646}{section*.13}%
+\contentsline {subsubsection}{Mattins}{648}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{651}{section*.13}%
+\contentsline {subsection}{31 October. Vigil of All Hallows}{652}{section*.13}%
+\contentsline {subsubsection}{Introit}{652}{section*.13}%
+\contentsline {subsubsection}{Collect}{652}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Revelation 5:6}}{652}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 6:17}}{652}{section*.13}%
+\contentsline {subsubsection}{Secret}{653}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{653}{section*.13}%
+\contentsline {subsection}{[1 November. All Hallows]}{653}{section*.13}%
+\contentsline {subsubsection}{I Evensong}{653}{section*.13}%
+\contentsline {subsubsection}{Mattins}{655}{section*.13}%
+\contentsline {subsubsection}{II Evensong}{657}{section*.13}%
+\contentsline {subsection}{[2 November. All Souls]}{657}{section*.13}%
+\contentsline {subsection}{(3 November. St. Winifred)}{657}{section*.13}%
+\contentsline {subsection}{(4 November. Sts. Vitalis and Agricola)}{657}{section*.13}%
+\contentsline {subsubsection}{Collect}{657}{section*.13}%
+\contentsline {subsubsection}{Secret}{657}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{657}{section*.13}%
+\contentsline {subsection}{(5 November. St. Elizabeth)}{657}{section*.13}%
+\contentsline {subsection}{(7 November. St. Willibrord)}{658}{section*.13}%
+\contentsline {subsection}{8 November. Octave Day of All Hallows}{658}{section*.13}%
+\contentsline {subsection}{(8 November. Four Crowned Martyrs)}{658}{section*.13}%
+\contentsline {subsubsection}{Collect}{658}{section*.13}%
+\contentsline {subsubsection}{Secret}{658}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{658}{section*.13}%
+\contentsline {subsection}{9 November. Dedication of the Basilica of St. Saviour}{658}{section*.13}%
+\contentsline {subsection}{(9 November. St. Theodore Tyro)}{658}{section*.13}%
+\contentsline {subsubsection}{Collect}{658}{section*.13}%
+\contentsline {subsubsection}{Secret}{659}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{659}{section*.13}%
+\contentsline {subsection}{(10 November. Sts. Tryphon, Respicius, and Nympha)}{659}{section*.13}%
+\contentsline {subsubsection}{Introit}{659}{section*.13}%
+\contentsline {subsubsection}{Collect}{659}{section*.13}%
+\contentsline {subsubsection}{Secret}{659}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{660}{section*.13}%
+\contentsline {subsection}{11 November. St. Martin of Tours}{660}{section*.13}%
+\contentsline {subsubsection}{Introit}{660}{section*.13}%
+\contentsline {subsubsection}{Collect}{660}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 44:16}}{660}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 11:33}}{661}{section*.13}%
+\contentsline {subsubsection}{Secret}{661}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{661}{section*.13}%
+\contentsline {subsection}{(11 November. St. Mennas)}{661}{section*.13}%
+\contentsline {subsection}{(12 November. Pope St. Martin I)}{662}{section*.13}%
+\contentsline {subsection}{(13 November. St. Britius of Tours)}{662}{section*.13}%
+\contentsline {subsection}{(14 November. St. Gregory Palamas)}{662}{section*.13}%
+\contentsline {subsection}{(17 November. St. Gregory the Wonder-worker)}{662}{section*.13}%
+\contentsline {subsubsection}{Gospel. \emph {Mark 11:22}}{662}{section*.13}%
+\contentsline {subsection}{(17 November. St. Hilda of Whitby)}{662}{section*.13}%
+\contentsline {subsubsection}{Collect}{662}{section*.13}%
+\contentsline {subsubsection}{Secret}{662}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{663}{section*.13}%
+\contentsline {subsection}{18 November. Dedication of the Basilica of the Holy Apostles Peter and Paul}{663}{section*.13}%
+\contentsline {subsection}{(19 November. Pope St. Pontianus)}{663}{section*.13}%
+\contentsline {subsection}{20 November. St. Edmund}{663}{section*.13}%
+\contentsline {subsubsection}{Collect}{663}{section*.13}%
+\contentsline {subsubsection}{Secret}{663}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{663}{section*.13}%
+\contentsline {subsection}{21 November. Presentation of the Blessed Virgin Mary}{664}{section*.13}%
+\contentsline {subsubsection}{Collect}{664}{section*.13}%
+\contentsline {subsubsection}{Secret}{664}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{664}{section*.13}%
+\contentsline {subsubsection}{Last Gospel. \emph {Luke 11:27}}{664}{section*.13}%
+\contentsline {subsection}{(21 November. St. Gelasius)}{664}{section*.13}%
+\contentsline {subsection}{(21 November. St. Columbanus)}{664}{section*.13}%
+\contentsline {subsection}{22 November. St. Cecilia}{665}{section*.13}%
+\contentsline {subsubsection}{Introit}{665}{section*.13}%
+\contentsline {subsubsection}{Collect}{665}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 51:9}}{665}{section*.13}%
+\contentsline {subsubsection}{Secret}{666}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{666}{section*.13}%
+\contentsline {subsection}{23 November. St. Clement}{666}{section*.13}%
+\contentsline {subsubsection}{Introit}{666}{section*.13}%
+\contentsline {subsubsection}{Collect}{667}{section*.13}%
+\contentsline {subsubsection}{Epistle. \emph {Philippians 3:17}}{667}{section*.13}%
+\contentsline {subsubsection}{Secret}{667}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{667}{section*.13}%
+\contentsline {subsection}{(23 November. St. Felicitas)}{668}{section*.13}%
+\contentsline {subsubsection}{Collect}{668}{section*.13}%
+\contentsline {subsubsection}{Secret}{668}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{668}{section*.13}%
+\contentsline {subsection}{(24 November. St. Chrysogonus)}{668}{section*.13}%
+\contentsline {subsubsection}{Collect}{668}{section*.13}%
+\contentsline {subsubsection}{Secret}{668}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{668}{section*.13}%
+\contentsline {subsection}{25 November. St. Catherine of Alexandria}{669}{section*.13}%
+\contentsline {subsubsection}{Collect}{669}{section*.13}%
+\contentsline {subsubsection}{Secret}{669}{section*.13}%
+\contentsline {subsubsection}{Postcommunion}{669}{section*.13}%
+\contentsline {subsection}{(26 November. St. Peter of Alexandria)}{669}{section*.13}%
+\contentsline {chapter}{Commons of the Saints}{671}{section*.14}%
+\contentsline {section}{Commons for the Apostles}{672}{figure.caption.15}%
+\contentsline {subsection}{Common of Vigils of the Apostles}{672}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{672}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{672}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 44:22}}{672}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {John 15:12}}{673}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{673}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{673}{figure.caption.15}%
+\contentsline {subsection}{Common of the Apostles}{673}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{673}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{675}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{678}{figure.caption.15}%
+\contentsline {subsection}{Common of the Apostles in Eastertide}{678}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{678}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{680}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{682}{figure.caption.15}%
+\contentsline {section}{Commons for a Martyr Bishop}{682}{figure.caption.15}%
+\contentsline {subsection}{I: Common of One Martyr Bishop out of Eastertide}{682}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{682}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{683}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{684}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{685}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{685}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {James 1:12}}{685}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 14:26}}{685}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{686}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{686}{figure.caption.15}%
+\contentsline {subsection}{II: Common of One Martyr Bishop out of Eastertide}{686}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{686}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{686}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {2 Corinthians 1:3}}{686}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 16:24}}{687}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{687}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{687}{figure.caption.15}%
+\contentsline {section}{Commons for a Martyr}{688}{figure.caption.15}%
+\contentsline {subsection}{I: Common of One Martyr not a Bishop out of Eastertide}{688}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{688}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{688}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Wisdom 10:10}}{688}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 10:34}}{689}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{689}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{689}{figure.caption.15}%
+\contentsline {subsection}{II: Common of One Martyr not a Bishop out of Eastertide}{690}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{690}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{690}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {2 Timothy 2:8}}{690}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 10:26}}{690}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{691}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{691}{figure.caption.15}%
+\contentsline {subsubsection}{1. Epistle. \emph {James 1:2}}{691}{figure.caption.15}%
+\contentsline {subsubsection}{2. Epistle. \emph {1 Peter 4:13}}{692}{figure.caption.15}%
+\contentsline {subsubsection}{Another Gospel. \emph {John 12:24}}{692}{figure.caption.15}%
+\contentsline {section}{Commons for Many Martyrs}{692}{figure.caption.15}%
+\contentsline {subsection}{I: Common of Many Martyrs out of Eastertide}{692}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{692}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{694}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{696}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{697}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{697}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Wisdom 3:1}}{697}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 21:9}}{697}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{698}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{698}{figure.caption.15}%
+\contentsline {subsection}{II: Common of Many Martyrs out of Eastertide}{699}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{699}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Wisdom 5:15}}{699}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 6:17}}{699}{figure.caption.15}%
+\contentsline {subsection}{III: Common of Many Martyrs out of Eastertide}{700}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{700}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{700}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Hebrews 10:32}}{700}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 12:1}}{701}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{701}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{701}{figure.caption.15}%
+\contentsline {subsubsection}{1. Epistle. \emph {Wisdom 10:17}}{701}{figure.caption.15}%
+\contentsline {subsubsection}{2. Epistle. \emph {Romans 5:1}}{702}{figure.caption.15}%
+\contentsline {subsubsection}{3. Epistle. \emph {Romans 8:18}}{702}{figure.caption.15}%
+\contentsline {subsubsection}{4. Epistle. \emph {2 Corinthians 6:4}}{702}{figure.caption.15}%
+\contentsline {subsubsection}{5. Epistle. \emph {Hebrews 11:33}}{702}{figure.caption.15}%
+\contentsline {subsubsection}{6. Epistle. \emph {Revelation 7:13}}{703}{figure.caption.15}%
+\contentsline {subsubsection}{1. Gospel. \emph {Matthew 24:3}}{703}{figure.caption.15}%
+\contentsline {subsubsection}{2. Gospel. \emph {Matthew 5:1}}{703}{figure.caption.15}%
+\contentsline {subsubsection}{3. Gospel. \emph {Matthew 11:25}}{704}{figure.caption.15}%
+\contentsline {subsubsection}{4. Gospel. \emph {Luke 11:47}}{704}{figure.caption.15}%
+\contentsline {subsubsection}{5. Gospel. \emph {Luke 10:16}}{704}{figure.caption.15}%
+\contentsline {section}{Commons for a Martyr or Many Martyrs in Eastertide}{705}{figure.caption.15}%
+\contentsline {subsection}{Common of One Martyr in Eastertide}{705}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{705}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{707}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{708}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{708}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{708}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Wisdom 5:1}}{709}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {John 15:1}}{709}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{709}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{710}{figure.caption.15}%
+\contentsline {subsection}{Common of Many Martyrs in Eastertide}{711}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{711}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{712}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{712}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{712}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{713}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {1 Peter 1:3}}{713}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {John 15:5}}{713}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{714}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{714}{figure.caption.15}%
+\contentsline {subsubsection}{Another Epistle. \emph {Revelation 19:1}}{714}{figure.caption.15}%
+\contentsline {subsubsection}{Another Gospel. \emph {John 16:20}}{715}{figure.caption.15}%
+\contentsline {section}{Commons for a Confessor Bishop}{715}{figure.caption.15}%
+\contentsline {subsection}{I: Common of a Confessor Bishop}{715}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{715}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{717}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{718}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{718}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{718}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 44:16}}{718}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 25:14}}{719}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{720}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{720}{figure.caption.15}%
+\contentsline {subsection}{II: Common of a Confessor Bishop}{720}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{720}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{720}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Hebrews 7:23}}{720}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 24:42}}{721}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{721}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{721}{figure.caption.15}%
+\contentsline {subsubsection}{1. Epistle. \emph {Hebrews 5:1}}{722}{figure.caption.15}%
+\contentsline {subsubsection}{2. Epistle. \emph {Hebrews 13:7}}{722}{figure.caption.15}%
+\contentsline {subsubsection}{1. Gospel. \emph {Luke 11:33}}{722}{figure.caption.15}%
+\contentsline {subsubsection}{2. Gospel. \emph {Mark 13:33}}{722}{figure.caption.15}%
+\contentsline {subsection}{Common of Doctors}{723}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{723}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{723}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {2 Timothy 4:1}}{723}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 5:13}}{724}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{724}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{725}{figure.caption.15}%
+\contentsline {subsubsection}{Another Epistle. \emph {Ecclesiasticus 39:5}}{725}{figure.caption.15}%
+\contentsline {section}{Commons for a Confessor}{725}{figure.caption.15}%
+\contentsline {subsection}{I: Common of a Confessor not a Bishop}{725}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{725}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{726}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{727}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{728}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{728}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 31:8}}{728}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 12:35}}{728}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{729}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{729}{figure.caption.15}%
+\contentsline {subsection}{II: Common of a Confessor not a Bishop}{729}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{729}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{729}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {1 Corinthians 4:9}}{729}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 12:32}}{730}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{730}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{730}{figure.caption.15}%
+\contentsline {subsubsection}{Another Epistle. \emph {Philippians 3:7}}{731}{figure.caption.15}%
+\contentsline {subsubsection}{Another Gospel. \emph {Luke 19:12}}{731}{figure.caption.15}%
+\contentsline {subsection}{Common of Abbots}{732}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{732}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{732}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 45:1}}{732}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 19:27}}{733}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{733}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{733}{figure.caption.15}%
+\contentsline {section}{Commons for a Virgin Martyress or Many Virgin Martyresses}{733}{figure.caption.15}%
+\contentsline {subsection}{I: Common of a Virgin Martyress}{733}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{733}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{734}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{736}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{737}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{737}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 51:1}}{737}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 25:1}}{738}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{738}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{738}{figure.caption.15}%
+\contentsline {subsection}{II: Common of a Virgin Martyress}{738}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{738}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{739}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 51:9}}{739}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 13:44}}{739}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{740}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{740}{figure.caption.15}%
+\contentsline {subsection}{Common of Many Virgin Martyresses}{740}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{740}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{740}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {1 Corinthians 7:25}}{741}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 19:3}}{741}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{742}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{742}{figure.caption.15}%
+\contentsline {section}{Commons for a Virgin}{742}{figure.caption.15}%
+\contentsline {subsection}{I: Common of a Virgin Only}{742}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{742}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{742}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {2 Corinthians 10:17}}{742}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 25:1}}{743}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{743}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{744}{figure.caption.15}%
+\contentsline {subsection}{II: Common of a Virgin Only}{744}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{744}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{744}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {1 Corinthians 7:25}}{744}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 13:44}}{745}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{745}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{746}{figure.caption.15}%
+\contentsline {subsubsection}{Another Gospel. \emph {Matthew 25:1}}{746}{figure.caption.15}%
+\contentsline {section}{Commons for Holy Women not Virgins}{746}{figure.caption.15}%
+\contentsline {subsection}{Common of a Martyress not a Virgin}{746}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{746}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{747}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{748}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{748}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{748}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 51:1}}{748}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 13:44}}{749}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{750}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{750}{figure.caption.15}%
+\contentsline {subsection}{Common of Many Martyresses not Virgins}{750}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{750}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{750}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{750}{figure.caption.15}%
+\contentsline {subsection}{Common of Holy Matron}{751}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{751}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{751}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Proverbs 31:10}}{751}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Matthew 13:44}}{752}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{752}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{753}{figure.caption.15}%
+\contentsline {subsubsection}{Another Epistle. \emph {1 Timothy 5:3}}{753}{figure.caption.15}%
+\contentsline {section}{Commons Dear to Christ}{753}{figure.caption.15}%
+\contentsline {subsection}{Common of the Dedication of a Church}{753}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{753}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{755}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{756}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{757}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{757}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Revelation 21:2}}{757}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 19:1}}{758}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{758}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{759}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{759}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{759}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{759}{figure.caption.15}%
+\contentsline {subsection}{Common of the Blessed Virgin Mary}{760}{figure.caption.15}%
+\contentsline {subsubsection}{I Evensong}{760}{figure.caption.15}%
+\contentsline {subsubsection}{Mattins}{761}{figure.caption.15}%
+\contentsline {subsubsection}{II Evensong}{763}{figure.caption.15}%
+\contentsline {subsubsection}{Introit}{763}{figure.caption.15}%
+\contentsline {subsubsection}{Collect}{763}{figure.caption.15}%
+\contentsline {subsubsection}{Epistle. \emph {Ecclesiasticus 24:9}}{764}{figure.caption.15}%
+\contentsline {subsubsection}{Gospel. \emph {Luke 11:27}}{764}{figure.caption.15}%
+\contentsline {subsubsection}{Secret}{764}{figure.caption.15}%
+\contentsline {subsubsection}{Postcommunion}{765}{figure.caption.15}%
+\contentsline {subsection}{Office of Saint Mary on Saturday}{765}{figure.caption.15}%
+\contentsline {subsubsection}{Through the Year}{765}{figure.caption.15}%
+\contentsline {subsubsection}{After Christmas}{766}{figure.caption.15}%
+\contentsline {subsubsection}{Eastertide}{767}{figure.caption.15}%
+\contentsline {chapter}{Hymn Index}{769}{section*.16}%

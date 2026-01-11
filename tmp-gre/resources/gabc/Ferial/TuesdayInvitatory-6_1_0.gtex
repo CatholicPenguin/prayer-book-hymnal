@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{f6cda0c646c64ed0c5472809f20be3a18558c46a}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{1d41c12126440d0d4648168a91ebc6d0db909fc2}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -130,14 +130,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{F}{a}{}{F}{a}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{th}{e}{r’s}{t}{her’s}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{F}{a}{}{F}{a}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{th}{e}{r's}{t}{her's}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{th}{e}{r’s}{t}{her’s}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{L}{i}{ght\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{L}{ight\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{th}{e}{r's}{t}{her's}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{L}{i}{ght\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{L}{ight\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{6}{}}{0}%
 {%
@@ -525,14 +525,14 @@
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{v}{e}{r}{v}{er}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{wh}{e}{lmed}{w}{helmed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{v}{e}{r}{v}{er}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{wh}{e}{lm'd}{w}{helm'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{wh}{e}{lmed}{w}{helmed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{wh}{e}{lm'd}{w}{helm'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{7}{}}{0}%
 {%

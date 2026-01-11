@@ -4,7 +4,7 @@
 \GreHeader{initial-style}{1}%
 \GreHeader{centering-scheme}{english}%
 \GreEndHeaders %
-\GreBeginScore{c056a6d9f7fb0303c7bcccb64a3bb0ff03b07d13}{12}{7}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{fc8be04a4f443eb6f63c4ccde4a1d250089c4107}{12}{7}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreSetLargestClef{f}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
@@ -309,19 +309,20 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Th}{ou}{'}{T}{hou'}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Th}{ou}{}{T}{hou}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinor{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{Th}{ou}{'}{T}{hou'}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{m}{i}{d}{m}{id}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{Th}{ou}{}{T}{hou}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{‘m}{i}{d}{‘}{mid}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesTwoNothing}{9}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{11}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{m}{i}{d}{m}{id}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{e}{}{t}{he}}{}{{8}{0}}{}{%
+%
+\GreSyllable{\GreSetThisSyllable{‘m}{i}{d}{‘}{mid}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{e}{}{t}{he}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%

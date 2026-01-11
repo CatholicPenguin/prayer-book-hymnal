@@ -1,158 +1,412 @@
 \documentclass[10pt]{book}
-\usepackage[paperwidth=6in, paperheight=9in,
-bindingoffset=5mm,%having an inner margin offset prevents text falling into the gutter
+\usepackage[paperwidth=6in, paperheight=9in,bindingoffset=5mm,%having an inner margin offset prevents text falling into the gutter
 inner=20mm,
 outer=20mm,
 top=20mm,
 bottom=21mm,
 twoside,
 heightrounded]{geometry}
-\frenchspacing %Prevents the silly double space after each sentence
-\usepackage{pifont} %Needed for \ding characters (for the crosses mainly)
-\usepackage{ebgaramond} %Standard open source font
 
+%Basic English formatting:
+	\frenchspacing %Prevents the silly double space after each sentence
+	\usepackage{pifont} %Needed for \ding characters (for the crosses mainly)
+	\usepackage{ebgaramond} %Standard open source font
+	\setlength{\parindent}{1em}
+	
+%To ensure language compatibility.
+	\usepackage[utf8]{inputenc}
+	\usepackage[greek,latin,british]{babel}
+
+%To change tracking and tighten up spacing:
+	\usepackage{microtype}
+	
 %To contain Apostles' Creed and other minibox:
 \usepackage{adjustbox}
 
-%To ensure language compatibility.
-\usepackage[utf8]{inputenc}
-\usepackage[greek,latin,british]{babel}
-
-%Section Formatting
-\setcounter{secnumdepth}{0} %To remove number from sections
-\usepackage{sectsty} %Allows modification of sections
-\sectionfont{\Large \normalfont \centering}
-\subsectionfont{\normalsize \scshape \centering}
-\subsubsectionfont{\normalfont \normalsize \centering \itshape}
-
-%Alternative Section Formatting to Get Better Control
-\usepackage{needspace} %\needspace causes some issue, but I think it can work if it is not initialised in a paracol but by forcing the sectioning to move (thereby moving the content).
-
-\newcommand{\seccy}[1]{%All sections begin at the top of a page (except for the psalms), so this command is available but unused.
-\needspace{8\baselineskip}
-\section{#1}}
-
-%Headings for the Propers
-\newcommand{\feastday}[1]{\fancyhead[RO,LE]{\textit{#1}}}
-
-%Rank, Date, Name
-\newcommand{\festival}[3]{\par\needspace{8\baselineskip}
-
-\subsection{#2. #3}
-
-\begin{inhead}
-	#1
-\end{inhead}}
-
-%For drawing boxes around unapproved text:
-\usepackage[most]{tcolorbox}
-
-%Now that the Missal is being printed and, therefore, is a set text, we can establish concrete page numbers for BCP parts.
-
-\newcommand{\SPMaryAdvent}{BCP 562}%\pageref{SPMaryInAdvent}} 
-\newcommand{\SPMaryChristmas}{BCP 562}%\pageref{SPMaryPostChristmas}}
-\newcommand{\SPMaryEaster}{BCP 562}%\pageref{SPMaryInEaster}}
-\newcommand{\SPSaints}{BCP 563}%\pageref{SPSaints}}
-\newcommand{\SPAgainst}{BCP 563}%\pageref{SPAgainst}}
-\newcommand{\SPChiefBishop}{BCP 564}%\pageref{SPChiefBishop}}
-\newcommand{\SPHolyGhost}{BCP 564}%\pageref{SPHolyGhost}}
-\newcommand{\SPLiving}{BCP 565}%\pageref{SPLivingDeparted}}
-\newcommand{\Lammas}{BCP 496}
-
-
-\newcommand{\psalmsec}[1]{
-\needspace{9\baselineskip} %I'm still tweaking this. The psalms are unique, so this is just used for them.
-\section*{#1}}
-
-\newcommand{\subbypsalm}[1]{\setcounter{lettcount}{0}%
-\needspace{4\baselineskip}%
-\subsection{#1}}
-
-\newcommand{\subby}[1]{\setcounter{lettcount}{0}\setcounter{margcount}{1}%
-\needspace{8\baselineskip}%
-\subsection{#1}
-\global\setcounter{latinrubric}{1}}
-
-\newcommand{\subbysub}[1]{\setcounter{lettcount}{0}%
-\needspace{6\baselineskip}% I have no idea how sectioning affects the calculation of baselineskip.
-\subsubsection{#1}}
-
-
-%For typesetting Memorials
-\newcommand{\subbymemorial}[2]{\needspace{4\baselineskip}%
-\subsection{(#1. #2)}}
-
-%These are commands for when we want the counters reset and some provision made for spacing, but no as much needed by lettrine or other circumstances:
-
-\newcommand{\subsec}[1]{\setcounter{lettcount}{0}\setcounter{margcount}{1}%
-\needspace{2\baselineskip}%
-\subsection{#1}%
-\global\setcounter{latinrubric}{1}}
-
-\newcommand{\subsubsec}[1]{\setcounter{lettcount}{0}%
-\needspace{2\baselineskip}%
-\subsubsection{#1}}
-
-\newcommand{\bcpfeast}[3]{\subby{[#1]}%
-%Feast Day:
-\fancyhead[RO,LE]{\textit{#2}}%
-%Feast Date:
-\fancyhead[RE,LO]{#3}}
-
-%For smaller subsections in the Hymnal Copyright page:
-\newcommand{\hcopyrightsection}[1]{\par\needspace{1\baselineskip}
-\centerline{\textbf{\small#1}}
-\par}
-
-\newcommand{\supplement}[3]{\par
-%\vspace{1\baselineskip}
-%\needspace{4\baselineskip}
-%\centerline{[#1. #2 #3]}
-\needspace{2\baselineskip}
-\begin{center}
-	[#1. #2 #3]
-\end{center}
-\feastday{#2}
-%\fancyhead[RO,LE]{\textit{#2}}
-\fancyhead[RE,LO]{#1}}
-
+%Makes sure odd pages are on the right when moving between page number types.
+	\usepackage[strict]{changepage}
+	\usepackage{scrextend}
+	
 %URL
-\usepackage[hidelinks]{hyperref}
-%Remove red boxes around links:
-%\hypersetup{%
-%    pdfborder = {0 0 0}
-%}
+	\usepackage[hidelinks]{hyperref}	
 
 %Page Headers
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\headrulewidth}{0pt} %Prevent line at top of page
-\fancyfoot[C]{\thepage}
-%Prevents chapter from resetting page layout
-\fancypagestyle{plain}{
+	\usepackage{fancyhdr}
+	\pagestyle{fancy}
 	\fancyhf{}
-	\fancyfoot[C]{}
-	\renewcommand{\headrulewidth}{0pt}
-}
+	\renewcommand{\headrulewidth}{0pt} %Prevent line at top of page
+	\fancyfoot[C]{\thepage}
+%Prevents chapter from resetting page layout
+	\fancypagestyle{plain}{
+		\fancyhf{}
+		\fancyfoot[C]{}
+		\renewcommand{\headrulewidth}{0pt}}
+		
+
 
 %Try to avoid warnings:
 \setlength{\headheight}{17.13pt}
 
 
-%To make sure versicle and response start with indent.
-\usepackage{indentfirst}
+%Change section format:
+\setcounter{secnumdepth}{0} %Remove section numbering
+	\usepackage{titlesec}
+	\titleformat{\section} % Command to modify
+		{\Large \normalfont \centering} % Format
+  		{} % No label (removes number)
+  		{0pt} % Spacing between label and title (irrelevant here since no label)
+  		{}
+	
+	\titleformat{\subsection}
+	{\normalsize\bfseries\scshape\centering}
+  	{}
+  	{0pt}
+	{}
+	
+	\titleformat{\subsubsection}
+	{\normalsize\centering\itshape}
+  	{}
+  	{0pt}
+	{}
 
-%For hymn formatting
-\usepackage{hanging}
+%Colour \& Images
+
+	%Image Configuration
+	\usepackage{graphicx}
+	\graphicspath{{resources/images}}
+	\usepackage{wrapfig}
+	\usepackage{epsfig}
+	
+	%For Devotional Hymns
+	\usepackage{pdfpages}
+
+	%Enables text under image without caption.
+	\usepackage{caption}
+	\captionsetup[figure]{labelformat=empty,justification=centering}
+	\usepackage{float}
+
+	%Colour
+	\usepackage[svgnames,dvipsnames]{xcolor}
+
+	%Changes to the Table of Contents
+	\addto\captionsbritish{\renewcommand{\contentsname}{Table of Contents}}
+	\setcounter{tocdepth}{1} %Only chapters & sections are added to the TOC
+	\usepackage{tocloft}
+	\setlength{\cftbeforetoctitleskip}{-8ex}
+
+	%For quotations in the Foreword and Editor's Preface:
+	\usepackage{quoting}
+
+	%For the signature in the Preface \& Margins
+	\usepackage{ragged2e}
+
+	%For the Chant Notation
+	\usepackage[autocompile]{gregoriotex}
+	
+	%Special cross
+	\gresetspecial{cross}{\grealtcross}
+	
+	%I'm not sure what this does.
+	\gresetheadercapture{initial-style}{gresetinitiallines}{}
+
+%For smaller subsections in the Hymnal Copyright page:
+\newcommand{\hcopyrightsection}[1]{\par\centerline{\textbf{\small#1}}\par}
+
+%Rubrics:
+	%Colour for print:
+	\definecolor{RubricRed}{cmyk}{0, 1, 1, 0.4}
+
+	%For black words in rubrics.
+	\newcommand{\blackrubric}[1]{{\color{black}#1}}
+	
+	%Heading Rubrics
+	\newenvironment{inhead}{\par\centering\color{RubricRed}\small\smallskip\ignorespaces}
+	{\par\normalsize\smallskip\ignorespacesafterend}
+	
+	%Normal Rubrics
+	\newenvironment{rubric}{\par\smallskip\par\noindent\color{RubricRed}\small\ignorespaces\P}
+		{\par\normalsize\smallskip\ignorespacesafterend}
+		
+	%For rubrics right after sections
+	\newenvironment{secrubric}{\par\noindent\small\ignorespaces\color{RubricRed}\P}
+	{\par\normalsize\smallskip\ignorespacesafterend}
+	
+	%Inline Rubric
+	\newcommand{\inrub}[1]{{{\color{RubricRed}\small(#1)}}}
+	
+	%Determine Marginnote parameters
+	\setlength{\marginparwidth}{15mm} % Set the width of the margin note
+	\setlength{\marginparsep}{2mm} % Set the spacing between the margin note and the text
+	\usepackage{marginnote}
+
+	%Margin Rubric on Odd Pages
+	
+	\newcounter{alphacount} %Counter to convert number to letter
+\newcommand{\margrub}[2]{\setcounter{alphacount}{#1}\textsuperscript{\alph{alphacount}}%
+	\marginpar{\begin{minipage}{0.65\marginparwidth}
+	\sloppy%
+	\itshape%
+	\scriptsize%
+	\textsuperscript{\alph{alphacount}}%
+	#2
+	\fussy
+	\end{minipage}}
+  \hspace{-0.2em}}
+ 
+  
+  	%Margin Rubric on Even Pages
+  \newcommand{\margrubleft}[2]{\setcounter{alphacount}{#1}\textsuperscript{\alph{alphacount}}%
+	\marginpar{\RaggedLeft%
+	\sloppy%
+	\itshape%
+	\scriptsize%
+	\textsuperscript{\alph{alphacount}}%
+	#2%
+	\fussy}
+  	\hspace{-0.2em}}
+  
+  	%Margin Rubric in Column Contexts (English Column)
+  \newcommand{\margcolrub}[2]{\setcounter{alphacount}{#1}%
+	\textsuperscript{\alph{alphacount}}%
+	\Ifthispageodd{\reversemarginpar
+	\marginpar{%
+	\raggedright%
+	\sloppy%
+	\itshape%
+	\scriptsize%
+	    \textsuperscript{\alph{alphacount}}%
+	    #2\hspace{-0.2em}%
+	    \fussy}
+	    }{\normalmarginpar
+	    \marginpar{%
+		\raggedleft%
+		\sloppy%
+		\itshape%
+		\scriptsize%
+		\textsuperscript{\alph{alphacount}}%
+	    #2\hspace{-0.2em}%
+	    \fussy}}}
+  
+  %Really just a placeholder in case it becomes relevant later in the latin side of a double column:
+  \newcommand{\marglatincolrub}[2]{\setcounter{alphacount}{#1}\textsuperscript{\alph{alphacount}}\hspace{-0.2em}}
+	
+		%Margin Rubric without letter/number.
+	  \newcommand{\margy}[1]{\marginpar{\RaggedRight%
+		\sloppy%
+		\itshape%
+		\scriptsize%
+		#1%
+		\fussy}}
+		
+		%Margin Rubric without letter/number, on the left side (even numbered page).
+	  	\newcommand{\margyleft}[1]{\marginpar{\RaggedLeft%
+		\sloppy%
+		\itshape%
+		\scriptsize%
+		#1%
+		\fussy}}
+  
+  
+		
+	  
+	%Kalendar \& Lectionary
+	\usepackage{array}
+	\usepackage{longtable} %Allows lectionary cells to go over multiple pages
+	\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+	\newcolumntype{L}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+	
+		%Lectionary Evensong
+		\newcommand{\evensong}[1]{Evensong}
+	
+	%Scriptural Citations in Mass
+	\newcommand{\vr}[1]{{\footnotesize{ (#1)}}}
+	
+	%Disable \vr
+	\newcommand{\novr}[1]{}
+	
+	%Invitatory
+	\newcommand{\inv}[1]{{\color{RubricRed}#1.}}
+
+%Propers:
+
+	%Drop Caps (And specifies a specific folder for normal lettrine images):
+	\usepackage{lettrine}
+	\newcommand{\lett}[2]{\lettrine[image=true,realheight=true,lines=3]{dropcaps/#1.png}{{\lowercase{#2}}}}
+	
+	%If no second or third lines, and line amount might be doubtful, then this is used to ensure adequate spacing.
+	\newcommand{\lettspace}[0]{\ifnum\prevgraf=1
+		\vspace{2\baselineskip}
+			\else
+				\ifnum\prevgraf=2
+					\vspace{1\baselineskip}
+				\fi
+			\fi}
+	
+
+%Replacing page references, now that the Book of Common Prayer is now published. The Missal page numbers will be added once that is published.
+
+\newcommand{\SPMaryAdvent}{BCP 541}
+\newcommand{\SPMaryChristmas}{BCP 541}
+\newcommand{\SPMaryEaster}{BCP 542}
+\newcommand{\SPSaints}{BCP 542}
+\newcommand{\SPAgainst}{BCP 543}
+\newcommand{\SPChiefBishop}{BCP 543}
+\newcommand{\SPHolyGhost}{BCP 544}
+\newcommand{\SPLiving}{BCP 544}
+\newcommand{\Lammas}{BCP 477}
+\newcommand{\AllHallows}{BCP 532}
+
+	
+	%Ensure that short paragraphs don't lead to text moving into drop cap.
+	
+	\newcounter{thirdlinecounter} %Counter to tell thirdline how many paragraphs precede it.
+	\newcommand{\secondline}[1]{%
+		\ifnum\prevgraf>2 %If there are over two lines in the previous paragraph (3), then we don't need to adjust anything, and it is put as is.
+			#1\par
+			\setcounter{thirdlinecounter}{3}
+		\else
+			\ifnum\prevgraf=2%If there are only two lines, then we only need to do an indent.
+				\parindent=3.25em
+				#1\par
+            	\parindent=1em%Reset indent to normal
+            	\setcounter{thirdlinecounter}{2}
+			\else
+				\ifnum\prevgraf=1%If the lett paragraph is only one line, then we need to cause the entirety of the next paragraph to be indented.
+				\noindent
+				\leftskip=3.25em
+				#1\par
+				\leftskip=0em%Reset indent to normal
+				\setcounter{thirdlinecounter}{1}
+					\else%In case something is not caught.
+						#1
+						\setcounter{thirdlinecounter}{3}
+						\par
+				\fi
+			\fi
+		\fi}
+	
+	%Make sure proper formatting for the third line.
+	\newcommand{\thirdline}[1]{\addtocounter{thirdlinecounter}{\prevgraf}%
+		\ifnum\thethirdlinecounter=2%If there are only two lines preceding (one line of the lett and one line of the secondline
+    		\parindent=3.25em
+    		#1\par
+    		\parindent=1em
+				\else
+	    		#1\par
+		\fi}
+	
+	\usepackage[super]{nth} %To add superscript to ordinal numeral.
+	
+	%Rank, Date, Name for Feast Days
+	\newcommand{\festival}[3]{\par\subsection{#2. #3}
+	
+	\begin{inhead}
+		#1
+	\end{inhead}}
+	
+	
+%For typesetting Memorials
+\newcommand{\subbymemorial}[2]{%
+\subsection{(#1. #2)}}
+
+%To indicate and format a Festival already in the Book of Common Prayer:
+\newcommand{\bcpfeast}[3]{\subsection{[#1]}%
+%Feast Day:
+\fancyhead[RO,LE]{\textit{#2}}%
+%Feast Date:
+\fancyhead[RE,LO]{#3}}
+
+
+
+	%Headings for the Propers
+	\newcommand{\feastday}[1]{\fancyhead[RO,LE]{\textit{#1}}} %Feast Name
+	
+	\newcommand{\feastdate}[2]{\fancyhead[RE,LO]{#1 #2}} %Feast Date
+	
+	%Psalm Numbers
+	\newcommand{\psanum}[1]{{\small{#1}} }
+	
+	%For drawing boxes around unapproved text:
+	\usepackage[most]{tcolorbox}
+	
+	%To make sure versicle and response start with indent.
+	\usepackage{indentfirst}
+
+	%To create hanging indent for Hymns.
+	\usepackage{hanging}
+	
+	%Introit
+	\newcommand{\introit}[0]{\subsubsection{Introit}}
+	
+	%Collect
+	\newcommand{\collect}[0]{\subsubsection{Collect}}
+
+	%Readings
+	\newcommand{\readingcitation}[2]{\subsubsection{#1. \emph{#2}}}
+	
+	%Divine Name in Readings
+	\newcommand{\divineName}[1]{\textsc{\lowercase{#1}}}
+	
+	%Gradual \& Alleluia
+	\newcommand{\gradall}[2]{\gradual{#1}\par\alleluia{#2}}
+	
+	%Gradual \& Tract
+	\newcommand{\gradtr}[2]{\gradual{#1}\par\tract{#2}}
+	
+	%Alleluia Verse
+	\newcommand{\alleluia}[1]{\vspace{1ex}\par\noindent
+		\emph{Alleluia.} #1}
+	%Gradual
+	\newcommand{\gradual}[1]{\vspace{1ex}\par\noindent
+		\emph{Gradual.} #1}
+		
+	%Tract
+	\newcommand{\tract}[1]{\vspace{1ex}\par\noindent
+		\emph{Tract.} #1}
+		
+    %Offertory
+    \newcommand{\offertory}[1]{\vspace{1ex}\par\noindent
+		\emph{Offertory.} #1}
+		
+	%Secret
+	\newcommand{\secret}[0]{\subsubsection{Secret}}
+
+	%Communion
+	\newcommand{\communion}[1]{\vspace{1ex}\par\noindent
+    	\emph{Communion.} #1}
+	
+	%Postcommunion
+	\newcommand{\postcommunion}[0]{\subsubsection{Postcommunion}}
+		
+	%Antiphons
+	\newcommand{\antiphon}[2]{{\centering \textit{#1 Ant.} #2}}
+	
+	%Do I need?
+	\newcommand{\properantiphon}[2]{{\centering \textit{#1 Ant.} #2}}
+	
+	%Invitatory Hymn Heading
+	\newcommand{\invitatoryhymn}{%
+		\begin{inhead}
+			Invitatory Hymn
+		\end{inhead}}
+
+	%Office Hymn Heading
+	\newcommand{\officehymn}{\par\vspace{0.1\baselineskip}%
+		\begin{inhead}
+			Office Hymn
+		\end{inhead}
+		\par
+		\vspace{-0.1\baselineskip}}
 
 
 \usepackage{paracol} %To provide balanced English-Latin dual paragraphs
-\usepackage{multicol} %For non bilingual dual columns.
+\usepackage[grid]{multicol} %For non bilingual dual columns.
+\setlength\columnseprule{0.4pt} %Controls the width of the line between columns
 
 %Prevent lettrine misalignment:
 \raggedbottom
 
+%English-Latin Double Column
 \newcommand{\elcol}[2]{\sloppy
 	\begin{paracol}{2}
 		\begin{leftcolumn}
@@ -165,9 +419,9 @@ heightrounded]{geometry}
 		\switchcolumn*
 	\end{paracol}
 \selectlanguage{british}
-\fussy
-\setcounter{lettcount}{0}}
-%Same as above but is intended for text/prayers which are neither collects nor responsory, which should not have an indent.
+\fussy}
+
+%English-Latin Non-Indented Column
 \newcommand{\elcoldent}[2]{\sloppy
 	\begin{paracol}{2}
 		\begin{leftcolumn}
@@ -182,173 +436,10 @@ heightrounded]{geometry}
 		\switchcolumn*
 	\end{paracol}
 \selectlanguage{british}
-\fussy
-\setcounter{lettcount}{0}}
-%Gradual \& Alleluia
-\newcommand{\gradall}[2]{\gradual{#1}\par\alleluia{#2}}%\vspace{1ex}\par\noindent
-%\emph{Gradual.} #1\\
-%\par\noindent
-%\emph{Alleluia.} #2}
+\fussy}
 
-%Gradual \& Tract
-\newcommand{\gradtr}[2]{\gradual{#1}\par\tract{#2}}%\vspace{1ex}\par\noindent
-%\emph{Gradual.} #1\\
-%\par\noindent
-%\emph{Tract.} #2}
-
-%Counter to create space from lettrine
-\newcounter{prelett}
-\usepackage{calc}
-%Checking lett or rubric right behind
-\newcounter{lettcount}
-%Commands for each minor proper:
-\newcommand{\alleluia}[1]{\setcounter{lettcount}{0}\vspace{1ex}\par\noindent
-\emph{Alleluia.} #1}
-\newcommand{\gradual}[1]{\setcounter{lettcount}{0}\vspace{1ex}\par\noindent
-\emph{Gradual.} #1}
-\newcommand{\tract}[1]{\setcounter{lettcount}{0}\vspace{1ex}\par\noindent
-\emph{Tract.} #1}
-\newcommand{\communion}[1]{\par
-\ifnum\thelettcount=0
-    \vspace{1\baselineskip}
-    \par\noindent
-    \emph{Communion.} #1\par
-    \else
-        \ifnum\thelettcount=1
-            \ifnum\prevgraf<3
-                \setcounter{prelett}{2-\prevgraf}
-                \vspace{\theprelett\baselineskip}
-                \medskip
-                \par\noindent
-                \emph{Communion.} #1\par
-            \else
-                \medskip
-                \par\noindent
-                \emph{Communion.} #1\par
-            \fi
-        \else
-            \ifnum\thelettcount<3
-                \setcounter{prelett}{2-\thelettcount}
-                \vspace{\theprelett\baselineskip}
-                \medskip
-                \par\noindent
-                \emph{Communion.} #1\par
-            \else
-                \medskip
-                \par\noindent
-                \emph{Communion.} #1\par
-            \fi
-        \fi
-    \fi}
-\newcommand{\offertory}[1]{\setcounter{lettcount}{0}\vspace{1ex}\par\noindent
-\emph{Offertory.} #1}
-%In order to control where the placement of the reading type and citation are placed (trying to save space by modeling after the 1928 BCP):
-\newcommand{\readingcitation}[2]{\setcounter{lettcount}{0}%
-\needspace{4\baselineskip}%
-\subsubsection{#1. \emph{#2}}}
-
-\newcommand{\secret}[0]{\setcounter{lettcount}{0}%
-\needspace{4\baselineskip}%
-\subsubsection{Secret}}
-
-\newcommand{\introit}[0]{\setcounter{lettcount}{0}%
-\needspace{4\baselineskip}%
-\subsubsection{Introit}}
-
-\newcommand{\collect}[0]{\setcounter{lettcount}{0}%
-\needspace{4\baselineskip}%
-\subsubsection{Collect}}
-
-\newcommand{\postcommunion}[0]{\setcounter{lettcount}{0}%
-\needspace{4\baselineskip}%
-\subsubsection{Postcommunion}}
-
-%Controls the width of the line between columns
-\setlength\columnseprule{0.4pt}
-
-%Tikhon is on the left, Gregory is on the right. `Read' indicates it is a reading, which means it needs a heading for the source.
-\newcommand{\tikgregread}[4]{
-\sloppy
-\needspace{5\baselineskip}
-\begin{paracol}{2}%
-%\switchcolumn*
-	\begin{leftcolumn}
-		\centerline{\textit{#2}}
-	\end{leftcolumn}
-	\begin{rightcolumn}
-		\centerline{\textit{#4}}
-	\end{rightcolumn}
-	\switchcolumn*
-\end{paracol}
-\begin{paracol}{2}%
-%\switchcolumn*
-	\begin{leftcolumn}
-		#1
-	\end{leftcolumn}
-	\begin{rightcolumn}
-		#3
-	\end{rightcolumn}
-	\switchcolumn*
-\end{paracol}
-\fussy
-\setcounter{lettcount}{0}}
-
-%To move Gospel and Epistle into heading without manually changing every instance late in development:
-
-\newcommand{\tikgregreadgospel}[4]{
-\sloppy
-\needspace{5\baselineskip}
-\begin{paracol}{2}%
-%\switchcolumn*
-	\begin{leftcolumn}
-		\subsubsection{\textit{Gospel.} \textnormal{#2}}
-	\end{leftcolumn}
-	\begin{rightcolumn}
-		\subsubsection{\textit{Gospel.} \textnormal{#4}}
-	\end{rightcolumn}
-	\switchcolumn*
-\end{paracol}
-\begin{paracol}{2}%
-%\switchcolumn*
-	\begin{leftcolumn}
-		#1
-	\end{leftcolumn}
-	\begin{rightcolumn}
-		#3
-	\end{rightcolumn}
-	\switchcolumn*
-\end{paracol}
-\fussy
-\setcounter{lettcount}{0}}
-
-\newcommand{\tikgregreadepistle}[4]{
-\sloppy
-\needspace{5\baselineskip}
-\begin{paracol}{2}%
-%\switchcolumn*
-	\begin{leftcolumn}
-		\subsubsection{\textit{Epistle.} \textnormal{#2}}
-	\end{leftcolumn}
-	\begin{rightcolumn}
-		\subsubsection{\textit{Epistle.} \textnormal{#4}}
-	\end{rightcolumn}
-	\switchcolumn*
-\end{paracol}
-\begin{paracol}{2}%
-%\switchcolumn*
-	\begin{leftcolumn}
-		#1
-	\end{leftcolumn}
-	\begin{rightcolumn}
-		#3
-	\end{rightcolumn}
-	\switchcolumn*
-\end{paracol}
-\fussy
-\setcounter{lettcount}{0}}
-
-
-\newcommand{\tikgreg}[2]{\sloppy
+%For difference between through the year and in eastertide:
+\newcommand{\ttyie}[2]{\sloppy
 	\begin{paracol}{2}
 		\begin{leftcolumn}\noindent
 			#1	
@@ -359,258 +450,34 @@ heightrounded]{geometry}
 		\switchcolumn*
 	\end{paracol}
 \selectlanguage{british}
-\fussy
-\setcounter{lettcount}{0}}
+\fussy}
 
 %Expedites adding dual language Oremus/Let Us Pray
 \newcommand{\oremus}[0]{\par
-\needspace{5\baselineskip}
 	\begin{paracol}{2}
 		\begin{leftcolumn}
-			\selectlanguage{british}%
-			\noindent%
+			\selectlanguage{british}\noindent%
 			\centerline{\textit{Let us pray.}}
 		\end{leftcolumn}
 		\begin{rightcolumn}
-			\selectlanguage{latin}
+			\selectlanguage{latin}\noindent%
 			\centerline{\textit{Orémus.}}
 		\end{rightcolumn}
 		\switchcolumn*
 	\end{paracol}
-\selectlanguage{british}
-\setcounter{lettcount}{0}}
+\selectlanguage{british}}
 
 %Does the same as above, but for single language collects:
 \newcommand{\letuspray}[0]{\par\noindent
-\needspace{5\baselineskip}
-\centerline{\textit{Let us pray.}}
-\par
-\setcounter{lettcount}{0}}
+	\centerline{\textit{Let us pray.}}
+	\par}
 
 \newcommand{\oremuslatin}[0]{\par\noindent
-\needspace{5\baselineskip}
-\centerline{\textit{Orémus.}}
-\par
-\setcounter{lettcount}{0}}
-
-\usepackage[super]{nth} %To add superscript to ordinal numeral.
-%Image Configuration
-\usepackage{graphicx}
-\graphicspath{{resources/}}
-\usepackage{wrapfig}
-\usepackage{epsfig}
-%Enables text under image without caption.
-\usepackage{caption}
-\captionsetup[figure]{labelformat=empty,justification=centering}
-\usepackage{float}
-%Colour
-\usepackage[svgnames,dvipsnames]{xcolor}
-%Hymn Pages
-\usepackage{pdfpages}
-%Lectionary
-\usepackage{array}
-\usepackage{longtable} %Allows lectionary cells to go over multiple pages
-\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
-\newcolumntype{L}[1]{>{\RaggedRight\arraybackslash}p{#1}}
-\newcommand{\evensong}[1]{Evensong} %To allow switch in naming of Vespers and Evensong in lectionary
-
-%For Rubric Colour:
-%\definecolor{RubricRed}{RGB}{145, 4, 10}
-%CMYK for printing:
-\definecolor{RubricRed}{cmyk}{0, 1, 1, 0.25}
-
-%I have found it useful to have different kinds of headings in order to instruct the reader. For mere rubrical notes, which are meant to be in paragraph form, rubric is used. For headings, meant to be short, inhead (instructional heading) is used.
-%Rubric Environments
-\newenvironment{inhead}{\setcounter{lettcount}{0}\par\centering%
-%\itshape%
-\color{RubricRed}%
-\small\smallskip\ignorespaces}
-{\par\smallskip\ignorespacesafterend}
-%The first ifnum checks the boolean (there is a lett, but no secondline or thirdline) then checks the lines preceeding:
-\newenvironment{rubric}{\par\ifnum\thelettcount=1\ifnum\prevgraf=1\vspace{1\baselineskip}\smallskip\else\ifnum\prevgraf=2\medskip\smallskip\else\smallskip\fi\fi\fi\ifnum\thelettcount=2\medskip\smallskip\else\smallskip\fi\setcounter{lettcount}{0}\par\noindent%
-\color{RubricRed}%
-\small\ignorespaces%
-%\itshape%
-\P}
-{\par\smallskip\ignorespacesafterend}
-
-%Rubric after section:
-\newenvironment{secrubric}{\setcounter{lettcount}{0}\par\noindent\small\ignorespaces%\itshape%%
-\color{RubricRed}%
-\P}
-{\par\smallskip\ignorespacesafterend}
-
-%Inline Rubric
-\newcommand{\inrub}[1]{{\small{%\color{RubricRed}%
-\textit{
-(#1)
-}
-}}}
-
-%Determine Marginnote parameters
-%\usepackage{sidenotes}
-\setlength{\marginparwidth}{15mm} % Set the width of the margin note
-\setlength{\marginparsep}{2mm} % Set the spacing between the margin note and the text
-%Fixes margin issues:
-\usepackage{marginnote}
-%Margin Rubrics/Notes/Description/Commentar
-\newcounter{margcount}
-\setcounter{margcount}{1}%
-\newcommand{\margrub}[1]{\textsuperscript{\alph{margcount}}%
-\marginpar{\begin{minipage}{0.7\marginparwidth}
-\sloppy%
-\itshape%
-\scriptsize%
-\textsuperscript{\alph{margcount}}%
-#1%
-\fussy
-\end{minipage}}
-\stepcounter{margcount}
-\ifnum\value{margcount}>26\relax%
-    \setcounter{margcount}{1}%
-  \fi}
-  
-%Makes sure odd pages are on the right when moving between page number types.
-\usepackage[strict]{changepage}
-\usepackage{scrextend}
-
-\newcommand{\margcolrub}[1]{\textsuperscript{\alph{margcount}}%
-\Ifthispageodd{\reversemarginpar
-\marginpar{%
-\raggedright%
-\sloppy%
-\itshape%
-\scriptsize%
-    \textsuperscript{\alph{margcount}}%
-    #1%
-    \fussy}
-\reversemarginpar}{\normalmarginpar\marginpar{%
-\raggedleft%
-\sloppy%
-\itshape%
-\scriptsize%
-\textsuperscript{\alph{margcount}}%
-    #1%
-    \fussy}}
-\stepcounter{margcount}%
-\ifnum\value{margcount}>26\relax%
-    \setcounter{margcount}{1}
-\fi}
-
-
-%Counter to add rubric indicatorlowing command  in Latin.
-\newcounter{latinrubric}
-\setcounter{latinrubric}{1}
-%To apply counters to all paracol columns:
-\globalcounter*
-
-\newcommand{\marglatincolrub}[1]{\textsuperscript{\alph{latinrubric}}%
-\stepcounter{latinrubric}%
-\ifnum\value{latinrubric}>26\relax%
-    \setcounter{latinrubric}{1}
-\fi}
-%Propers
-\newcommand{\antiphon}[2]{{\centering \textit{#1 Ant.} #2}}
-
-%For BCP Antiphons
-\newcommand{\properantiphon}[2]{{\centering \textit{#1 Ant.} #2}}
-
-%Invitatory \& Fore-Office
-\newcommand{\inv}[1]{\textit{#1}}
-\newcommand{\vr}[1]{{\footnotesize{ (#1)}}}
-
-%Since I've been going back and forth on capitalisation of letters in small caps, I made this command in order to be able to change them all at once:
-\newcommand{\divineName}[1]{\textsc{#1}}
-
-\usepackage{lettrine}
-\newcommand{\lett}[2]{\setcounter{lettcount}{1}\lettrine[image=true,realheight=true,lines=3]{artdeco/#1.png}{{\lowercase{#2}}}} %Specifies a specific folder for normal lettrine images
-\newcommand{\lettnopic}[2]{\setcounter{lettcount}{1}\lettrine[realheight=true,lines=3]{#1}{#2}} %When there is not an image, just uses normal letter.
-
-%These commands ensure that when there is a lettrine, following paragraphs will not conflict with the drop capital.
-%We need this counter for thirdline.
-\setlength{\parindent}{1em}
-\newcounter{preprevgraf}
-
-\newcommand{\secondline}[1]{\setcounter{preprevgraf}{\prevgraf}\setcounter{lettcount}{\thepreprevgraf}
-\ifnum\prevgraf>2
-	#1
-	\par
-    \addtocounter{lettcount}{\prevgraf}
-	\else
-		\ifnum\prevgraf=2
-			\parindent=3.25em
-			{#1}
-			\par
-            \parindent=1em
-            \addtocounter{lettcount}{\prevgraf}
-			\else
-				\ifnum\prevgraf=1
-				\noindent
-				\leftskip=3.25em
-				{#1}
-				\par
-                \addtocounter{lettcount}{\prevgraf}
-				\leftskip=0em
-					\else
-						#1
-						\par
-                        \setcounter{lettcount}{\prevgraf}
-				\fi
-		\fi
-\fi
-}
-%The thirdline command is to ensure proper formatting with lettrine, if it uses three lines.
-\newcommand{\thirdline}[1]{
-\ifnum\thelettcount=2
-    \parindent=3.25em
-    {#1}
-    \par
-    \parindent=1em
-\else
-    #1
-    \par
-\fi
-\addtocounter{lettcount}{\prevgraf}
-}
-
-%Psalm Formatting
-\newcommand{\psanum}[1]{{\small{#1}} } %Allows flexibility in how to handle the verse number at the beginning of each psalm verse.
-
-%Changes to the Table of Contents
-\addto\captionsbritish{\renewcommand{\contentsname}{Table of Contents}}
-\setcounter{tocdepth}{1} %Chapters and Sections
-\usepackage{tocloft}
-\setlength{\cftbeforetoctitleskip}{-8ex}
-
-%For the signature in the Preface
-	\usepackage{ragged2e}
-
-%For the Articles
-\usepackage{enumerate}
-
-%For the Chant Notation (Byzantine)
-\usepackage[autocompile]{gregoriotex}
-%Special cross
-\gresetspecial{cross}{\grealtcross}
-%Disable initial letter
-\gresetheadercapture{initial-style}{gresetinitiallines}{}
-
-
-%Invitatory Hymn Heading
-\newcommand{\invitatoryhymn}{\needspace{4\baselineskip}
-\begin{inhead}
-	Invitatory Hymn
-\end{inhead}}
-
-%Office Hymn Heading
-\newcommand{\officehymn}{\needspace{4\baselineskip}
-\begin{inhead}
-	Office Hymn
-\end{inhead}}
-
-%Quoting for Editor's Preface
-\usepackage{quoting}
-
+	\centerline{\textit{Orémus.}}
+	\par}
+	
+	
+	
 \begin{document}
 \begin{titlepage}
 		\begin{center}
@@ -670,7 +537,7 @@ heightrounded]{geometry}
 %Propers of Season and Saints
 \cleardoublepage
 \include{pages/Propers/Propers.tex}
-%\include{pages/Propers/HolyWeek.tex}
+\include{pages/Propers/HolyWeek.tex}
 \include{pages/Propers/PropSeason.tex}
 \include{pages/Propers/PropTime.tex}
 %Common of Saints
@@ -679,7 +546,7 @@ heightrounded]{geometry}
 \include{pages/Propers/Common.tex}
 %\include{pages/Propers/Seasonal.tex}
 %Hymn Index
-%\cleardoublepage
+\cleardoublepage
 \include{pages/HymnIndex.tex}
 %\cleardoublepage
 \include{pages/Back.tex}

@@ -8,13 +8,13 @@
 \GreHeader{initial-style}{1}%
 \GreHeader{centering-scheme}{english}%
 \GreEndHeaders %
-\GreBeginScore{8df37e2f87af6b01cd68be78af5eb96ab69a9692}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{9618efd911dfe7cd9515f584746b383b7dfe1a68}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{4}{3}{c}{0}{3}{0}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{T}{h}{'e}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{h}'}}}{\GreFirstWord{\GreFirstSyllable{e}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{T}h'}}}{\GreFirstWord{\GreFirstSyllable{e}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{t}}{\GreFirstWord{e}}{\GreFirstWord{r}}{\GreFirstWord{t}}{\GreFirstWord{e}\GreFirstWord{r}}}{}{{0}{0}}{}{%
+}{\GreSyllable}{\GreSetFirstSyllableText{T}{h}{' e}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{h}' }}}{\GreFirstWord{\GreFirstSyllable{e}}}{}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{T}h' }}}{\GreFirstWord{\GreFirstSyllable{e}}}{}}{}}{}{\GreFirstWord}{0}{\GreSetNextSyllable{\GreFirstWord{t}}{\GreFirstWord{e}}{\GreFirstWord{r}}{\GreFirstWord{t}}{\GreFirstWord{e}\GreFirstWord{r}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{8}{}}{0}%
 {%
@@ -76,12 +76,12 @@
 }{}{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Th'}{A}{}{T}{h'A}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Th' }{A}{}{T}{h' A}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{Th'}{A}{}{T}{h'A}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{o}{stl}{p}{ostl}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{Th' }{A}{}{T}{h' A}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{o}{stl}{p}{ostl}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{12}{}}{0}%
 {%

@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{67923095c497b3bcb06c04f5c8ddcb48078cd09f}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{5e107600e36f234c61c71fb7b61e741234bb3599}{12}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -361,7 +361,7 @@
 }{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{w}{a}{s}{w}{as}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{u}{rled}{h}{urled}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{w}{a}{s}{w}{as}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{u}{rl'd}{h}{url'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -369,7 +369,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{h}{u}{rled}{h}{urled}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{h}{u}{rl'd}{h}{url'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%
@@ -498,14 +498,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{t}{e}{m}{t}{em}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{e}{red}{p}{ered}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{e}{m}{t}{em}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{e}{r'd}{p}{er'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOpenqueueOneNothing}{6}{\GreNextCustos{6}{}}{8}%
 {%
 \GreGlyphHeights{6}{5}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{p}{e}{red}{p}{ered}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{ron}{i}{ron}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{p}{e}{r'd}{p}{er'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{ron}{i}{ron}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{6}{\GreNextCustos{7}{}}{0}%
 {%
@@ -1274,14 +1274,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{r}{e}{}{r}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{ewe}{d}{n}{ewed}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{e}{}{r}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{n}{ew}{'d}{n}{ew'd}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{10}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{n}{ewe}{d}{n}{ewed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{w}{ou}{ld}{w}{ould}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{n}{ew}{'d}{n}{ew'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{w}{ou}{ld}{w}{ould}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusLongqueueOneNothing}{10}{\GreNextCustos{8}{}}{8}%
 {%

@@ -13,7 +13,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{323c212a40fef7f91739358f1ecd3e9d86aa7496}{13}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{7342f9c24870427b4ef3495f8494a8eb67107b17}{13}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -934,14 +934,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{g}{a}{th}{g}{ath}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{e}{red\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{e}{red\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{g}{a}{th}{g}{ath}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{e}{r'd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{e}{r'd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOneNothing}{9}{\GreNextCustos{7}{}}{8}%
 {%
 \GreGlyphHeights{9}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{e}{red\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{e}{red\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{e}{r'd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{e}{r'd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{13}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{8}{}}{0}%
 {%
@@ -1247,14 +1247,14 @@
 \GreGlyphHeights{10}{6}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{t}{a}{b}{t}{ab}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{i}{shed}{l}{ished}}{}{{2}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{a}{b}{t}{ab}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{l}{i}{sh'd}{l}{ish'd}}{}{{2}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{10}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{l}{i}{shed}{l}{ished}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{l}{i}{sh'd}{l}{ish'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{3}%
 \GreGlyph{\GreCPPorrectusLongqueueOneThreeNothing}{10}{\GreNextCustos{11}{}}{2}%
 {%

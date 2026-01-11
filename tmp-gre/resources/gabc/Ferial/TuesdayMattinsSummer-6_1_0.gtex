@@ -13,7 +13,7 @@
 \GreHeader{book}{Antiphonale Monasticum, 1934, p. 51}%
 \GreHeader{transcriber}{Augustine Watson}%
 \GreEndHeaders %
-\GreBeginScore{d6ada32bef47abfe6e54b1191a2f159c0b008dfc}{10}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{03c6e087cb90966d3463ecc79fa2d553ce339266}{10}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -142,13 +142,14 @@
 \GreVEpisema{8}{\GreOCaseFinalPunctum}%
 }{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{i}{ng}{i}{ng}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{ay}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{r}{ay\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{i}{ng}{i}{ng}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{r}{ay}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{r}{ay\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
+%
 \GreSyllable{\GreSetThisSyllable{r}{ay}{\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{r}{ay\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{12}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
@@ -725,7 +726,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{ou}{r}{o}{ur}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{pr}{ay}{'r\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{p}{ray'r\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{ou}{r}{o}{ur}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{pr}{aye}{r\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{p}{rayer\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%
@@ -733,7 +734,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{pr}{ay}{'r\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{p}{ray'r\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{12}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{pr}{aye}{r\GreProtrusion{\GreProtrusionFactor{colon}}{:}}{p}{rayer\GreProtrusion{\GreProtrusionFactor{colon}}{:}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{12}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%

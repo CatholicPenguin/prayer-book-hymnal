@@ -9,23 +9,20 @@
 \GreHeader{transcriber}{Andrew Hinkley}%
 \GreHeader{commentary}{XV-XVI. s.}%
 \GreEndHeaders %
-\GreBeginScore{51024a71292e496ff5f906416b6530b818b03517}{13}{5}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
+\GreBeginScore{2761afcc8c4ab0a7c919c22137bc5f2b7e526c4f}{13}{5}{0}{0}{}{4}{\GreInitialClefPosition{3}{0}}%
 \GreMode{\GreModeNumber{5}}{}{}%
 \GreSetLargestClef{c}{3}{3}{c}{0}{3}%
 \GreScoreOpening{%
 }{%
 \GreSetInitialClef{c}{3}{3}{c}{0}{3}{0}%
 }{%
-}{\GreSyllable}{\GreSetFirstSyllableText{L}{o}{rd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{o}}}}{\GreFirstWord{\GreFirstSyllable{rd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{L}}}}{\GreFirstWord{\GreFirstSyllable{o}}}{\GreFirstWord{\GreFirstSyllable{rd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{h}{a}{ve}{h}{ave}}{}{{0}{1}}{}{%
-\GreSyllableNoteCount{1}%
+}{\GreSyllable}{\GreSetFirstSyllableText{L}{o}{rd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}{{}{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{o}}}}{\GreFirstWord{\GreFirstSyllable{rd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}}}{{\GreFirstWord{\GreFirstSyllable{\GreFirstSyllableInitial{L}}}}{\GreFirstWord{\GreFirstSyllable{o}}}{\GreFirstWord{\GreFirstSyllable{rd\GreProtrusion{\GreProtrusionFactor{comma}}{,}}}}}{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable{h}{a}{ve}{h}{ave}}{}{{0}{0}}{}{%
+\GreSyllableNoteCount{4}%
 \GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{8}{}}{0}%
 {%
 \GreGlyphHeights{6}{6}%
 }{}{}%
-}%
-%
-\GreSyllable{\GreSetThisSyllable{h}{a}{ve}{h}{ave}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{m}{e}{r}{m}{er}}{}{{0}{0}}{}{%
-\GreSyllableNoteCount{3}%
+\GreEndOfElement{0}{0}{1}%
 \GreFlat{9}{0}%
 {%
 \GreGlyphHeights{9}{9}%
@@ -36,7 +33,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{m}{e}{r}{m}{er}}{}{\GreUnstyled}{1}{\GreGABCNextForceCenters\GreSetNextSyllable{\GreStar{}~}{~}{}{\GreStar{}}{~~}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{h}{a}{ve}{h}{ave}}{}{\GreUnstyled}{1}{\GreGABCNextForceCenters\GreSetNextSyllable{mer\GreStar{}~}{~}{}{m}{er\GreStar{}~~}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{5}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -68,7 +65,7 @@
 }{}%
 }%
 %
-\GreSyllable{\GreGABCForceCenters\GreSetThisSyllable{\GreStar{}~}{~}{}{\GreStar{}}{~~}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{y}{}{c}{y}}{}{{0}{1}}{}{%
+\GreSyllable{\GreGABCForceCenters\GreSetThisSyllable{mer\GreStar{}~}{~}{}{m}{er\GreStar{}~~}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{c}{y}{}{c}{y}}{}{{0}{1}}{}{%
 \GreSyllableNoteCount{7}%
 \GreAdHocSpaceEndOfElement{-2}{0}{0}%
 \GreGlyph{\GreCPVirga}{13}{\GreNextCustos{11}{}}{0}%

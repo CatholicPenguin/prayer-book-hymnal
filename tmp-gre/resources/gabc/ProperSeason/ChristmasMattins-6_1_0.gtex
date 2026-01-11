@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{28115cb78d15ec77bd2d130b9bde6d618c9985df}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{43086606e6afa7644fe77bb5b87e0b1c403e86ac}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{3}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -1307,14 +1307,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{G}{a}{b}{G}{ab}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r'}{e}{l's}{r}{'el's}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{G}{a}{b}{G}{ab}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{r}{ie}{l's}{r}{iel's}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesTwoNothing}{10}{\GreNextCustos{12}{}}{0}%
 {%
 \GreGlyphHeights{12}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{r'}{e}{l's}{r}{'el's}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{v}{oi}{ce}{v}{oice}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{ie}{l's}{r}{iel's}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{v}{oi}{ce}{v}{oice}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{12}{\GreNextCustos{12}{}}{0}%
 {%

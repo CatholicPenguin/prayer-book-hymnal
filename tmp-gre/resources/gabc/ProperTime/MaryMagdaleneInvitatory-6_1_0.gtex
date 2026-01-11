@@ -13,7 +13,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{13e64bb23d95f4651f0255d293e7ffd1d88d84a9}{13}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{d365198cacded327a7586d16b133685b06480034}{13}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{8}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -209,7 +209,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{sh}{e}{}{s}{he}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{ou}{red}{p}{oured}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{sh}{e}{}{s}{he}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{ou}{r'd}{p}{our'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{6}{\GreNextCustos{5}{}}{0}%
 {%
@@ -217,7 +217,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{p}{ou}{red}{p}{oured}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{p}{ou}{r'd}{p}{our'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{5}{\GreNextCustos{9}{}}{0}%
 {%
@@ -278,14 +278,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{a}{}{a}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{o}{red\GreProtrusion{\GreProtrusionFactor{period}}{.}}{d}{ored\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{a}{}{a}{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{d}{o}{r'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}{d}{or'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{d}{o}{red\GreProtrusion{\GreProtrusionFactor{period}}{.}}{d}{ored\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{d}{o}{r'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}{d}{or'd\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{17}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%

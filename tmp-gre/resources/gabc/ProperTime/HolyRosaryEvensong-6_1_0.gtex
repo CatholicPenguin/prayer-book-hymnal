@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{8d629ce85836a8105afae53add36cd9076505d6f}{14}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{ee99746c65530cfd89e1eea464bdee4b0afe6088}{14}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{2}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -458,12 +458,12 @@
 }{}%
 }%
 %
-\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Th'}{e}{n}{T}{h'en}}{}{{0}{0}}{}{%
+\GreBarSyllable{\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{Th' }{e}{n}{T}{h' en}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{0}%
 \GreDivisioMinor{0}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{Th'}{e}{n}{T}{h'en}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{cl}{o}{}{c}{lo}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{Th' }{e}{n}{T}{h' en}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{cl}{o}{}{c}{lo}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{13}{\GreNextCustos{13}{}}{0}%
 {%
@@ -1180,14 +1180,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{r}{a}{n}{r}{an}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{o}{med}{s}{omed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{a}{n}{r}{an}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{s}{o}{m'd}{s}{om'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOneNothing}{11}{\GreNextCustos{9}{}}{8}%
 {%
 \GreGlyphHeights{11}{10}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{s}{o}{med}{s}{omed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{e}{re\GreProtrusion{\GreProtrusionFactor{period}}{.}}{t}{here\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{s}{o}{m'd}{s}{om'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{th}{e}{re\GreProtrusion{\GreProtrusionFactor{period}}{.}}{t}{here\GreProtrusion{\GreProtrusionFactor{period}}{.}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{10}{}}{0}%
 {%

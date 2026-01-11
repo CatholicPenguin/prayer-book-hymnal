@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{01ee806bae43d8bd4b741ad572f303ede0dab876}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{c80164cf937b7dcfea69b43f4141a02bb748e839}{11}{5}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -37,14 +37,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{r}{e}{}{r}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{fr}{e}{shed}{f}{reshed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{r}{e}{}{r}{e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{fr}{e}{sh'd}{f}{resh'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{fr}{e}{shed}{f}{reshed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{w}{i}{th}{w}{ith}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{fr}{e}{sh'd}{f}{resh'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{w}{i}{th}{w}{ith}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{7}{}}{0}%
 {%
@@ -790,7 +790,7 @@
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{B}{e}{}{B}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{u}{rged}{p}{urged}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{B}{e}{}{B}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{p}{u}{rg'd}{p}{urg'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
@@ -798,7 +798,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{p}{u}{rged}{p}{urged}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{b}{y}{}{b}{y}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{p}{u}{rg'd}{p}{urg'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{b}{y}{}{b}{y}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%
@@ -1087,7 +1087,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{b}{e}{}{b}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{pr}{ai}{sed}{p}{raised}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{b}{e}{}{b}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{pr}{ai}{s'd}{p}{rais'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{9}{}}{0}%
 {%
@@ -1095,7 +1095,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{pr}{ai}{sed}{p}{raised}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{f}{o}{r}{f}{or}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{pr}{ai}{s'd}{p}{rais'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{f}{o}{r}{f}{or}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{7}{}}{0}%
 {%

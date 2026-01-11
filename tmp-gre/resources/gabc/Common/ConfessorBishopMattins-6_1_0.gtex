@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{4b84bfcbd6b71941248f0d928a423298c3896994}{12}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{6b7266b6aff5e1f81d58a1b951d347d0b920a645}{12}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{4}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -419,14 +419,14 @@
 }{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{a}{t}{a}{t}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{ai}{ned}{t}{ained}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{a}{t}{a}{t}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{ai}{n'd}{t}{ain'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{9}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{t}{ai}{ned}{t}{ained}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{}{a}{}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{ai}{n'd}{t}{ain'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{a}{}{a}{}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{4}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -763,14 +763,14 @@
 }{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{e}{s}{e}{s}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ch}{ewe}{d\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}{c}{hewed\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{e}{s}{e}{s}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{ch}{ew}{'d\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}{c}{hew'd\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{10}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{ch}{ewe}{d\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}{c}{hewed\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{12}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{ch}{ew}{'d\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}{c}{hew'd\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{12}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{10}{}}{0}%
 {%

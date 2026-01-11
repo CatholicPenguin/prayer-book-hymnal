@@ -14,7 +14,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{0}%
 \GreEndHeaders %
-\GreBeginScore{5e43f8fb1a34c471185974b0ad7ae282b35e33f9}{13}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{8e305c176a09646c9714b0c6c19e71f890e7637b}{13}{4}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{1}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -465,14 +465,14 @@
 }{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{a}{p}{a}{p}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{a}{lled}{p}{alled}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{a}{p}{a}{p}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{p}{a}{ll'd}{p}{all'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{p}{a}{lled}{p}{alled}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{e}{r\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}{h}{er\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{p}{a}{ll'd}{p}{all'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{e}{r\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}{h}{er\GreProtrusion{\GreProtrusionFactor{semicolon}}{;}}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{7}{\GreNextCustos{6}{}}{0}%
 {%
@@ -683,14 +683,14 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{a}{t}{a}{t}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{ai}{ned}{t}{ained}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{a}{t}{a}{t}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{ai}{n'd}{t}{ain'd}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{8}{\GreNextCustos{7}{}}{0}%
 {%
 \GreGlyphHeights{8}{8}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{t}{ai}{ned}{t}{ained}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{sh}{e}{}{s}{he}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{ai}{n'd}{t}{ain'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{sh}{e}{}{s}{he}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOpenqueueOneNothing}{7}{\GreNextCustos{5}{}}{8}%
 {%

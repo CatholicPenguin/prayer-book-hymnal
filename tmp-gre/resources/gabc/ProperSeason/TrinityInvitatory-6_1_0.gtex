@@ -13,7 +13,7 @@
 \GreHeader{transcriber}{Augustine Watson}%
 \GreHeader{initial-style}{1}%
 \GreEndHeaders %
-\GreBeginScore{9a7335d916f14155e1ca71dc1530d67c87947593}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{6ce3de2480c445e3f592d85c227cee5e891aed74}{12}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{8}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -67,7 +67,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{i}{s}{i}{s}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{sw}{aye}{d}{s}{wayed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{i}{s}{i}{s}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{sw}{ay}{'d}{s}{way'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{9}{}}{0}%
 {%
@@ -75,7 +75,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{sw}{aye}{d}{s}{wayed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{sw}{ay}{'d}{s}{way'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{}{}{}{}}{}{{11}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%
@@ -367,14 +367,14 @@
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{}{I}{n}{I}{n}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{fl}{a}{med}{f}{lamed}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{I}{n}{I}{n}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{fl}{a}{m'd}{f}{lam'd}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPPesOneNothing}{9}{\GreNextCustos{9}{}}{0}%
 {%
 \GreGlyphHeights{10}{9}%
 }{}{}%
 }%
-\GreSyllable{\GreSetThisSyllable{fl}{a}{med}{f}{lamed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{w}{i}{th}{w}{ith}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{fl}{a}{m'd}{f}{lam'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{w}{i}{th}{w}{ith}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{2}%
 \GreGlyph{\GreCPFlexusOneNothing}{9}{\GreNextCustos{6}{}}{8}%
 {%
