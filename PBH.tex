@@ -1,4 +1,4 @@
-\documentclass[10pt]{book}
+\documentclass[11pt]{book}
 \usepackage[paperwidth=6in, paperheight=9in,bindingoffset=5mm,%having an inner margin offset prevents text falling into the gutter
 inner=20mm,
 outer=20mm,
@@ -15,7 +15,7 @@ heightrounded]{geometry}
 	
 %To ensure language compatibility.
 	\usepackage[utf8]{inputenc}
-	\usepackage[greek,latin,british]{babel}
+	\usepackage[greek,ecclesiasticallatin.usej,british]{babel}
 
 %To change tracking and tighten up spacing:
 	\usepackage{microtype}
@@ -27,8 +27,7 @@ heightrounded]{geometry}
 	\usepackage[strict]{changepage}
 	\usepackage{scrextend}
 	
-%URL
-	\usepackage[hidelinks]{hyperref}	
+
 
 %Page Headers
 	\usepackage{fancyhdr}
@@ -87,6 +86,15 @@ heightrounded]{geometry}
 
 	%Colour
 	\usepackage[svgnames,dvipsnames]{xcolor}
+	
+	%Liturgical Colours:
+	\definecolor{SarumBlue}{cmyk}{0.95, 0.74, 0.07, 0.44}
+	\definecolor{LentenViolet}{cmyk}{0.36, 0.65, 0, 0.5}
+	\definecolor{GreenSeason}{cmyk}{0.73, 0.40, 0.73, 0.27}
+	\definecolor{FestiveWhite}{cmyk}{0.30, 0.40, 0.9, 0.25}
+	\definecolor{MartyrRed}{cmyk}{0, 0.6, 0.6, 0.55}
+	\definecolor{MournfulBlack}{cmyk}{0.4, 0.3, 0.3, 1}
+	\definecolor{JoyfulRose}{cmyk}{0.27, 0.74, 0.59, 0.25}
 
 	%Changes to the Table of Contents
 	\addto\captionsbritish{\renewcommand{\contentsname}{Table of Contents}}
@@ -130,6 +138,10 @@ heightrounded]{geometry}
 	%For rubrics right after sections
 	\newenvironment{secrubric}{\par\noindent\small\ignorespaces\color{RubricRed}\P}
 	{\par\normalsize\smallskip\ignorespacesafterend}
+	
+	%Rubrics in Hymns (or also Commons)
+	\newenvironment{hymnRubric}{\par\vspace{0.5\baselineskip}\par\noindent\color{RubricRed}\small\ignorespaces\P}
+		{\par\normalsize\vspace{0.5\baselineskip}\ignorespacesafterend}
 	
 	%Inline Rubric
 	\newcommand{\inrub}[1]{{{\color{RubricRed}\small(#1)}}}
@@ -241,20 +253,6 @@ heightrounded]{geometry}
 					\vspace{1\baselineskip}
 				\fi
 			\fi}
-	
-
-%Replacing page references, now that the Book of Common Prayer is now published. The Missal page numbers will be added once that is published.
-
-\newcommand{\SPMaryAdvent}{BCP 541}
-\newcommand{\SPMaryChristmas}{BCP 541}
-\newcommand{\SPMaryEaster}{BCP 542}
-\newcommand{\SPSaints}{BCP 542}
-\newcommand{\SPAgainst}{BCP 543}
-\newcommand{\SPChiefBishop}{BCP 543}
-\newcommand{\SPHolyGhost}{BCP 544}
-\newcommand{\SPLiving}{BCP 544}
-\newcommand{\Lammas}{BCP 477}
-\newcommand{\AllHallows}{BCP 532}
 
 	
 	%Ensure that short paragraphs don't lead to text moving into drop cap.
@@ -298,25 +296,42 @@ heightrounded]{geometry}
 	\usepackage[super]{nth} %To add superscript to ordinal numeral.
 	
 	%Rank, Date, Name for Feast Days
-	\newcommand{\festival}[3]{\par\subsection{#2. #3}
+	\newcommand{\festival}[5]{\par\subsection{{\color{#5}#2. #3,} {{\color{RubricRed}#4}}}
+	
+	\begin{inhead}
+		#1
+	\end{inhead}}
+	
+	%Rank, Date, Name for Feast Days, for Proper of Seasons, so without saint marker
+	\newcommand{\festivalSeason}[5]{\par\subsection{{\color{#5}#2. #3,} {{\color{RubricRed}#4}}}
 	
 	\begin{inhead}
 		#1
 	\end{inhead}}
 	
 	
-%For typesetting Memorials
-\newcommand{\subbymemorial}[2]{%
-\subsection{(#1. #2)}}
-
-%To indicate and format a Festival already in the Book of Common Prayer:
-\newcommand{\bcpfeast}[3]{\subsection{[#1]}%
-%Feast Day:
-\fancyhead[RO,LE]{\textit{#2}}%
-%Feast Date:
-\fancyhead[RE,LO]{#3}}
-
-
+	%Rank, Date, Name for Feast Days of Our Lord and Our Lady, therefore not needing a saint type specification
+	\newcommand{\festivalLL}[3]{\par\subsection{{\color{FestiveWhite}#2. #3}}
+	
+	\begin{inhead}
+		#1
+	\end{inhead}}
+	
+	%Rank, Date, Name for Feast Days of Angels or Others, therefore not needing a saint type specification
+	\newcommand{\festivalAO}[3]{\par\subsection{{\color{FestiveWhite}#2. #3}}
+	
+	\begin{inhead}
+		#1
+	\end{inhead}}
+	
+	%For typesetting Memorials
+	\newcommand{\subbymemorial}[4]{\subsection{({\color{#4}#1. #2,} {\color{RubricRed}#3})}}
+	
+	%For typesetting Memorials, for those without Feast type marker
+	\newcommand{\subbymemorialO}[3]{\subsection{({\color{#3}#1. #2})}}
+	
+	\newcommand{\subbysubsub}[1]{\par\vspace{1\baselineskip}\par
+	{\centerline{\textbf{\color{RubricRed}#1}}}\par}
 
 	%Headings for the Propers
 	\newcommand{\feastday}[1]{\fancyhead[RO,LE]{\textit{#1}}} %Feast Name
@@ -335,69 +350,12 @@ heightrounded]{geometry}
 	%To create hanging indent for Hymns.
 	\usepackage{hanging}
 	
-	%Introit
-	\newcommand{\introit}[0]{\subsubsection{Introit}}
-	
 	%Collect
 	\newcommand{\collect}[0]{\subsubsection{Collect}}
 
-	%Readings
-	\newcommand{\readingcitation}[2]{\subsubsection{#1. \emph{#2}}}
-	
 	%Divine Name in Readings
 	\newcommand{\divineName}[1]{\textsc{\lowercase{#1}}}
 	
-	%Gradual \& Alleluia
-	\newcommand{\gradall}[2]{\gradual{#1}\par\alleluia{#2}}
-	
-	%Gradual \& Tract
-	\newcommand{\gradtr}[2]{\gradual{#1}\par\tract{#2}}
-	
-	%Alleluia Verse
-	\newcommand{\alleluia}[1]{\vspace{1ex}\par\noindent
-		\emph{Alleluia.} #1}
-	%Gradual
-	\newcommand{\gradual}[1]{\vspace{1ex}\par\noindent
-		\emph{Gradual.} #1}
-		
-	%Tract
-	\newcommand{\tract}[1]{\vspace{1ex}\par\noindent
-		\emph{Tract.} #1}
-		
-    %Offertory
-    \newcommand{\offertory}[1]{\vspace{1ex}\par\noindent
-		\emph{Offertory.} #1}
-		
-	%Secret
-	\newcommand{\secret}[0]{\subsubsection{Secret}}
-
-	%Communion
-	\newcommand{\communion}[1]{\vspace{1ex}\par\noindent
-    	\emph{Communion.} #1}
-	
-	%Postcommunion
-	\newcommand{\postcommunion}[0]{\subsubsection{Postcommunion}}
-		
-	%Antiphons
-	\newcommand{\antiphon}[2]{{\centering \textit{#1 Ant.} #2}}
-	
-	%Do I need?
-	\newcommand{\properantiphon}[2]{{\centering \textit{#1 Ant.} #2}}
-	
-	%Invitatory Hymn Heading
-	\newcommand{\invitatoryhymn}{%
-		\begin{inhead}
-			Invitatory Hymn
-		\end{inhead}}
-
-	%Office Hymn Heading
-	\newcommand{\officehymn}{\par\vspace{0.1\baselineskip}%
-		\begin{inhead}
-			Office Hymn
-		\end{inhead}
-		\par
-		\vspace{-0.1\baselineskip}}
-
 
 \usepackage{paracol} %To provide balanced English-Latin dual paragraphs
 \usepackage[grid]{multicol} %For non bilingual dual columns.
@@ -476,8 +434,116 @@ heightrounded]{geometry}
 	\centerline{\textit{Orémus.}}
 	\par}
 	
+
 	
 	
+	%Opening Sentence
+	\newcommand{\openingSentence}[1]{\par\noindent
+	\textit{Opening Sentence.} #1\\
+	\par}
+	
+	%Psalm Antiphon
+	\newcommand{\psalmAntiphon}[1]{\par\noindent
+	\textit{Ps. Ant.} #1}
+	
+	%Antiphons
+	\newcommand{\antiphon}[2]{\par\noindent
+	\textit{#1 Ant.} #2}
+	
+	%Relic command, same as \antiphon
+	\newcommand{\properantiphon}[2]{{\par\noindent
+	\textit{#1 Ant.} #2}}
+	
+	%For Mattins:
+	\newcommand{\mattinsAntiphon}[1]{\par\noindent
+	\textit{Ben. Ant.} #1}
+	
+	%For First Evensong:
+	\newcommand{\firstEvensongAntiphon}[1]{\par\noindent
+	\textit{Mag. Ant.} #1}
+	
+	%For Second Evensong:
+	\newcommand{\secondEvensongAntiphon}[1]{\par\noindent
+	\textit{Mag. Ant.} #1}
+	
+
+%Hymns:
+	%Invitatory Hymn Heading
+	\newcommand{\invitatoryhymn}{%
+		\begin{inhead}
+			Invitatory Hymn
+		\end{inhead}}
+
+	%Office Hymn Heading
+	\newcommand{\officehymn}{\par\vspace{0.1\baselineskip}%
+		\begin{inhead}
+			Office Hymn
+		\end{inhead}
+		\par
+		\vspace{-0.1\baselineskip}}
+
+%New Commands for Office parts:
+	\newcommand{\mattins}[0]{\subsubsection{Mattins}}
+	\newcommand{\firstEvensong}[0]{\subsubsection{I Evensong}}
+	\newcommand{\secondEvensong}[0]{\subsubsection{II Evensong}}
+	
+	\newcommand{\firstEvensongHymn}{\par\vspace{1\baselineskip}\par
+	{\centerline{\textbf{\color{RubricRed}Office Hymn}}}
+	\par}
+	
+	%When the Invitatory itself changes:
+	\newcommand{\mattinsInvitatory}[1]{\par\vspace{1\baselineskip}\par
+	{\centerline{\textbf{\color{RubricRed}#1}}}\par}
+	
+	\newcommand{\mattinsInvitatoryHymn}{\par\vspace{1\baselineskip}\par
+	{\centerline{\textbf{\color{RubricRed}Invitatory Hymn}}}\par}
+	
+	\newcommand{\mattinsOfficeHymn}{\par\vspace{1\baselineskip}\par
+	{\centerline{\textbf{\color{RubricRed}Office Hymn}}}\par}
+	
+	\newcommand{\secondEvensongHymn}{\par\vspace{1\baselineskip}\par{\centerline{\textbf{\color{RubricRed}Office Hymn}}}
+	\par}
+
+
+	%To indicate Seasons in the Proper of Season:
+	
+	\newcommand{\seasonSection}[1]{\clearpage\section{#1}}
+	
+	%Heading for each individual day in the Proper of Season
+	
+	\newcommand{\seasonSubsection}[3]{\subsection{{\color{#3}#2}}
+	\begin{inhead}
+		#1
+	\end{inhead}}
+
+	%For Proper of Season days with dates
+	\newcommand{\seasonalFestival}[4]{\subsection{{\color{#4}#2. #3}}
+	\begin{inhead}
+		#1
+	\end{inhead}}
+	
+	%Special Proper of Season without inhead nor date
+	\newcommand{\seasonalFestivalNoHead}[2]{\subsection{{\color{#2}#1}}}
+	
+		%Special Proper of Season without inhead
+	\newcommand{\seasonalFestivalDateNoHead}[3]{\subsection{{\color{#3}#1. #2}}}
+	
+	%For Lenten Ferias:
+	\newcommand{\lentenheading}[2]{\par\subsection{{\color{LentenViolet}#2}}
+	\feastday{#1}}
+	
+	%Collects for Memorials \& Vigils (no heading):
+	\newcommand{\memorialCollect}[0]{}
+	\newcommand{\vigilCollect}[0]{}
+	
+	%BCP Page Numbers:
+	\newcommand{\BCPGreatLitany}[0]{BCP 94}
+	\newcommand{\BCPPenitentialOffice}[0]{BCP 99}
+	
+	%URL
+	\usepackage[hidelinks]{hyperref}	
+	\usepackage{bookmark}
+
 \begin{document}
 \begin{titlepage}
 		\begin{center}
@@ -498,54 +564,49 @@ heightrounded]{geometry}
 			\begin{figure}[H]
 				\centering
 				\includegraphics[scale=.17]{logo.eps}
-				\caption{\scshape Apologia Anglicana\\Boston, Massachusetts\\
-				A. D. MMXXV}
+				\caption{\scshape Apologia Anglicana\\Rockland, Maine\\
+				A. D. MMXXVI}
 			\end{figure}
 		
 	\end{titlepage}
-\cleardoublepage
-\pagenumbering{gobble}
-%~\clearpage
-\tableofcontents
-\addtocontents{toc}{\vspace*{-3ex}}%
-\clearpage
-%This is to ensure two odd-numbered pages are not right next to each other:
-%\clearpage
-%\checkoddpage
-%\ifoddpage \else
-%\fi
-%Roman numeral page numbers for the front material.
+	\clearpage
+	\pagenumbering{gobble}
 \include{pages/Copyright.tex}
-%\include{pages/Foreword.tex}
 \include{pages/Preface.tex}
-%\include{pages/Dedication.tex}
-
-%\include{pages/FrequentPrayers.tex}
-
+\clearpage
+\fancyhead[C]{}
+\tableofcontents
 %Office Hymns
 \cleardoublepage
+\frontmatter
+\setcounter{page}{1}
 \include{pages/Daily_Office/DailyHymns.tex}
 \include{pages/Propers/FerialHymns.tex}
 %Liturgical Hymns
 \cleardoublepage
-\include{pages/Daily_Office/LiturgicalHymnsFront.tex}
-\include{pages/Propers/MassParts.tex}
+\include{pages/Daily_Office/DailyOfficeCover.tex}
+\include{pages/Daily_Office/DailyOffice.tex}
+\cleardoublepage
+\include{pages/Mass/HolyMassCover.tex}
+\include{pages/Mass/HolyCommunion.tex}
 %Devotional Hymns
 \cleardoublepage
 \include{pages/Propers/Devotion.tex}
 \include{pages/Propers/DevotionalHymns.tex}
 %Propers of Season and Saints
 \cleardoublepage
-\include{pages/Propers/Propers.tex}
-\include{pages/Propers/HolyWeek.tex}
-\include{pages/Propers/PropSeason.tex}
-\include{pages/Propers/PropTime.tex}
+\include{pages/Propers/TemporaleCover.tex}
+\include{pages/Propers/Temporale.tex}
+\include{pages/Propers/SanctoraleCover.tex}
+\include{pages/Propers/Sanctorale.tex}
 %Common of Saints
 \cleardoublepage
 \include{pages/Propers/Commons.tex}
 \include{pages/Propers/Common.tex}
 %\include{pages/Propers/Seasonal.tex}
 %Hymn Index
+\cleardoublepage
+\include{pages/HymnCopyright.tex}
 \cleardoublepage
 \include{pages/HymnIndex.tex}
 %\cleardoublepage
