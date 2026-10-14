@@ -324,6 +324,13 @@ heightrounded]{geometry}
 		#1
 	\end{inhead}}
 	
+	%Vigils
+	\newcommand{\festivalVigil}[3]{\par\subsection{{\color{LentenViolet}#2. #3}}
+	
+	\begin{inhead}
+		#1
+	\end{inhead}}
+	
 	%For typesetting Memorials
 	\newcommand{\subbymemorial}[4]{\subsection{({\color{#4}#1. #2,} {\color{RubricRed}#3})}}
 	
@@ -570,16 +577,15 @@ heightrounded]{geometry}
 		
 	\end{titlepage}
 	\clearpage
-	\pagenumbering{gobble}
+\frontmatter
 \include{pages/Copyright.tex}
-\include{pages/Preface.tex}
 \clearpage
 \fancyhead[C]{}
 \tableofcontents
+\clearpage
+\include{pages/Preface.tex}
 %Office Hymns
 \cleardoublepage
-\frontmatter
-\setcounter{page}{1}
 \include{pages/Daily_Office/DailyHymns.tex}
 \include{pages/Propers/FerialHymns.tex}
 %Liturgical Hymns
