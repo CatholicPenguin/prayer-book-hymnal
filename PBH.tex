@@ -15,7 +15,7 @@ heightrounded]{geometry}
 	
 %To ensure language compatibility.
 	\usepackage[utf8]{inputenc}
-	\usepackage[greek,ecclesiasticallatin.usej,british]{babel}
+	\usepackage[ecclesiasticallatin.usej,british]{babel}
 
 %To change tracking and tighten up spacing:
 	\usepackage{microtype}
@@ -44,7 +44,7 @@ heightrounded]{geometry}
 
 
 %Try to avoid warnings:
-\setlength{\headheight}{17.13pt}
+\setlength{\headheight}{22pt}
 
 
 %Change section format:
@@ -76,8 +76,6 @@ heightrounded]{geometry}
 	%Image Configuration
 	\usepackage{graphicx}
 	\graphicspath{{resources/images}}
-	\usepackage{wrapfig}
-	\usepackage{epsfig}
 	
 	%For Devotional Hymns
 	\usepackage{pdfpages}
@@ -88,7 +86,7 @@ heightrounded]{geometry}
 	\usepackage{float}
 
 	%Colour
-	\usepackage[svgnames,dvipsnames]{xcolor}
+	\usepackage[cmyk,svgnames,dvipsnames]{xcolor}
 	
 	%Liturgical Colours:
 	\definecolor{SarumBlue}{cmyk}{0.95, 0.74, 0.07, 0.44}
@@ -98,12 +96,13 @@ heightrounded]{geometry}
 	\definecolor{MartyrRed}{cmyk}{0, 0.6, 0.6, 0.55}
 	\definecolor{MournfulBlack}{cmyk}{0.4, 0.3, 0.3, 1}
 	\definecolor{JoyfulRose}{cmyk}{0.27, 0.74, 0.59, 0.25}
+	\definecolor{BuiltBlack}{cmyk}{0.4, 0.3, 0.3, 1}
 
 	%Changes to the Table of Contents
 	\addto\captionsbritish{\renewcommand{\contentsname}{Table of Contents}}
 	\setcounter{tocdepth}{1} %Only chapters & sections are added to the TOC
-	\usepackage{tocloft}
-	\setlength{\cftbeforetoctitleskip}{-8ex}
+	\usepackage[titles]{tocloft}
+	
 
 	%For quotations in the Foreword and Editor's Preface:
 	\usepackage{quoting}
@@ -146,101 +145,20 @@ heightrounded]{geometry}
 	\newenvironment{hymnRubric}{\par\vspace{0.5\baselineskip}\par\noindent\color{RubricRed}\small\ignorespaces\P}
 		{\par\normalsize\vspace{0.5\baselineskip}\ignorespacesafterend}
 	
-	%Inline Rubric
-	\newcommand{\inrub}[1]{{{\color{RubricRed}\small(#1)}}}
-	
 	%Determine Marginnote parameters
 	\setlength{\marginparwidth}{15mm} % Set the width of the margin note
 	\setlength{\marginparsep}{2mm} % Set the spacing between the margin note and the text
-	\usepackage{marginnote}
-
-	%Margin Rubric on Odd Pages
-	
-	\newcounter{alphacount} %Counter to convert number to letter
-\newcommand{\margrub}[2]{\setcounter{alphacount}{#1}\textsuperscript{\alph{alphacount}}%
-	\marginpar{\begin{minipage}{0.65\marginparwidth}
-	\sloppy%
-	\itshape%
-	\scriptsize%
-	\textsuperscript{\alph{alphacount}}%
-	#2
-	\fussy
-	\end{minipage}}
-  \hspace{-0.2em}}
- 
-  
-  	%Margin Rubric on Even Pages
-  \newcommand{\margrubleft}[2]{\setcounter{alphacount}{#1}\textsuperscript{\alph{alphacount}}%
-	\marginpar{\RaggedLeft%
-	\sloppy%
-	\itshape%
-	\scriptsize%
-	\textsuperscript{\alph{alphacount}}%
-	#2%
-	\fussy}
-  	\hspace{-0.2em}}
-  
-  	%Margin Rubric in Column Contexts (English Column)
-  \newcommand{\margcolrub}[2]{\setcounter{alphacount}{#1}%
-	\textsuperscript{\alph{alphacount}}%
-	\Ifthispageodd{\reversemarginpar
-	\marginpar{%
-	\raggedright%
-	\sloppy%
-	\itshape%
-	\scriptsize%
-	    \textsuperscript{\alph{alphacount}}%
-	    #2\hspace{-0.2em}%
-	    \fussy}
-	    }{\normalmarginpar
-	    \marginpar{%
-		\raggedleft%
-		\sloppy%
-		\itshape%
-		\scriptsize%
-		\textsuperscript{\alph{alphacount}}%
-	    #2\hspace{-0.2em}%
-	    \fussy}}}
-  
-  %Really just a placeholder in case it becomes relevant later in the latin side of a double column:
-  \newcommand{\marglatincolrub}[2]{\setcounter{alphacount}{#1}\textsuperscript{\alph{alphacount}}\hspace{-0.2em}}
-	
-		%Margin Rubric without letter/number.
-	  \newcommand{\margy}[1]{\marginpar{\RaggedRight%
-		\sloppy%
-		\itshape%
-		\scriptsize%
-		#1%
-		\fussy}}
-		
-		%Margin Rubric without letter/number, on the left side (even numbered page).
-	  	\newcommand{\margyleft}[1]{\marginpar{\RaggedLeft%
-		\sloppy%
-		\itshape%
-		\scriptsize%
-		#1%
-		\fussy}}
-  
-  
+	\usepackage{marginnote}  
 		
 	  
 	%Kalendar \& Lectionary
 	\usepackage{array}
-	\usepackage{longtable} %Allows lectionary cells to go over multiple pages
-	\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
-	\newcolumntype{L}[1]{>{\RaggedRight\arraybackslash}p{#1}}
-	
-		%Lectionary Evensong
-		\newcommand{\evensong}[1]{Evensong}
 	
 	%Scriptural Citations in Mass
 	\newcommand{\vr}[1]{{\footnotesize{ (#1)}}}
 	
 	%Disable \vr
 	\newcommand{\novr}[1]{}
-	
-	%Invitatory
-	\newcommand{\inv}[1]{{\color{RubricRed}#1.}}
 
 %Propers:
 
@@ -340,9 +258,6 @@ heightrounded]{geometry}
 	%For typesetting Memorials, for those without Feast type marker
 	\newcommand{\subbymemorialO}[3]{\subsection{({\color{#3}#1. #2})}}
 	
-	\newcommand{\subbysubsub}[1]{\par\vspace{1\baselineskip}\par
-	{\centerline{\textbf{\color{RubricRed}#1}}}\par}
-
 	%Headings for the Propers
 	\newcommand{\feastday}[1]{\fancyhead[RO,LE]{\textit{#1}}} %Feast Name
 	
@@ -350,9 +265,6 @@ heightrounded]{geometry}
 	
 	%Psalm Numbers
 	\newcommand{\psanum}[1]{{\small{#1}} }
-	
-	%For drawing boxes around unapproved text:
-	\usepackage[most]{tcolorbox}
 	
 	%To make sure versicle and response start with indent.
 	\usepackage{indentfirst}
@@ -373,77 +285,6 @@ heightrounded]{geometry}
 
 %Prevent lettrine misalignment:
 \raggedbottom
-
-%English-Latin Double Column
-\newcommand{\elcol}[2]{\sloppy
-	\begin{paracol}{2}
-		\begin{leftcolumn}
-			#1
-		\end{leftcolumn}
-		\begin{rightcolumn}
-			\selectlanguage{latin}%
-			#2
-		\end{rightcolumn}
-		\switchcolumn*
-	\end{paracol}
-\selectlanguage{british}
-\fussy}
-
-%English-Latin Non-Indented Column
-\newcommand{\elcoldent}[2]{\sloppy
-	\begin{paracol}{2}
-		\begin{leftcolumn}
-		\noindent%
-			#1	
-		\end{leftcolumn}
-		\begin{rightcolumn}
-                \selectlanguage{latin}%
-			\noindent
-			#2
-		\end{rightcolumn}
-		\switchcolumn*
-	\end{paracol}
-\selectlanguage{british}
-\fussy}
-
-%For difference between through the year and in eastertide:
-\newcommand{\ttyie}[2]{\sloppy
-	\begin{paracol}{2}
-		\begin{leftcolumn}\noindent
-			#1	
-		\end{leftcolumn}
-		\begin{rightcolumn}\noindent
-			#2
-		\end{rightcolumn}
-		\switchcolumn*
-	\end{paracol}
-\selectlanguage{british}
-\fussy}
-
-%Expedites adding dual language Oremus/Let Us Pray
-\newcommand{\oremus}[0]{\par
-	\begin{paracol}{2}
-		\begin{leftcolumn}
-			\selectlanguage{british}\noindent%
-			\centerline{\textit{Let us pray.}}
-		\end{leftcolumn}
-		\begin{rightcolumn}
-			\selectlanguage{latin}\noindent%
-			\centerline{\textit{Orémus.}}
-		\end{rightcolumn}
-		\switchcolumn*
-	\end{paracol}
-\selectlanguage{british}}
-
-%Does the same as above, but for single language collects:
-\newcommand{\letuspray}[0]{\par\noindent
-	\centerline{\textit{Let us pray.}}
-	\par}
-
-\newcommand{\oremuslatin}[0]{\par\noindent
-	\centerline{\textit{Orémus.}}
-	\par}
-	
 
 	
 	
@@ -475,22 +316,7 @@ heightrounded]{geometry}
 	%For Second Evensong:
 	\newcommand{\secondEvensongAntiphon}[1]{\par\noindent
 	\textit{Mag. Ant.} #1}
-	
 
-%Hymns:
-	%Invitatory Hymn Heading
-	\newcommand{\invitatoryhymn}{%
-		\begin{inhead}
-			Invitatory Hymn
-		\end{inhead}}
-
-	%Office Hymn Heading
-	\newcommand{\officehymn}{\par\vspace{0.1\baselineskip}%
-		\begin{inhead}
-			Office Hymn
-		\end{inhead}
-		\par
-		\vspace{-0.1\baselineskip}}
 
 %New Commands for Office parts:
 	\newcommand{\mattins}[0]{\subsubsection{Mattins}}
@@ -553,17 +379,28 @@ heightrounded]{geometry}
 	%URL
 	\usepackage[hidelinks]{hyperref}	
 	\usepackage{bookmark}
+	\usepackage{xurl}
+
+
+	\makeatletter
+\renewcommand\tableofcontents{%
+  \clearpage
+  \fancyhead[C]{\LARGE\contentsname}
+  \@starttoc{toc}%
+}
+\makeatother
 
 \begin{document}
+\frontmatter
 \begin{titlepage}
 		\begin{center}
-			{\Large{The}}
+			{\Large\textcolor{BuiltBlack}{The}}
 			\par
 			\vspace{.4cm}
-			{\Huge{\scshape Prayer Book}}
+			{\Huge\textcolor{BuiltBlack}{\scshape Prayer Book}}
 			\par
 			\vspace{.4cm}
-			{\Huge{\scshape Hymnal}}
+			{\Huge\textcolor{BuiltBlack}{\scshape Hymnal}}
 			\par
 			\vspace{.4cm}
 			{\large{\textit{A Supplement of Hymns \& Propers for the Book of Common Prayer}}}
@@ -580,10 +417,8 @@ heightrounded]{geometry}
 		
 	\end{titlepage}
 	\clearpage
-\frontmatter
 \include{pages/Copyright.tex}
 \clearpage
-\fancyhead[C]{}
 \tableofcontents
 \clearpage
 \include{pages/Preface.tex}
@@ -614,10 +449,10 @@ heightrounded]{geometry}
 \include{pages/Propers/Common.tex}
 %\include{pages/Propers/Seasonal.tex}
 %Hymn Index
-\cleardoublepage
+\clearpage
 \include{pages/HymnCopyright.tex}
-\cleardoublepage
+\clearpage
 \include{pages/HymnIndex.tex}
-%\cleardoublepage
+\clearpage
 \include{pages/Back.tex}
 \end{document}
